@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import ConversionOutput from './ConversionOutput'
+import ConversionOutput from './ConversionOutput.jsx'
 import digitsToEnglish from '../lib/logic/digitsToEnglish'
 
 const _convertValue = (inVal) => {

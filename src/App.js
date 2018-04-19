@@ -1,8 +1,7 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
 import digitsToEnglishFrom from './lib/logic/digitsToEnglish'
-import ConversionComponent from './components/ConversionComponent'
+import ConversionComponent from './components/ConversionComponent.jsx'
 
 class App extends Component {
   render() {
