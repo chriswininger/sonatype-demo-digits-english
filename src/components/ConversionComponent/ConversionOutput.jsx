@@ -2,7 +2,7 @@ import React from 'react'
 
 export  default (props) => {
     return (
-      <div className="wrapper-output-eng-text">
+      <section className="wrapper-output-eng-text">
           <div>
             <p className="output-eng-text">{ props.value }</p>
           </div>
@@ -20,6 +20,6 @@ export  default (props) => {
             color: red
           }
         `}</style>
-      </div>
+      </section>
     )
 }

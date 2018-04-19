@@ -54,7 +54,7 @@ export default (strInput) => {
 
     if (len > 18)
         throw new RangeError(
-          'this library currently only supports whole numbers between 999999999999999999 and - 999999999999999999')
+          'this library currently only supports whole numbers between -999999999999999999 and 999999999999999999')
 
     // special base case for single 0
     if (strNum === '' && lenBeforeTrim > 0)
