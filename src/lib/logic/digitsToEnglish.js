@@ -81,6 +81,10 @@ export default (strInput) => {
                   placeSeparator + strOutput
             }
 
+            // prepend the and separator if we're looking at a right-most number < 100 (1001 => one thousand and one)
+            if (i === len -1 && strNum[i - 2] === '0' && (strNum[i - 1] !== '0' || strNum[i] !== '0'))
+                strOutput = 'and ' + strOutput
+
             i = i - 3
             significancePos++
         }

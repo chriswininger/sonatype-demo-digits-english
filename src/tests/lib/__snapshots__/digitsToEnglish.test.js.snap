@@ -2060,203 +2060,203 @@ exports[`handles 1-9999 -- partial range test 1000`] = `"nine hundred and ninety
 
 exports[`handles 1-9999 -- partial range test 1001`] = `"one thousand"`;
 
-exports[`handles 1-9999 -- partial range test 1002`] = `"one thousand one"`;
+exports[`handles 1-9999 -- partial range test 1002`] = `"one thousand and one"`;
 
-exports[`handles 1-9999 -- partial range test 1003`] = `"one thousand two"`;
+exports[`handles 1-9999 -- partial range test 1003`] = `"one thousand and two"`;
 
-exports[`handles 1-9999 -- partial range test 1004`] = `"one thousand three"`;
+exports[`handles 1-9999 -- partial range test 1004`] = `"one thousand and three"`;
 
-exports[`handles 1-9999 -- partial range test 1005`] = `"one thousand four"`;
+exports[`handles 1-9999 -- partial range test 1005`] = `"one thousand and four"`;
 
-exports[`handles 1-9999 -- partial range test 1006`] = `"one thousand five"`;
+exports[`handles 1-9999 -- partial range test 1006`] = `"one thousand and five"`;
 
-exports[`handles 1-9999 -- partial range test 1007`] = `"one thousand six"`;
+exports[`handles 1-9999 -- partial range test 1007`] = `"one thousand and six"`;
 
-exports[`handles 1-9999 -- partial range test 1008`] = `"one thousand seven"`;
+exports[`handles 1-9999 -- partial range test 1008`] = `"one thousand and seven"`;
 
-exports[`handles 1-9999 -- partial range test 1009`] = `"one thousand eight"`;
+exports[`handles 1-9999 -- partial range test 1009`] = `"one thousand and eight"`;
 
-exports[`handles 1-9999 -- partial range test 1010`] = `"one thousand nine"`;
+exports[`handles 1-9999 -- partial range test 1010`] = `"one thousand and nine"`;
 
-exports[`handles 1-9999 -- partial range test 1011`] = `"one thousand ten"`;
+exports[`handles 1-9999 -- partial range test 1011`] = `"one thousand and ten"`;
 
-exports[`handles 1-9999 -- partial range test 1012`] = `"one thousand eleven"`;
+exports[`handles 1-9999 -- partial range test 1012`] = `"one thousand and eleven"`;
 
-exports[`handles 1-9999 -- partial range test 1013`] = `"one thousand twelve"`;
+exports[`handles 1-9999 -- partial range test 1013`] = `"one thousand and twelve"`;
 
-exports[`handles 1-9999 -- partial range test 1014`] = `"one thousand thirteen"`;
+exports[`handles 1-9999 -- partial range test 1014`] = `"one thousand and thirteen"`;
 
-exports[`handles 1-9999 -- partial range test 1015`] = `"one thousand fourteen"`;
+exports[`handles 1-9999 -- partial range test 1015`] = `"one thousand and fourteen"`;
 
-exports[`handles 1-9999 -- partial range test 1016`] = `"one thousand fifteen"`;
+exports[`handles 1-9999 -- partial range test 1016`] = `"one thousand and fifteen"`;
 
-exports[`handles 1-9999 -- partial range test 1017`] = `"one thousand sixteen"`;
+exports[`handles 1-9999 -- partial range test 1017`] = `"one thousand and sixteen"`;
 
-exports[`handles 1-9999 -- partial range test 1018`] = `"one thousand seventeen"`;
+exports[`handles 1-9999 -- partial range test 1018`] = `"one thousand and seventeen"`;
 
-exports[`handles 1-9999 -- partial range test 1019`] = `"one thousand eighteen"`;
+exports[`handles 1-9999 -- partial range test 1019`] = `"one thousand and eighteen"`;
 
-exports[`handles 1-9999 -- partial range test 1020`] = `"one thousand nineteen"`;
+exports[`handles 1-9999 -- partial range test 1020`] = `"one thousand and nineteen"`;
 
-exports[`handles 1-9999 -- partial range test 1021`] = `"one thousand twenty"`;
+exports[`handles 1-9999 -- partial range test 1021`] = `"one thousand and twenty"`;
 
-exports[`handles 1-9999 -- partial range test 1022`] = `"one thousand twenty one"`;
+exports[`handles 1-9999 -- partial range test 1022`] = `"one thousand and twenty one"`;
 
-exports[`handles 1-9999 -- partial range test 1023`] = `"one thousand twenty two"`;
+exports[`handles 1-9999 -- partial range test 1023`] = `"one thousand and twenty two"`;
 
-exports[`handles 1-9999 -- partial range test 1024`] = `"one thousand twenty three"`;
+exports[`handles 1-9999 -- partial range test 1024`] = `"one thousand and twenty three"`;
 
-exports[`handles 1-9999 -- partial range test 1025`] = `"one thousand twenty four"`;
+exports[`handles 1-9999 -- partial range test 1025`] = `"one thousand and twenty four"`;
 
-exports[`handles 1-9999 -- partial range test 1026`] = `"one thousand twenty five"`;
+exports[`handles 1-9999 -- partial range test 1026`] = `"one thousand and twenty five"`;
 
-exports[`handles 1-9999 -- partial range test 1027`] = `"one thousand twenty six"`;
+exports[`handles 1-9999 -- partial range test 1027`] = `"one thousand and twenty six"`;
 
-exports[`handles 1-9999 -- partial range test 1028`] = `"one thousand twenty seven"`;
+exports[`handles 1-9999 -- partial range test 1028`] = `"one thousand and twenty seven"`;
 
-exports[`handles 1-9999 -- partial range test 1029`] = `"one thousand twenty eight"`;
+exports[`handles 1-9999 -- partial range test 1029`] = `"one thousand and twenty eight"`;
 
-exports[`handles 1-9999 -- partial range test 1030`] = `"one thousand twenty nine"`;
+exports[`handles 1-9999 -- partial range test 1030`] = `"one thousand and twenty nine"`;
 
-exports[`handles 1-9999 -- partial range test 1031`] = `"one thousand thirty"`;
+exports[`handles 1-9999 -- partial range test 1031`] = `"one thousand and thirty"`;
 
-exports[`handles 1-9999 -- partial range test 1032`] = `"one thousand thirty one"`;
+exports[`handles 1-9999 -- partial range test 1032`] = `"one thousand and thirty one"`;
 
-exports[`handles 1-9999 -- partial range test 1033`] = `"one thousand thirty two"`;
+exports[`handles 1-9999 -- partial range test 1033`] = `"one thousand and thirty two"`;
 
-exports[`handles 1-9999 -- partial range test 1034`] = `"one thousand thirty three"`;
+exports[`handles 1-9999 -- partial range test 1034`] = `"one thousand and thirty three"`;
 
-exports[`handles 1-9999 -- partial range test 1035`] = `"one thousand thirty four"`;
+exports[`handles 1-9999 -- partial range test 1035`] = `"one thousand and thirty four"`;
 
-exports[`handles 1-9999 -- partial range test 1036`] = `"one thousand thirty five"`;
+exports[`handles 1-9999 -- partial range test 1036`] = `"one thousand and thirty five"`;
 
-exports[`handles 1-9999 -- partial range test 1037`] = `"one thousand thirty six"`;
+exports[`handles 1-9999 -- partial range test 1037`] = `"one thousand and thirty six"`;
 
-exports[`handles 1-9999 -- partial range test 1038`] = `"one thousand thirty seven"`;
+exports[`handles 1-9999 -- partial range test 1038`] = `"one thousand and thirty seven"`;
 
-exports[`handles 1-9999 -- partial range test 1039`] = `"one thousand thirty eight"`;
+exports[`handles 1-9999 -- partial range test 1039`] = `"one thousand and thirty eight"`;
 
-exports[`handles 1-9999 -- partial range test 1040`] = `"one thousand thirty nine"`;
+exports[`handles 1-9999 -- partial range test 1040`] = `"one thousand and thirty nine"`;
 
-exports[`handles 1-9999 -- partial range test 1041`] = `"one thousand forty"`;
+exports[`handles 1-9999 -- partial range test 1041`] = `"one thousand and forty"`;
 
-exports[`handles 1-9999 -- partial range test 1042`] = `"one thousand forty one"`;
+exports[`handles 1-9999 -- partial range test 1042`] = `"one thousand and forty one"`;
 
-exports[`handles 1-9999 -- partial range test 1043`] = `"one thousand forty two"`;
+exports[`handles 1-9999 -- partial range test 1043`] = `"one thousand and forty two"`;
 
-exports[`handles 1-9999 -- partial range test 1044`] = `"one thousand forty three"`;
+exports[`handles 1-9999 -- partial range test 1044`] = `"one thousand and forty three"`;
 
-exports[`handles 1-9999 -- partial range test 1045`] = `"one thousand forty four"`;
+exports[`handles 1-9999 -- partial range test 1045`] = `"one thousand and forty four"`;
 
-exports[`handles 1-9999 -- partial range test 1046`] = `"one thousand forty five"`;
+exports[`handles 1-9999 -- partial range test 1046`] = `"one thousand and forty five"`;
 
-exports[`handles 1-9999 -- partial range test 1047`] = `"one thousand forty six"`;
+exports[`handles 1-9999 -- partial range test 1047`] = `"one thousand and forty six"`;
 
-exports[`handles 1-9999 -- partial range test 1048`] = `"one thousand forty seven"`;
+exports[`handles 1-9999 -- partial range test 1048`] = `"one thousand and forty seven"`;
 
-exports[`handles 1-9999 -- partial range test 1049`] = `"one thousand forty eight"`;
+exports[`handles 1-9999 -- partial range test 1049`] = `"one thousand and forty eight"`;
 
-exports[`handles 1-9999 -- partial range test 1050`] = `"one thousand forty nine"`;
+exports[`handles 1-9999 -- partial range test 1050`] = `"one thousand and forty nine"`;
 
-exports[`handles 1-9999 -- partial range test 1051`] = `"one thousand fifty"`;
+exports[`handles 1-9999 -- partial range test 1051`] = `"one thousand and fifty"`;
 
-exports[`handles 1-9999 -- partial range test 1052`] = `"one thousand fifty one"`;
+exports[`handles 1-9999 -- partial range test 1052`] = `"one thousand and fifty one"`;
 
-exports[`handles 1-9999 -- partial range test 1053`] = `"one thousand fifty two"`;
+exports[`handles 1-9999 -- partial range test 1053`] = `"one thousand and fifty two"`;
 
-exports[`handles 1-9999 -- partial range test 1054`] = `"one thousand fifty three"`;
+exports[`handles 1-9999 -- partial range test 1054`] = `"one thousand and fifty three"`;
 
-exports[`handles 1-9999 -- partial range test 1055`] = `"one thousand fifty four"`;
+exports[`handles 1-9999 -- partial range test 1055`] = `"one thousand and fifty four"`;
 
-exports[`handles 1-9999 -- partial range test 1056`] = `"one thousand fifty five"`;
+exports[`handles 1-9999 -- partial range test 1056`] = `"one thousand and fifty five"`;
 
-exports[`handles 1-9999 -- partial range test 1057`] = `"one thousand fifty six"`;
+exports[`handles 1-9999 -- partial range test 1057`] = `"one thousand and fifty six"`;
 
-exports[`handles 1-9999 -- partial range test 1058`] = `"one thousand fifty seven"`;
+exports[`handles 1-9999 -- partial range test 1058`] = `"one thousand and fifty seven"`;
 
-exports[`handles 1-9999 -- partial range test 1059`] = `"one thousand fifty eight"`;
+exports[`handles 1-9999 -- partial range test 1059`] = `"one thousand and fifty eight"`;
 
-exports[`handles 1-9999 -- partial range test 1060`] = `"one thousand fifty nine"`;
+exports[`handles 1-9999 -- partial range test 1060`] = `"one thousand and fifty nine"`;
 
-exports[`handles 1-9999 -- partial range test 1061`] = `"one thousand sixty"`;
+exports[`handles 1-9999 -- partial range test 1061`] = `"one thousand and sixty"`;
 
-exports[`handles 1-9999 -- partial range test 1062`] = `"one thousand sixty one"`;
+exports[`handles 1-9999 -- partial range test 1062`] = `"one thousand and sixty one"`;
 
-exports[`handles 1-9999 -- partial range test 1063`] = `"one thousand sixty two"`;
+exports[`handles 1-9999 -- partial range test 1063`] = `"one thousand and sixty two"`;
 
-exports[`handles 1-9999 -- partial range test 1064`] = `"one thousand sixty three"`;
+exports[`handles 1-9999 -- partial range test 1064`] = `"one thousand and sixty three"`;
 
-exports[`handles 1-9999 -- partial range test 1065`] = `"one thousand sixty four"`;
+exports[`handles 1-9999 -- partial range test 1065`] = `"one thousand and sixty four"`;
 
-exports[`handles 1-9999 -- partial range test 1066`] = `"one thousand sixty five"`;
+exports[`handles 1-9999 -- partial range test 1066`] = `"one thousand and sixty five"`;
 
-exports[`handles 1-9999 -- partial range test 1067`] = `"one thousand sixty six"`;
+exports[`handles 1-9999 -- partial range test 1067`] = `"one thousand and sixty six"`;
 
-exports[`handles 1-9999 -- partial range test 1068`] = `"one thousand sixty seven"`;
+exports[`handles 1-9999 -- partial range test 1068`] = `"one thousand and sixty seven"`;
 
-exports[`handles 1-9999 -- partial range test 1069`] = `"one thousand sixty eight"`;
+exports[`handles 1-9999 -- partial range test 1069`] = `"one thousand and sixty eight"`;
 
-exports[`handles 1-9999 -- partial range test 1070`] = `"one thousand sixty nine"`;
+exports[`handles 1-9999 -- partial range test 1070`] = `"one thousand and sixty nine"`;
 
-exports[`handles 1-9999 -- partial range test 1071`] = `"one thousand seventy"`;
+exports[`handles 1-9999 -- partial range test 1071`] = `"one thousand and seventy"`;
 
-exports[`handles 1-9999 -- partial range test 1072`] = `"one thousand seventy one"`;
+exports[`handles 1-9999 -- partial range test 1072`] = `"one thousand and seventy one"`;
 
-exports[`handles 1-9999 -- partial range test 1073`] = `"one thousand seventy two"`;
+exports[`handles 1-9999 -- partial range test 1073`] = `"one thousand and seventy two"`;
 
-exports[`handles 1-9999 -- partial range test 1074`] = `"one thousand seventy three"`;
+exports[`handles 1-9999 -- partial range test 1074`] = `"one thousand and seventy three"`;
 
-exports[`handles 1-9999 -- partial range test 1075`] = `"one thousand seventy four"`;
+exports[`handles 1-9999 -- partial range test 1075`] = `"one thousand and seventy four"`;
 
-exports[`handles 1-9999 -- partial range test 1076`] = `"one thousand seventy five"`;
+exports[`handles 1-9999 -- partial range test 1076`] = `"one thousand and seventy five"`;
 
-exports[`handles 1-9999 -- partial range test 1077`] = `"one thousand seventy six"`;
+exports[`handles 1-9999 -- partial range test 1077`] = `"one thousand and seventy six"`;
 
-exports[`handles 1-9999 -- partial range test 1078`] = `"one thousand seventy seven"`;
+exports[`handles 1-9999 -- partial range test 1078`] = `"one thousand and seventy seven"`;
 
-exports[`handles 1-9999 -- partial range test 1079`] = `"one thousand seventy eight"`;
+exports[`handles 1-9999 -- partial range test 1079`] = `"one thousand and seventy eight"`;
 
-exports[`handles 1-9999 -- partial range test 1080`] = `"one thousand seventy nine"`;
+exports[`handles 1-9999 -- partial range test 1080`] = `"one thousand and seventy nine"`;
 
-exports[`handles 1-9999 -- partial range test 1081`] = `"one thousand eighty"`;
+exports[`handles 1-9999 -- partial range test 1081`] = `"one thousand and eighty"`;
 
-exports[`handles 1-9999 -- partial range test 1082`] = `"one thousand eighty one"`;
+exports[`handles 1-9999 -- partial range test 1082`] = `"one thousand and eighty one"`;
 
-exports[`handles 1-9999 -- partial range test 1083`] = `"one thousand eighty two"`;
+exports[`handles 1-9999 -- partial range test 1083`] = `"one thousand and eighty two"`;
 
-exports[`handles 1-9999 -- partial range test 1084`] = `"one thousand eighty three"`;
+exports[`handles 1-9999 -- partial range test 1084`] = `"one thousand and eighty three"`;
 
-exports[`handles 1-9999 -- partial range test 1085`] = `"one thousand eighty four"`;
+exports[`handles 1-9999 -- partial range test 1085`] = `"one thousand and eighty four"`;
 
-exports[`handles 1-9999 -- partial range test 1086`] = `"one thousand eighty five"`;
+exports[`handles 1-9999 -- partial range test 1086`] = `"one thousand and eighty five"`;
 
-exports[`handles 1-9999 -- partial range test 1087`] = `"one thousand eighty six"`;
+exports[`handles 1-9999 -- partial range test 1087`] = `"one thousand and eighty six"`;
 
-exports[`handles 1-9999 -- partial range test 1088`] = `"one thousand eighty seven"`;
+exports[`handles 1-9999 -- partial range test 1088`] = `"one thousand and eighty seven"`;
 
-exports[`handles 1-9999 -- partial range test 1089`] = `"one thousand eighty eight"`;
+exports[`handles 1-9999 -- partial range test 1089`] = `"one thousand and eighty eight"`;
 
-exports[`handles 1-9999 -- partial range test 1090`] = `"one thousand eighty nine"`;
+exports[`handles 1-9999 -- partial range test 1090`] = `"one thousand and eighty nine"`;
 
-exports[`handles 1-9999 -- partial range test 1091`] = `"one thousand ninety"`;
+exports[`handles 1-9999 -- partial range test 1091`] = `"one thousand and ninety"`;
 
-exports[`handles 1-9999 -- partial range test 1092`] = `"one thousand ninety one"`;
+exports[`handles 1-9999 -- partial range test 1092`] = `"one thousand and ninety one"`;
 
-exports[`handles 1-9999 -- partial range test 1093`] = `"one thousand ninety two"`;
+exports[`handles 1-9999 -- partial range test 1093`] = `"one thousand and ninety two"`;
 
-exports[`handles 1-9999 -- partial range test 1094`] = `"one thousand ninety three"`;
+exports[`handles 1-9999 -- partial range test 1094`] = `"one thousand and ninety three"`;
 
-exports[`handles 1-9999 -- partial range test 1095`] = `"one thousand ninety four"`;
+exports[`handles 1-9999 -- partial range test 1095`] = `"one thousand and ninety four"`;
 
-exports[`handles 1-9999 -- partial range test 1096`] = `"one thousand ninety five"`;
+exports[`handles 1-9999 -- partial range test 1096`] = `"one thousand and ninety five"`;
 
-exports[`handles 1-9999 -- partial range test 1097`] = `"one thousand ninety six"`;
+exports[`handles 1-9999 -- partial range test 1097`] = `"one thousand and ninety six"`;
 
-exports[`handles 1-9999 -- partial range test 1098`] = `"one thousand ninety seven"`;
+exports[`handles 1-9999 -- partial range test 1098`] = `"one thousand and ninety seven"`;
 
-exports[`handles 1-9999 -- partial range test 1099`] = `"one thousand ninety eight"`;
+exports[`handles 1-9999 -- partial range test 1099`] = `"one thousand and ninety eight"`;
 
-exports[`handles 1-9999 -- partial range test 1100`] = `"one thousand ninety nine"`;
+exports[`handles 1-9999 -- partial range test 1100`] = `"one thousand and ninety nine"`;
 
 exports[`handles 1-9999 -- partial range test 1101`] = `"one thousand one hundred"`;
 
@@ -4060,203 +4060,203 @@ exports[`handles 1-9999 -- partial range test 2000`] = `"one thousand nine hundr
 
 exports[`handles 1-9999 -- partial range test 2001`] = `"two thousand"`;
 
-exports[`handles 1-9999 -- partial range test 2002`] = `"two thousand one"`;
+exports[`handles 1-9999 -- partial range test 2002`] = `"two thousand and one"`;
 
-exports[`handles 1-9999 -- partial range test 2003`] = `"two thousand two"`;
+exports[`handles 1-9999 -- partial range test 2003`] = `"two thousand and two"`;
 
-exports[`handles 1-9999 -- partial range test 2004`] = `"two thousand three"`;
+exports[`handles 1-9999 -- partial range test 2004`] = `"two thousand and three"`;
 
-exports[`handles 1-9999 -- partial range test 2005`] = `"two thousand four"`;
+exports[`handles 1-9999 -- partial range test 2005`] = `"two thousand and four"`;
 
-exports[`handles 1-9999 -- partial range test 2006`] = `"two thousand five"`;
+exports[`handles 1-9999 -- partial range test 2006`] = `"two thousand and five"`;
 
-exports[`handles 1-9999 -- partial range test 2007`] = `"two thousand six"`;
+exports[`handles 1-9999 -- partial range test 2007`] = `"two thousand and six"`;
 
-exports[`handles 1-9999 -- partial range test 2008`] = `"two thousand seven"`;
+exports[`handles 1-9999 -- partial range test 2008`] = `"two thousand and seven"`;
 
-exports[`handles 1-9999 -- partial range test 2009`] = `"two thousand eight"`;
+exports[`handles 1-9999 -- partial range test 2009`] = `"two thousand and eight"`;
 
-exports[`handles 1-9999 -- partial range test 2010`] = `"two thousand nine"`;
+exports[`handles 1-9999 -- partial range test 2010`] = `"two thousand and nine"`;
 
-exports[`handles 1-9999 -- partial range test 2011`] = `"two thousand ten"`;
+exports[`handles 1-9999 -- partial range test 2011`] = `"two thousand and ten"`;
 
-exports[`handles 1-9999 -- partial range test 2012`] = `"two thousand eleven"`;
+exports[`handles 1-9999 -- partial range test 2012`] = `"two thousand and eleven"`;
 
-exports[`handles 1-9999 -- partial range test 2013`] = `"two thousand twelve"`;
+exports[`handles 1-9999 -- partial range test 2013`] = `"two thousand and twelve"`;
 
-exports[`handles 1-9999 -- partial range test 2014`] = `"two thousand thirteen"`;
+exports[`handles 1-9999 -- partial range test 2014`] = `"two thousand and thirteen"`;
 
-exports[`handles 1-9999 -- partial range test 2015`] = `"two thousand fourteen"`;
+exports[`handles 1-9999 -- partial range test 2015`] = `"two thousand and fourteen"`;
 
-exports[`handles 1-9999 -- partial range test 2016`] = `"two thousand fifteen"`;
+exports[`handles 1-9999 -- partial range test 2016`] = `"two thousand and fifteen"`;
 
-exports[`handles 1-9999 -- partial range test 2017`] = `"two thousand sixteen"`;
+exports[`handles 1-9999 -- partial range test 2017`] = `"two thousand and sixteen"`;
 
-exports[`handles 1-9999 -- partial range test 2018`] = `"two thousand seventeen"`;
+exports[`handles 1-9999 -- partial range test 2018`] = `"two thousand and seventeen"`;
 
-exports[`handles 1-9999 -- partial range test 2019`] = `"two thousand eighteen"`;
+exports[`handles 1-9999 -- partial range test 2019`] = `"two thousand and eighteen"`;
 
-exports[`handles 1-9999 -- partial range test 2020`] = `"two thousand nineteen"`;
+exports[`handles 1-9999 -- partial range test 2020`] = `"two thousand and nineteen"`;
 
-exports[`handles 1-9999 -- partial range test 2021`] = `"two thousand twenty"`;
+exports[`handles 1-9999 -- partial range test 2021`] = `"two thousand and twenty"`;
 
-exports[`handles 1-9999 -- partial range test 2022`] = `"two thousand twenty one"`;
+exports[`handles 1-9999 -- partial range test 2022`] = `"two thousand and twenty one"`;
 
-exports[`handles 1-9999 -- partial range test 2023`] = `"two thousand twenty two"`;
+exports[`handles 1-9999 -- partial range test 2023`] = `"two thousand and twenty two"`;
 
-exports[`handles 1-9999 -- partial range test 2024`] = `"two thousand twenty three"`;
+exports[`handles 1-9999 -- partial range test 2024`] = `"two thousand and twenty three"`;
 
-exports[`handles 1-9999 -- partial range test 2025`] = `"two thousand twenty four"`;
+exports[`handles 1-9999 -- partial range test 2025`] = `"two thousand and twenty four"`;
 
-exports[`handles 1-9999 -- partial range test 2026`] = `"two thousand twenty five"`;
+exports[`handles 1-9999 -- partial range test 2026`] = `"two thousand and twenty five"`;
 
-exports[`handles 1-9999 -- partial range test 2027`] = `"two thousand twenty six"`;
+exports[`handles 1-9999 -- partial range test 2027`] = `"two thousand and twenty six"`;
 
-exports[`handles 1-9999 -- partial range test 2028`] = `"two thousand twenty seven"`;
+exports[`handles 1-9999 -- partial range test 2028`] = `"two thousand and twenty seven"`;
 
-exports[`handles 1-9999 -- partial range test 2029`] = `"two thousand twenty eight"`;
+exports[`handles 1-9999 -- partial range test 2029`] = `"two thousand and twenty eight"`;
 
-exports[`handles 1-9999 -- partial range test 2030`] = `"two thousand twenty nine"`;
+exports[`handles 1-9999 -- partial range test 2030`] = `"two thousand and twenty nine"`;
 
-exports[`handles 1-9999 -- partial range test 2031`] = `"two thousand thirty"`;
+exports[`handles 1-9999 -- partial range test 2031`] = `"two thousand and thirty"`;
 
-exports[`handles 1-9999 -- partial range test 2032`] = `"two thousand thirty one"`;
+exports[`handles 1-9999 -- partial range test 2032`] = `"two thousand and thirty one"`;
 
-exports[`handles 1-9999 -- partial range test 2033`] = `"two thousand thirty two"`;
+exports[`handles 1-9999 -- partial range test 2033`] = `"two thousand and thirty two"`;
 
-exports[`handles 1-9999 -- partial range test 2034`] = `"two thousand thirty three"`;
+exports[`handles 1-9999 -- partial range test 2034`] = `"two thousand and thirty three"`;
 
-exports[`handles 1-9999 -- partial range test 2035`] = `"two thousand thirty four"`;
+exports[`handles 1-9999 -- partial range test 2035`] = `"two thousand and thirty four"`;
 
-exports[`handles 1-9999 -- partial range test 2036`] = `"two thousand thirty five"`;
+exports[`handles 1-9999 -- partial range test 2036`] = `"two thousand and thirty five"`;
 
-exports[`handles 1-9999 -- partial range test 2037`] = `"two thousand thirty six"`;
+exports[`handles 1-9999 -- partial range test 2037`] = `"two thousand and thirty six"`;
 
-exports[`handles 1-9999 -- partial range test 2038`] = `"two thousand thirty seven"`;
+exports[`handles 1-9999 -- partial range test 2038`] = `"two thousand and thirty seven"`;
 
-exports[`handles 1-9999 -- partial range test 2039`] = `"two thousand thirty eight"`;
+exports[`handles 1-9999 -- partial range test 2039`] = `"two thousand and thirty eight"`;
 
-exports[`handles 1-9999 -- partial range test 2040`] = `"two thousand thirty nine"`;
+exports[`handles 1-9999 -- partial range test 2040`] = `"two thousand and thirty nine"`;
 
-exports[`handles 1-9999 -- partial range test 2041`] = `"two thousand forty"`;
+exports[`handles 1-9999 -- partial range test 2041`] = `"two thousand and forty"`;
 
-exports[`handles 1-9999 -- partial range test 2042`] = `"two thousand forty one"`;
+exports[`handles 1-9999 -- partial range test 2042`] = `"two thousand and forty one"`;
 
-exports[`handles 1-9999 -- partial range test 2043`] = `"two thousand forty two"`;
+exports[`handles 1-9999 -- partial range test 2043`] = `"two thousand and forty two"`;
 
-exports[`handles 1-9999 -- partial range test 2044`] = `"two thousand forty three"`;
+exports[`handles 1-9999 -- partial range test 2044`] = `"two thousand and forty three"`;
 
-exports[`handles 1-9999 -- partial range test 2045`] = `"two thousand forty four"`;
+exports[`handles 1-9999 -- partial range test 2045`] = `"two thousand and forty four"`;
 
-exports[`handles 1-9999 -- partial range test 2046`] = `"two thousand forty five"`;
+exports[`handles 1-9999 -- partial range test 2046`] = `"two thousand and forty five"`;
 
-exports[`handles 1-9999 -- partial range test 2047`] = `"two thousand forty six"`;
+exports[`handles 1-9999 -- partial range test 2047`] = `"two thousand and forty six"`;
 
-exports[`handles 1-9999 -- partial range test 2048`] = `"two thousand forty seven"`;
+exports[`handles 1-9999 -- partial range test 2048`] = `"two thousand and forty seven"`;
 
-exports[`handles 1-9999 -- partial range test 2049`] = `"two thousand forty eight"`;
+exports[`handles 1-9999 -- partial range test 2049`] = `"two thousand and forty eight"`;
 
-exports[`handles 1-9999 -- partial range test 2050`] = `"two thousand forty nine"`;
+exports[`handles 1-9999 -- partial range test 2050`] = `"two thousand and forty nine"`;
 
-exports[`handles 1-9999 -- partial range test 2051`] = `"two thousand fifty"`;
+exports[`handles 1-9999 -- partial range test 2051`] = `"two thousand and fifty"`;
 
-exports[`handles 1-9999 -- partial range test 2052`] = `"two thousand fifty one"`;
+exports[`handles 1-9999 -- partial range test 2052`] = `"two thousand and fifty one"`;
 
-exports[`handles 1-9999 -- partial range test 2053`] = `"two thousand fifty two"`;
+exports[`handles 1-9999 -- partial range test 2053`] = `"two thousand and fifty two"`;
 
-exports[`handles 1-9999 -- partial range test 2054`] = `"two thousand fifty three"`;
+exports[`handles 1-9999 -- partial range test 2054`] = `"two thousand and fifty three"`;
 
-exports[`handles 1-9999 -- partial range test 2055`] = `"two thousand fifty four"`;
+exports[`handles 1-9999 -- partial range test 2055`] = `"two thousand and fifty four"`;
 
-exports[`handles 1-9999 -- partial range test 2056`] = `"two thousand fifty five"`;
+exports[`handles 1-9999 -- partial range test 2056`] = `"two thousand and fifty five"`;
 
-exports[`handles 1-9999 -- partial range test 2057`] = `"two thousand fifty six"`;
+exports[`handles 1-9999 -- partial range test 2057`] = `"two thousand and fifty six"`;
 
-exports[`handles 1-9999 -- partial range test 2058`] = `"two thousand fifty seven"`;
+exports[`handles 1-9999 -- partial range test 2058`] = `"two thousand and fifty seven"`;
 
-exports[`handles 1-9999 -- partial range test 2059`] = `"two thousand fifty eight"`;
+exports[`handles 1-9999 -- partial range test 2059`] = `"two thousand and fifty eight"`;
 
-exports[`handles 1-9999 -- partial range test 2060`] = `"two thousand fifty nine"`;
+exports[`handles 1-9999 -- partial range test 2060`] = `"two thousand and fifty nine"`;
 
-exports[`handles 1-9999 -- partial range test 2061`] = `"two thousand sixty"`;
+exports[`handles 1-9999 -- partial range test 2061`] = `"two thousand and sixty"`;
 
-exports[`handles 1-9999 -- partial range test 2062`] = `"two thousand sixty one"`;
+exports[`handles 1-9999 -- partial range test 2062`] = `"two thousand and sixty one"`;
 
-exports[`handles 1-9999 -- partial range test 2063`] = `"two thousand sixty two"`;
+exports[`handles 1-9999 -- partial range test 2063`] = `"two thousand and sixty two"`;
 
-exports[`handles 1-9999 -- partial range test 2064`] = `"two thousand sixty three"`;
+exports[`handles 1-9999 -- partial range test 2064`] = `"two thousand and sixty three"`;
 
-exports[`handles 1-9999 -- partial range test 2065`] = `"two thousand sixty four"`;
+exports[`handles 1-9999 -- partial range test 2065`] = `"two thousand and sixty four"`;
 
-exports[`handles 1-9999 -- partial range test 2066`] = `"two thousand sixty five"`;
+exports[`handles 1-9999 -- partial range test 2066`] = `"two thousand and sixty five"`;
 
-exports[`handles 1-9999 -- partial range test 2067`] = `"two thousand sixty six"`;
+exports[`handles 1-9999 -- partial range test 2067`] = `"two thousand and sixty six"`;
 
-exports[`handles 1-9999 -- partial range test 2068`] = `"two thousand sixty seven"`;
+exports[`handles 1-9999 -- partial range test 2068`] = `"two thousand and sixty seven"`;
 
-exports[`handles 1-9999 -- partial range test 2069`] = `"two thousand sixty eight"`;
+exports[`handles 1-9999 -- partial range test 2069`] = `"two thousand and sixty eight"`;
 
-exports[`handles 1-9999 -- partial range test 2070`] = `"two thousand sixty nine"`;
+exports[`handles 1-9999 -- partial range test 2070`] = `"two thousand and sixty nine"`;
 
-exports[`handles 1-9999 -- partial range test 2071`] = `"two thousand seventy"`;
+exports[`handles 1-9999 -- partial range test 2071`] = `"two thousand and seventy"`;
 
-exports[`handles 1-9999 -- partial range test 2072`] = `"two thousand seventy one"`;
+exports[`handles 1-9999 -- partial range test 2072`] = `"two thousand and seventy one"`;
 
-exports[`handles 1-9999 -- partial range test 2073`] = `"two thousand seventy two"`;
+exports[`handles 1-9999 -- partial range test 2073`] = `"two thousand and seventy two"`;
 
-exports[`handles 1-9999 -- partial range test 2074`] = `"two thousand seventy three"`;
+exports[`handles 1-9999 -- partial range test 2074`] = `"two thousand and seventy three"`;
 
-exports[`handles 1-9999 -- partial range test 2075`] = `"two thousand seventy four"`;
+exports[`handles 1-9999 -- partial range test 2075`] = `"two thousand and seventy four"`;
 
-exports[`handles 1-9999 -- partial range test 2076`] = `"two thousand seventy five"`;
+exports[`handles 1-9999 -- partial range test 2076`] = `"two thousand and seventy five"`;
 
-exports[`handles 1-9999 -- partial range test 2077`] = `"two thousand seventy six"`;
+exports[`handles 1-9999 -- partial range test 2077`] = `"two thousand and seventy six"`;
 
-exports[`handles 1-9999 -- partial range test 2078`] = `"two thousand seventy seven"`;
+exports[`handles 1-9999 -- partial range test 2078`] = `"two thousand and seventy seven"`;
 
-exports[`handles 1-9999 -- partial range test 2079`] = `"two thousand seventy eight"`;
+exports[`handles 1-9999 -- partial range test 2079`] = `"two thousand and seventy eight"`;
 
-exports[`handles 1-9999 -- partial range test 2080`] = `"two thousand seventy nine"`;
+exports[`handles 1-9999 -- partial range test 2080`] = `"two thousand and seventy nine"`;
 
-exports[`handles 1-9999 -- partial range test 2081`] = `"two thousand eighty"`;
+exports[`handles 1-9999 -- partial range test 2081`] = `"two thousand and eighty"`;
 
-exports[`handles 1-9999 -- partial range test 2082`] = `"two thousand eighty one"`;
+exports[`handles 1-9999 -- partial range test 2082`] = `"two thousand and eighty one"`;
 
-exports[`handles 1-9999 -- partial range test 2083`] = `"two thousand eighty two"`;
+exports[`handles 1-9999 -- partial range test 2083`] = `"two thousand and eighty two"`;
 
-exports[`handles 1-9999 -- partial range test 2084`] = `"two thousand eighty three"`;
+exports[`handles 1-9999 -- partial range test 2084`] = `"two thousand and eighty three"`;
 
-exports[`handles 1-9999 -- partial range test 2085`] = `"two thousand eighty four"`;
+exports[`handles 1-9999 -- partial range test 2085`] = `"two thousand and eighty four"`;
 
-exports[`handles 1-9999 -- partial range test 2086`] = `"two thousand eighty five"`;
+exports[`handles 1-9999 -- partial range test 2086`] = `"two thousand and eighty five"`;
 
-exports[`handles 1-9999 -- partial range test 2087`] = `"two thousand eighty six"`;
+exports[`handles 1-9999 -- partial range test 2087`] = `"two thousand and eighty six"`;
 
-exports[`handles 1-9999 -- partial range test 2088`] = `"two thousand eighty seven"`;
+exports[`handles 1-9999 -- partial range test 2088`] = `"two thousand and eighty seven"`;
 
-exports[`handles 1-9999 -- partial range test 2089`] = `"two thousand eighty eight"`;
+exports[`handles 1-9999 -- partial range test 2089`] = `"two thousand and eighty eight"`;
 
-exports[`handles 1-9999 -- partial range test 2090`] = `"two thousand eighty nine"`;
+exports[`handles 1-9999 -- partial range test 2090`] = `"two thousand and eighty nine"`;
 
-exports[`handles 1-9999 -- partial range test 2091`] = `"two thousand ninety"`;
+exports[`handles 1-9999 -- partial range test 2091`] = `"two thousand and ninety"`;
 
-exports[`handles 1-9999 -- partial range test 2092`] = `"two thousand ninety one"`;
+exports[`handles 1-9999 -- partial range test 2092`] = `"two thousand and ninety one"`;
 
-exports[`handles 1-9999 -- partial range test 2093`] = `"two thousand ninety two"`;
+exports[`handles 1-9999 -- partial range test 2093`] = `"two thousand and ninety two"`;
 
-exports[`handles 1-9999 -- partial range test 2094`] = `"two thousand ninety three"`;
+exports[`handles 1-9999 -- partial range test 2094`] = `"two thousand and ninety three"`;
 
-exports[`handles 1-9999 -- partial range test 2095`] = `"two thousand ninety four"`;
+exports[`handles 1-9999 -- partial range test 2095`] = `"two thousand and ninety four"`;
 
-exports[`handles 1-9999 -- partial range test 2096`] = `"two thousand ninety five"`;
+exports[`handles 1-9999 -- partial range test 2096`] = `"two thousand and ninety five"`;
 
-exports[`handles 1-9999 -- partial range test 2097`] = `"two thousand ninety six"`;
+exports[`handles 1-9999 -- partial range test 2097`] = `"two thousand and ninety six"`;
 
-exports[`handles 1-9999 -- partial range test 2098`] = `"two thousand ninety seven"`;
+exports[`handles 1-9999 -- partial range test 2098`] = `"two thousand and ninety seven"`;
 
-exports[`handles 1-9999 -- partial range test 2099`] = `"two thousand ninety eight"`;
+exports[`handles 1-9999 -- partial range test 2099`] = `"two thousand and ninety eight"`;
 
-exports[`handles 1-9999 -- partial range test 2100`] = `"two thousand ninety nine"`;
+exports[`handles 1-9999 -- partial range test 2100`] = `"two thousand and ninety nine"`;
 
 exports[`handles 1-9999 -- partial range test 2101`] = `"two thousand one hundred"`;
 
@@ -6060,203 +6060,203 @@ exports[`handles 1-9999 -- partial range test 3000`] = `"two thousand nine hundr
 
 exports[`handles 1-9999 -- partial range test 3001`] = `"three thousand"`;
 
-exports[`handles 1-9999 -- partial range test 3002`] = `"three thousand one"`;
+exports[`handles 1-9999 -- partial range test 3002`] = `"three thousand and one"`;
 
-exports[`handles 1-9999 -- partial range test 3003`] = `"three thousand two"`;
+exports[`handles 1-9999 -- partial range test 3003`] = `"three thousand and two"`;
 
-exports[`handles 1-9999 -- partial range test 3004`] = `"three thousand three"`;
+exports[`handles 1-9999 -- partial range test 3004`] = `"three thousand and three"`;
 
-exports[`handles 1-9999 -- partial range test 3005`] = `"three thousand four"`;
+exports[`handles 1-9999 -- partial range test 3005`] = `"three thousand and four"`;
 
-exports[`handles 1-9999 -- partial range test 3006`] = `"three thousand five"`;
+exports[`handles 1-9999 -- partial range test 3006`] = `"three thousand and five"`;
 
-exports[`handles 1-9999 -- partial range test 3007`] = `"three thousand six"`;
+exports[`handles 1-9999 -- partial range test 3007`] = `"three thousand and six"`;
 
-exports[`handles 1-9999 -- partial range test 3008`] = `"three thousand seven"`;
+exports[`handles 1-9999 -- partial range test 3008`] = `"three thousand and seven"`;
 
-exports[`handles 1-9999 -- partial range test 3009`] = `"three thousand eight"`;
+exports[`handles 1-9999 -- partial range test 3009`] = `"three thousand and eight"`;
 
-exports[`handles 1-9999 -- partial range test 3010`] = `"three thousand nine"`;
+exports[`handles 1-9999 -- partial range test 3010`] = `"three thousand and nine"`;
 
-exports[`handles 1-9999 -- partial range test 3011`] = `"three thousand ten"`;
+exports[`handles 1-9999 -- partial range test 3011`] = `"three thousand and ten"`;
 
-exports[`handles 1-9999 -- partial range test 3012`] = `"three thousand eleven"`;
+exports[`handles 1-9999 -- partial range test 3012`] = `"three thousand and eleven"`;
 
-exports[`handles 1-9999 -- partial range test 3013`] = `"three thousand twelve"`;
+exports[`handles 1-9999 -- partial range test 3013`] = `"three thousand and twelve"`;
 
-exports[`handles 1-9999 -- partial range test 3014`] = `"three thousand thirteen"`;
+exports[`handles 1-9999 -- partial range test 3014`] = `"three thousand and thirteen"`;
 
-exports[`handles 1-9999 -- partial range test 3015`] = `"three thousand fourteen"`;
+exports[`handles 1-9999 -- partial range test 3015`] = `"three thousand and fourteen"`;
 
-exports[`handles 1-9999 -- partial range test 3016`] = `"three thousand fifteen"`;
+exports[`handles 1-9999 -- partial range test 3016`] = `"three thousand and fifteen"`;
 
-exports[`handles 1-9999 -- partial range test 3017`] = `"three thousand sixteen"`;
+exports[`handles 1-9999 -- partial range test 3017`] = `"three thousand and sixteen"`;
 
-exports[`handles 1-9999 -- partial range test 3018`] = `"three thousand seventeen"`;
+exports[`handles 1-9999 -- partial range test 3018`] = `"three thousand and seventeen"`;
 
-exports[`handles 1-9999 -- partial range test 3019`] = `"three thousand eighteen"`;
+exports[`handles 1-9999 -- partial range test 3019`] = `"three thousand and eighteen"`;
 
-exports[`handles 1-9999 -- partial range test 3020`] = `"three thousand nineteen"`;
+exports[`handles 1-9999 -- partial range test 3020`] = `"three thousand and nineteen"`;
 
-exports[`handles 1-9999 -- partial range test 3021`] = `"three thousand twenty"`;
+exports[`handles 1-9999 -- partial range test 3021`] = `"three thousand and twenty"`;
 
-exports[`handles 1-9999 -- partial range test 3022`] = `"three thousand twenty one"`;
+exports[`handles 1-9999 -- partial range test 3022`] = `"three thousand and twenty one"`;
 
-exports[`handles 1-9999 -- partial range test 3023`] = `"three thousand twenty two"`;
+exports[`handles 1-9999 -- partial range test 3023`] = `"three thousand and twenty two"`;
 
-exports[`handles 1-9999 -- partial range test 3024`] = `"three thousand twenty three"`;
+exports[`handles 1-9999 -- partial range test 3024`] = `"three thousand and twenty three"`;
 
-exports[`handles 1-9999 -- partial range test 3025`] = `"three thousand twenty four"`;
+exports[`handles 1-9999 -- partial range test 3025`] = `"three thousand and twenty four"`;
 
-exports[`handles 1-9999 -- partial range test 3026`] = `"three thousand twenty five"`;
+exports[`handles 1-9999 -- partial range test 3026`] = `"three thousand and twenty five"`;
 
-exports[`handles 1-9999 -- partial range test 3027`] = `"three thousand twenty six"`;
+exports[`handles 1-9999 -- partial range test 3027`] = `"three thousand and twenty six"`;
 
-exports[`handles 1-9999 -- partial range test 3028`] = `"three thousand twenty seven"`;
+exports[`handles 1-9999 -- partial range test 3028`] = `"three thousand and twenty seven"`;
 
-exports[`handles 1-9999 -- partial range test 3029`] = `"three thousand twenty eight"`;
+exports[`handles 1-9999 -- partial range test 3029`] = `"three thousand and twenty eight"`;
 
-exports[`handles 1-9999 -- partial range test 3030`] = `"three thousand twenty nine"`;
+exports[`handles 1-9999 -- partial range test 3030`] = `"three thousand and twenty nine"`;
 
-exports[`handles 1-9999 -- partial range test 3031`] = `"three thousand thirty"`;
+exports[`handles 1-9999 -- partial range test 3031`] = `"three thousand and thirty"`;
 
-exports[`handles 1-9999 -- partial range test 3032`] = `"three thousand thirty one"`;
+exports[`handles 1-9999 -- partial range test 3032`] = `"three thousand and thirty one"`;
 
-exports[`handles 1-9999 -- partial range test 3033`] = `"three thousand thirty two"`;
+exports[`handles 1-9999 -- partial range test 3033`] = `"three thousand and thirty two"`;
 
-exports[`handles 1-9999 -- partial range test 3034`] = `"three thousand thirty three"`;
+exports[`handles 1-9999 -- partial range test 3034`] = `"three thousand and thirty three"`;
 
-exports[`handles 1-9999 -- partial range test 3035`] = `"three thousand thirty four"`;
+exports[`handles 1-9999 -- partial range test 3035`] = `"three thousand and thirty four"`;
 
-exports[`handles 1-9999 -- partial range test 3036`] = `"three thousand thirty five"`;
+exports[`handles 1-9999 -- partial range test 3036`] = `"three thousand and thirty five"`;
 
-exports[`handles 1-9999 -- partial range test 3037`] = `"three thousand thirty six"`;
+exports[`handles 1-9999 -- partial range test 3037`] = `"three thousand and thirty six"`;
 
-exports[`handles 1-9999 -- partial range test 3038`] = `"three thousand thirty seven"`;
+exports[`handles 1-9999 -- partial range test 3038`] = `"three thousand and thirty seven"`;
 
-exports[`handles 1-9999 -- partial range test 3039`] = `"three thousand thirty eight"`;
+exports[`handles 1-9999 -- partial range test 3039`] = `"three thousand and thirty eight"`;
 
-exports[`handles 1-9999 -- partial range test 3040`] = `"three thousand thirty nine"`;
+exports[`handles 1-9999 -- partial range test 3040`] = `"three thousand and thirty nine"`;
 
-exports[`handles 1-9999 -- partial range test 3041`] = `"three thousand forty"`;
+exports[`handles 1-9999 -- partial range test 3041`] = `"three thousand and forty"`;
 
-exports[`handles 1-9999 -- partial range test 3042`] = `"three thousand forty one"`;
+exports[`handles 1-9999 -- partial range test 3042`] = `"three thousand and forty one"`;
 
-exports[`handles 1-9999 -- partial range test 3043`] = `"three thousand forty two"`;
+exports[`handles 1-9999 -- partial range test 3043`] = `"three thousand and forty two"`;
 
-exports[`handles 1-9999 -- partial range test 3044`] = `"three thousand forty three"`;
+exports[`handles 1-9999 -- partial range test 3044`] = `"three thousand and forty three"`;
 
-exports[`handles 1-9999 -- partial range test 3045`] = `"three thousand forty four"`;
+exports[`handles 1-9999 -- partial range test 3045`] = `"three thousand and forty four"`;
 
-exports[`handles 1-9999 -- partial range test 3046`] = `"three thousand forty five"`;
+exports[`handles 1-9999 -- partial range test 3046`] = `"three thousand and forty five"`;
 
-exports[`handles 1-9999 -- partial range test 3047`] = `"three thousand forty six"`;
+exports[`handles 1-9999 -- partial range test 3047`] = `"three thousand and forty six"`;
 
-exports[`handles 1-9999 -- partial range test 3048`] = `"three thousand forty seven"`;
+exports[`handles 1-9999 -- partial range test 3048`] = `"three thousand and forty seven"`;
 
-exports[`handles 1-9999 -- partial range test 3049`] = `"three thousand forty eight"`;
+exports[`handles 1-9999 -- partial range test 3049`] = `"three thousand and forty eight"`;
 
-exports[`handles 1-9999 -- partial range test 3050`] = `"three thousand forty nine"`;
+exports[`handles 1-9999 -- partial range test 3050`] = `"three thousand and forty nine"`;
 
-exports[`handles 1-9999 -- partial range test 3051`] = `"three thousand fifty"`;
+exports[`handles 1-9999 -- partial range test 3051`] = `"three thousand and fifty"`;
 
-exports[`handles 1-9999 -- partial range test 3052`] = `"three thousand fifty one"`;
+exports[`handles 1-9999 -- partial range test 3052`] = `"three thousand and fifty one"`;
 
-exports[`handles 1-9999 -- partial range test 3053`] = `"three thousand fifty two"`;
+exports[`handles 1-9999 -- partial range test 3053`] = `"three thousand and fifty two"`;
 
-exports[`handles 1-9999 -- partial range test 3054`] = `"three thousand fifty three"`;
+exports[`handles 1-9999 -- partial range test 3054`] = `"three thousand and fifty three"`;
 
-exports[`handles 1-9999 -- partial range test 3055`] = `"three thousand fifty four"`;
+exports[`handles 1-9999 -- partial range test 3055`] = `"three thousand and fifty four"`;
 
-exports[`handles 1-9999 -- partial range test 3056`] = `"three thousand fifty five"`;
+exports[`handles 1-9999 -- partial range test 3056`] = `"three thousand and fifty five"`;
 
-exports[`handles 1-9999 -- partial range test 3057`] = `"three thousand fifty six"`;
+exports[`handles 1-9999 -- partial range test 3057`] = `"three thousand and fifty six"`;
 
-exports[`handles 1-9999 -- partial range test 3058`] = `"three thousand fifty seven"`;
+exports[`handles 1-9999 -- partial range test 3058`] = `"three thousand and fifty seven"`;
 
-exports[`handles 1-9999 -- partial range test 3059`] = `"three thousand fifty eight"`;
+exports[`handles 1-9999 -- partial range test 3059`] = `"three thousand and fifty eight"`;
 
-exports[`handles 1-9999 -- partial range test 3060`] = `"three thousand fifty nine"`;
+exports[`handles 1-9999 -- partial range test 3060`] = `"three thousand and fifty nine"`;
 
-exports[`handles 1-9999 -- partial range test 3061`] = `"three thousand sixty"`;
+exports[`handles 1-9999 -- partial range test 3061`] = `"three thousand and sixty"`;
 
-exports[`handles 1-9999 -- partial range test 3062`] = `"three thousand sixty one"`;
+exports[`handles 1-9999 -- partial range test 3062`] = `"three thousand and sixty one"`;
 
-exports[`handles 1-9999 -- partial range test 3063`] = `"three thousand sixty two"`;
+exports[`handles 1-9999 -- partial range test 3063`] = `"three thousand and sixty two"`;
 
-exports[`handles 1-9999 -- partial range test 3064`] = `"three thousand sixty three"`;
+exports[`handles 1-9999 -- partial range test 3064`] = `"three thousand and sixty three"`;
 
-exports[`handles 1-9999 -- partial range test 3065`] = `"three thousand sixty four"`;
+exports[`handles 1-9999 -- partial range test 3065`] = `"three thousand and sixty four"`;
 
-exports[`handles 1-9999 -- partial range test 3066`] = `"three thousand sixty five"`;
+exports[`handles 1-9999 -- partial range test 3066`] = `"three thousand and sixty five"`;
 
-exports[`handles 1-9999 -- partial range test 3067`] = `"three thousand sixty six"`;
+exports[`handles 1-9999 -- partial range test 3067`] = `"three thousand and sixty six"`;
 
-exports[`handles 1-9999 -- partial range test 3068`] = `"three thousand sixty seven"`;
+exports[`handles 1-9999 -- partial range test 3068`] = `"three thousand and sixty seven"`;
 
-exports[`handles 1-9999 -- partial range test 3069`] = `"three thousand sixty eight"`;
+exports[`handles 1-9999 -- partial range test 3069`] = `"three thousand and sixty eight"`;
 
-exports[`handles 1-9999 -- partial range test 3070`] = `"three thousand sixty nine"`;
+exports[`handles 1-9999 -- partial range test 3070`] = `"three thousand and sixty nine"`;
 
-exports[`handles 1-9999 -- partial range test 3071`] = `"three thousand seventy"`;
+exports[`handles 1-9999 -- partial range test 3071`] = `"three thousand and seventy"`;
 
-exports[`handles 1-9999 -- partial range test 3072`] = `"three thousand seventy one"`;
+exports[`handles 1-9999 -- partial range test 3072`] = `"three thousand and seventy one"`;
 
-exports[`handles 1-9999 -- partial range test 3073`] = `"three thousand seventy two"`;
+exports[`handles 1-9999 -- partial range test 3073`] = `"three thousand and seventy two"`;
 
-exports[`handles 1-9999 -- partial range test 3074`] = `"three thousand seventy three"`;
+exports[`handles 1-9999 -- partial range test 3074`] = `"three thousand and seventy three"`;
 
-exports[`handles 1-9999 -- partial range test 3075`] = `"three thousand seventy four"`;
+exports[`handles 1-9999 -- partial range test 3075`] = `"three thousand and seventy four"`;
 
-exports[`handles 1-9999 -- partial range test 3076`] = `"three thousand seventy five"`;
+exports[`handles 1-9999 -- partial range test 3076`] = `"three thousand and seventy five"`;
 
-exports[`handles 1-9999 -- partial range test 3077`] = `"three thousand seventy six"`;
+exports[`handles 1-9999 -- partial range test 3077`] = `"three thousand and seventy six"`;
 
-exports[`handles 1-9999 -- partial range test 3078`] = `"three thousand seventy seven"`;
+exports[`handles 1-9999 -- partial range test 3078`] = `"three thousand and seventy seven"`;
 
-exports[`handles 1-9999 -- partial range test 3079`] = `"three thousand seventy eight"`;
+exports[`handles 1-9999 -- partial range test 3079`] = `"three thousand and seventy eight"`;
 
-exports[`handles 1-9999 -- partial range test 3080`] = `"three thousand seventy nine"`;
+exports[`handles 1-9999 -- partial range test 3080`] = `"three thousand and seventy nine"`;
 
-exports[`handles 1-9999 -- partial range test 3081`] = `"three thousand eighty"`;
+exports[`handles 1-9999 -- partial range test 3081`] = `"three thousand and eighty"`;
 
-exports[`handles 1-9999 -- partial range test 3082`] = `"three thousand eighty one"`;
+exports[`handles 1-9999 -- partial range test 3082`] = `"three thousand and eighty one"`;
 
-exports[`handles 1-9999 -- partial range test 3083`] = `"three thousand eighty two"`;
+exports[`handles 1-9999 -- partial range test 3083`] = `"three thousand and eighty two"`;
 
-exports[`handles 1-9999 -- partial range test 3084`] = `"three thousand eighty three"`;
+exports[`handles 1-9999 -- partial range test 3084`] = `"three thousand and eighty three"`;
 
-exports[`handles 1-9999 -- partial range test 3085`] = `"three thousand eighty four"`;
+exports[`handles 1-9999 -- partial range test 3085`] = `"three thousand and eighty four"`;
 
-exports[`handles 1-9999 -- partial range test 3086`] = `"three thousand eighty five"`;
+exports[`handles 1-9999 -- partial range test 3086`] = `"three thousand and eighty five"`;
 
-exports[`handles 1-9999 -- partial range test 3087`] = `"three thousand eighty six"`;
+exports[`handles 1-9999 -- partial range test 3087`] = `"three thousand and eighty six"`;
 
-exports[`handles 1-9999 -- partial range test 3088`] = `"three thousand eighty seven"`;
+exports[`handles 1-9999 -- partial range test 3088`] = `"three thousand and eighty seven"`;
 
-exports[`handles 1-9999 -- partial range test 3089`] = `"three thousand eighty eight"`;
+exports[`handles 1-9999 -- partial range test 3089`] = `"three thousand and eighty eight"`;
 
-exports[`handles 1-9999 -- partial range test 3090`] = `"three thousand eighty nine"`;
+exports[`handles 1-9999 -- partial range test 3090`] = `"three thousand and eighty nine"`;
 
-exports[`handles 1-9999 -- partial range test 3091`] = `"three thousand ninety"`;
+exports[`handles 1-9999 -- partial range test 3091`] = `"three thousand and ninety"`;
 
-exports[`handles 1-9999 -- partial range test 3092`] = `"three thousand ninety one"`;
+exports[`handles 1-9999 -- partial range test 3092`] = `"three thousand and ninety one"`;
 
-exports[`handles 1-9999 -- partial range test 3093`] = `"three thousand ninety two"`;
+exports[`handles 1-9999 -- partial range test 3093`] = `"three thousand and ninety two"`;
 
-exports[`handles 1-9999 -- partial range test 3094`] = `"three thousand ninety three"`;
+exports[`handles 1-9999 -- partial range test 3094`] = `"three thousand and ninety three"`;
 
-exports[`handles 1-9999 -- partial range test 3095`] = `"three thousand ninety four"`;
+exports[`handles 1-9999 -- partial range test 3095`] = `"three thousand and ninety four"`;
 
-exports[`handles 1-9999 -- partial range test 3096`] = `"three thousand ninety five"`;
+exports[`handles 1-9999 -- partial range test 3096`] = `"three thousand and ninety five"`;
 
-exports[`handles 1-9999 -- partial range test 3097`] = `"three thousand ninety six"`;
+exports[`handles 1-9999 -- partial range test 3097`] = `"three thousand and ninety six"`;
 
-exports[`handles 1-9999 -- partial range test 3098`] = `"three thousand ninety seven"`;
+exports[`handles 1-9999 -- partial range test 3098`] = `"three thousand and ninety seven"`;
 
-exports[`handles 1-9999 -- partial range test 3099`] = `"three thousand ninety eight"`;
+exports[`handles 1-9999 -- partial range test 3099`] = `"three thousand and ninety eight"`;
 
-exports[`handles 1-9999 -- partial range test 3100`] = `"three thousand ninety nine"`;
+exports[`handles 1-9999 -- partial range test 3100`] = `"three thousand and ninety nine"`;
 
 exports[`handles 1-9999 -- partial range test 3101`] = `"three thousand one hundred"`;
 
@@ -8060,203 +8060,203 @@ exports[`handles 1-9999 -- partial range test 4000`] = `"three thousand nine hun
 
 exports[`handles 1-9999 -- partial range test 4001`] = `"four thousand"`;
 
-exports[`handles 1-9999 -- partial range test 4002`] = `"four thousand one"`;
+exports[`handles 1-9999 -- partial range test 4002`] = `"four thousand and one"`;
 
-exports[`handles 1-9999 -- partial range test 4003`] = `"four thousand two"`;
+exports[`handles 1-9999 -- partial range test 4003`] = `"four thousand and two"`;
 
-exports[`handles 1-9999 -- partial range test 4004`] = `"four thousand three"`;
+exports[`handles 1-9999 -- partial range test 4004`] = `"four thousand and three"`;
 
-exports[`handles 1-9999 -- partial range test 4005`] = `"four thousand four"`;
+exports[`handles 1-9999 -- partial range test 4005`] = `"four thousand and four"`;
 
-exports[`handles 1-9999 -- partial range test 4006`] = `"four thousand five"`;
+exports[`handles 1-9999 -- partial range test 4006`] = `"four thousand and five"`;
 
-exports[`handles 1-9999 -- partial range test 4007`] = `"four thousand six"`;
+exports[`handles 1-9999 -- partial range test 4007`] = `"four thousand and six"`;
 
-exports[`handles 1-9999 -- partial range test 4008`] = `"four thousand seven"`;
+exports[`handles 1-9999 -- partial range test 4008`] = `"four thousand and seven"`;
 
-exports[`handles 1-9999 -- partial range test 4009`] = `"four thousand eight"`;
+exports[`handles 1-9999 -- partial range test 4009`] = `"four thousand and eight"`;
 
-exports[`handles 1-9999 -- partial range test 4010`] = `"four thousand nine"`;
+exports[`handles 1-9999 -- partial range test 4010`] = `"four thousand and nine"`;
 
-exports[`handles 1-9999 -- partial range test 4011`] = `"four thousand ten"`;
+exports[`handles 1-9999 -- partial range test 4011`] = `"four thousand and ten"`;
 
-exports[`handles 1-9999 -- partial range test 4012`] = `"four thousand eleven"`;
+exports[`handles 1-9999 -- partial range test 4012`] = `"four thousand and eleven"`;
 
-exports[`handles 1-9999 -- partial range test 4013`] = `"four thousand twelve"`;
+exports[`handles 1-9999 -- partial range test 4013`] = `"four thousand and twelve"`;
 
-exports[`handles 1-9999 -- partial range test 4014`] = `"four thousand thirteen"`;
+exports[`handles 1-9999 -- partial range test 4014`] = `"four thousand and thirteen"`;
 
-exports[`handles 1-9999 -- partial range test 4015`] = `"four thousand fourteen"`;
+exports[`handles 1-9999 -- partial range test 4015`] = `"four thousand and fourteen"`;
 
-exports[`handles 1-9999 -- partial range test 4016`] = `"four thousand fifteen"`;
+exports[`handles 1-9999 -- partial range test 4016`] = `"four thousand and fifteen"`;
 
-exports[`handles 1-9999 -- partial range test 4017`] = `"four thousand sixteen"`;
+exports[`handles 1-9999 -- partial range test 4017`] = `"four thousand and sixteen"`;
 
-exports[`handles 1-9999 -- partial range test 4018`] = `"four thousand seventeen"`;
+exports[`handles 1-9999 -- partial range test 4018`] = `"four thousand and seventeen"`;
 
-exports[`handles 1-9999 -- partial range test 4019`] = `"four thousand eighteen"`;
+exports[`handles 1-9999 -- partial range test 4019`] = `"four thousand and eighteen"`;
 
-exports[`handles 1-9999 -- partial range test 4020`] = `"four thousand nineteen"`;
+exports[`handles 1-9999 -- partial range test 4020`] = `"four thousand and nineteen"`;
 
-exports[`handles 1-9999 -- partial range test 4021`] = `"four thousand twenty"`;
+exports[`handles 1-9999 -- partial range test 4021`] = `"four thousand and twenty"`;
 
-exports[`handles 1-9999 -- partial range test 4022`] = `"four thousand twenty one"`;
+exports[`handles 1-9999 -- partial range test 4022`] = `"four thousand and twenty one"`;
 
-exports[`handles 1-9999 -- partial range test 4023`] = `"four thousand twenty two"`;
+exports[`handles 1-9999 -- partial range test 4023`] = `"four thousand and twenty two"`;
 
-exports[`handles 1-9999 -- partial range test 4024`] = `"four thousand twenty three"`;
+exports[`handles 1-9999 -- partial range test 4024`] = `"four thousand and twenty three"`;
 
-exports[`handles 1-9999 -- partial range test 4025`] = `"four thousand twenty four"`;
+exports[`handles 1-9999 -- partial range test 4025`] = `"four thousand and twenty four"`;
 
-exports[`handles 1-9999 -- partial range test 4026`] = `"four thousand twenty five"`;
+exports[`handles 1-9999 -- partial range test 4026`] = `"four thousand and twenty five"`;
 
-exports[`handles 1-9999 -- partial range test 4027`] = `"four thousand twenty six"`;
+exports[`handles 1-9999 -- partial range test 4027`] = `"four thousand and twenty six"`;
 
-exports[`handles 1-9999 -- partial range test 4028`] = `"four thousand twenty seven"`;
+exports[`handles 1-9999 -- partial range test 4028`] = `"four thousand and twenty seven"`;
 
-exports[`handles 1-9999 -- partial range test 4029`] = `"four thousand twenty eight"`;
+exports[`handles 1-9999 -- partial range test 4029`] = `"four thousand and twenty eight"`;
 
-exports[`handles 1-9999 -- partial range test 4030`] = `"four thousand twenty nine"`;
+exports[`handles 1-9999 -- partial range test 4030`] = `"four thousand and twenty nine"`;
 
-exports[`handles 1-9999 -- partial range test 4031`] = `"four thousand thirty"`;
+exports[`handles 1-9999 -- partial range test 4031`] = `"four thousand and thirty"`;
 
-exports[`handles 1-9999 -- partial range test 4032`] = `"four thousand thirty one"`;
+exports[`handles 1-9999 -- partial range test 4032`] = `"four thousand and thirty one"`;
 
-exports[`handles 1-9999 -- partial range test 4033`] = `"four thousand thirty two"`;
+exports[`handles 1-9999 -- partial range test 4033`] = `"four thousand and thirty two"`;
 
-exports[`handles 1-9999 -- partial range test 4034`] = `"four thousand thirty three"`;
+exports[`handles 1-9999 -- partial range test 4034`] = `"four thousand and thirty three"`;
 
-exports[`handles 1-9999 -- partial range test 4035`] = `"four thousand thirty four"`;
+exports[`handles 1-9999 -- partial range test 4035`] = `"four thousand and thirty four"`;
 
-exports[`handles 1-9999 -- partial range test 4036`] = `"four thousand thirty five"`;
+exports[`handles 1-9999 -- partial range test 4036`] = `"four thousand and thirty five"`;
 
-exports[`handles 1-9999 -- partial range test 4037`] = `"four thousand thirty six"`;
+exports[`handles 1-9999 -- partial range test 4037`] = `"four thousand and thirty six"`;
 
-exports[`handles 1-9999 -- partial range test 4038`] = `"four thousand thirty seven"`;
+exports[`handles 1-9999 -- partial range test 4038`] = `"four thousand and thirty seven"`;
 
-exports[`handles 1-9999 -- partial range test 4039`] = `"four thousand thirty eight"`;
+exports[`handles 1-9999 -- partial range test 4039`] = `"four thousand and thirty eight"`;
 
-exports[`handles 1-9999 -- partial range test 4040`] = `"four thousand thirty nine"`;
+exports[`handles 1-9999 -- partial range test 4040`] = `"four thousand and thirty nine"`;
 
-exports[`handles 1-9999 -- partial range test 4041`] = `"four thousand forty"`;
+exports[`handles 1-9999 -- partial range test 4041`] = `"four thousand and forty"`;
 
-exports[`handles 1-9999 -- partial range test 4042`] = `"four thousand forty one"`;
+exports[`handles 1-9999 -- partial range test 4042`] = `"four thousand and forty one"`;
 
-exports[`handles 1-9999 -- partial range test 4043`] = `"four thousand forty two"`;
+exports[`handles 1-9999 -- partial range test 4043`] = `"four thousand and forty two"`;
 
-exports[`handles 1-9999 -- partial range test 4044`] = `"four thousand forty three"`;
+exports[`handles 1-9999 -- partial range test 4044`] = `"four thousand and forty three"`;
 
-exports[`handles 1-9999 -- partial range test 4045`] = `"four thousand forty four"`;
+exports[`handles 1-9999 -- partial range test 4045`] = `"four thousand and forty four"`;
 
-exports[`handles 1-9999 -- partial range test 4046`] = `"four thousand forty five"`;
+exports[`handles 1-9999 -- partial range test 4046`] = `"four thousand and forty five"`;
 
-exports[`handles 1-9999 -- partial range test 4047`] = `"four thousand forty six"`;
+exports[`handles 1-9999 -- partial range test 4047`] = `"four thousand and forty six"`;
 
-exports[`handles 1-9999 -- partial range test 4048`] = `"four thousand forty seven"`;
+exports[`handles 1-9999 -- partial range test 4048`] = `"four thousand and forty seven"`;
 
-exports[`handles 1-9999 -- partial range test 4049`] = `"four thousand forty eight"`;
+exports[`handles 1-9999 -- partial range test 4049`] = `"four thousand and forty eight"`;
 
-exports[`handles 1-9999 -- partial range test 4050`] = `"four thousand forty nine"`;
+exports[`handles 1-9999 -- partial range test 4050`] = `"four thousand and forty nine"`;
 
-exports[`handles 1-9999 -- partial range test 4051`] = `"four thousand fifty"`;
+exports[`handles 1-9999 -- partial range test 4051`] = `"four thousand and fifty"`;
 
-exports[`handles 1-9999 -- partial range test 4052`] = `"four thousand fifty one"`;
+exports[`handles 1-9999 -- partial range test 4052`] = `"four thousand and fifty one"`;
 
-exports[`handles 1-9999 -- partial range test 4053`] = `"four thousand fifty two"`;
+exports[`handles 1-9999 -- partial range test 4053`] = `"four thousand and fifty two"`;
 
-exports[`handles 1-9999 -- partial range test 4054`] = `"four thousand fifty three"`;
+exports[`handles 1-9999 -- partial range test 4054`] = `"four thousand and fifty three"`;
 
-exports[`handles 1-9999 -- partial range test 4055`] = `"four thousand fifty four"`;
+exports[`handles 1-9999 -- partial range test 4055`] = `"four thousand and fifty four"`;
 
-exports[`handles 1-9999 -- partial range test 4056`] = `"four thousand fifty five"`;
+exports[`handles 1-9999 -- partial range test 4056`] = `"four thousand and fifty five"`;
 
-exports[`handles 1-9999 -- partial range test 4057`] = `"four thousand fifty six"`;
+exports[`handles 1-9999 -- partial range test 4057`] = `"four thousand and fifty six"`;
 
-exports[`handles 1-9999 -- partial range test 4058`] = `"four thousand fifty seven"`;
+exports[`handles 1-9999 -- partial range test 4058`] = `"four thousand and fifty seven"`;
 
-exports[`handles 1-9999 -- partial range test 4059`] = `"four thousand fifty eight"`;
+exports[`handles 1-9999 -- partial range test 4059`] = `"four thousand and fifty eight"`;
 
-exports[`handles 1-9999 -- partial range test 4060`] = `"four thousand fifty nine"`;
+exports[`handles 1-9999 -- partial range test 4060`] = `"four thousand and fifty nine"`;
 
-exports[`handles 1-9999 -- partial range test 4061`] = `"four thousand sixty"`;
+exports[`handles 1-9999 -- partial range test 4061`] = `"four thousand and sixty"`;
 
-exports[`handles 1-9999 -- partial range test 4062`] = `"four thousand sixty one"`;
+exports[`handles 1-9999 -- partial range test 4062`] = `"four thousand and sixty one"`;
 
-exports[`handles 1-9999 -- partial range test 4063`] = `"four thousand sixty two"`;
+exports[`handles 1-9999 -- partial range test 4063`] = `"four thousand and sixty two"`;
 
-exports[`handles 1-9999 -- partial range test 4064`] = `"four thousand sixty three"`;
+exports[`handles 1-9999 -- partial range test 4064`] = `"four thousand and sixty three"`;
 
-exports[`handles 1-9999 -- partial range test 4065`] = `"four thousand sixty four"`;
+exports[`handles 1-9999 -- partial range test 4065`] = `"four thousand and sixty four"`;
 
-exports[`handles 1-9999 -- partial range test 4066`] = `"four thousand sixty five"`;
+exports[`handles 1-9999 -- partial range test 4066`] = `"four thousand and sixty five"`;
 
-exports[`handles 1-9999 -- partial range test 4067`] = `"four thousand sixty six"`;
+exports[`handles 1-9999 -- partial range test 4067`] = `"four thousand and sixty six"`;
 
-exports[`handles 1-9999 -- partial range test 4068`] = `"four thousand sixty seven"`;
+exports[`handles 1-9999 -- partial range test 4068`] = `"four thousand and sixty seven"`;
 
-exports[`handles 1-9999 -- partial range test 4069`] = `"four thousand sixty eight"`;
+exports[`handles 1-9999 -- partial range test 4069`] = `"four thousand and sixty eight"`;
 
-exports[`handles 1-9999 -- partial range test 4070`] = `"four thousand sixty nine"`;
+exports[`handles 1-9999 -- partial range test 4070`] = `"four thousand and sixty nine"`;
 
-exports[`handles 1-9999 -- partial range test 4071`] = `"four thousand seventy"`;
+exports[`handles 1-9999 -- partial range test 4071`] = `"four thousand and seventy"`;
 
-exports[`handles 1-9999 -- partial range test 4072`] = `"four thousand seventy one"`;
+exports[`handles 1-9999 -- partial range test 4072`] = `"four thousand and seventy one"`;
 
-exports[`handles 1-9999 -- partial range test 4073`] = `"four thousand seventy two"`;
+exports[`handles 1-9999 -- partial range test 4073`] = `"four thousand and seventy two"`;
 
-exports[`handles 1-9999 -- partial range test 4074`] = `"four thousand seventy three"`;
+exports[`handles 1-9999 -- partial range test 4074`] = `"four thousand and seventy three"`;
 
-exports[`handles 1-9999 -- partial range test 4075`] = `"four thousand seventy four"`;
+exports[`handles 1-9999 -- partial range test 4075`] = `"four thousand and seventy four"`;
 
-exports[`handles 1-9999 -- partial range test 4076`] = `"four thousand seventy five"`;
+exports[`handles 1-9999 -- partial range test 4076`] = `"four thousand and seventy five"`;
 
-exports[`handles 1-9999 -- partial range test 4077`] = `"four thousand seventy six"`;
+exports[`handles 1-9999 -- partial range test 4077`] = `"four thousand and seventy six"`;
 
-exports[`handles 1-9999 -- partial range test 4078`] = `"four thousand seventy seven"`;
+exports[`handles 1-9999 -- partial range test 4078`] = `"four thousand and seventy seven"`;
 
-exports[`handles 1-9999 -- partial range test 4079`] = `"four thousand seventy eight"`;
+exports[`handles 1-9999 -- partial range test 4079`] = `"four thousand and seventy eight"`;
 
-exports[`handles 1-9999 -- partial range test 4080`] = `"four thousand seventy nine"`;
+exports[`handles 1-9999 -- partial range test 4080`] = `"four thousand and seventy nine"`;
 
-exports[`handles 1-9999 -- partial range test 4081`] = `"four thousand eighty"`;
+exports[`handles 1-9999 -- partial range test 4081`] = `"four thousand and eighty"`;
 
-exports[`handles 1-9999 -- partial range test 4082`] = `"four thousand eighty one"`;
+exports[`handles 1-9999 -- partial range test 4082`] = `"four thousand and eighty one"`;
 
-exports[`handles 1-9999 -- partial range test 4083`] = `"four thousand eighty two"`;
+exports[`handles 1-9999 -- partial range test 4083`] = `"four thousand and eighty two"`;
 
-exports[`handles 1-9999 -- partial range test 4084`] = `"four thousand eighty three"`;
+exports[`handles 1-9999 -- partial range test 4084`] = `"four thousand and eighty three"`;
 
-exports[`handles 1-9999 -- partial range test 4085`] = `"four thousand eighty four"`;
+exports[`handles 1-9999 -- partial range test 4085`] = `"four thousand and eighty four"`;
 
-exports[`handles 1-9999 -- partial range test 4086`] = `"four thousand eighty five"`;
+exports[`handles 1-9999 -- partial range test 4086`] = `"four thousand and eighty five"`;
 
-exports[`handles 1-9999 -- partial range test 4087`] = `"four thousand eighty six"`;
+exports[`handles 1-9999 -- partial range test 4087`] = `"four thousand and eighty six"`;
 
-exports[`handles 1-9999 -- partial range test 4088`] = `"four thousand eighty seven"`;
+exports[`handles 1-9999 -- partial range test 4088`] = `"four thousand and eighty seven"`;
 
-exports[`handles 1-9999 -- partial range test 4089`] = `"four thousand eighty eight"`;
+exports[`handles 1-9999 -- partial range test 4089`] = `"four thousand and eighty eight"`;
 
-exports[`handles 1-9999 -- partial range test 4090`] = `"four thousand eighty nine"`;
+exports[`handles 1-9999 -- partial range test 4090`] = `"four thousand and eighty nine"`;
 
-exports[`handles 1-9999 -- partial range test 4091`] = `"four thousand ninety"`;
+exports[`handles 1-9999 -- partial range test 4091`] = `"four thousand and ninety"`;
 
-exports[`handles 1-9999 -- partial range test 4092`] = `"four thousand ninety one"`;
+exports[`handles 1-9999 -- partial range test 4092`] = `"four thousand and ninety one"`;
 
-exports[`handles 1-9999 -- partial range test 4093`] = `"four thousand ninety two"`;
+exports[`handles 1-9999 -- partial range test 4093`] = `"four thousand and ninety two"`;
 
-exports[`handles 1-9999 -- partial range test 4094`] = `"four thousand ninety three"`;
+exports[`handles 1-9999 -- partial range test 4094`] = `"four thousand and ninety three"`;
 
-exports[`handles 1-9999 -- partial range test 4095`] = `"four thousand ninety four"`;
+exports[`handles 1-9999 -- partial range test 4095`] = `"four thousand and ninety four"`;
 
-exports[`handles 1-9999 -- partial range test 4096`] = `"four thousand ninety five"`;
+exports[`handles 1-9999 -- partial range test 4096`] = `"four thousand and ninety five"`;
 
-exports[`handles 1-9999 -- partial range test 4097`] = `"four thousand ninety six"`;
+exports[`handles 1-9999 -- partial range test 4097`] = `"four thousand and ninety six"`;
 
-exports[`handles 1-9999 -- partial range test 4098`] = `"four thousand ninety seven"`;
+exports[`handles 1-9999 -- partial range test 4098`] = `"four thousand and ninety seven"`;
 
-exports[`handles 1-9999 -- partial range test 4099`] = `"four thousand ninety eight"`;
+exports[`handles 1-9999 -- partial range test 4099`] = `"four thousand and ninety eight"`;
 
-exports[`handles 1-9999 -- partial range test 4100`] = `"four thousand ninety nine"`;
+exports[`handles 1-9999 -- partial range test 4100`] = `"four thousand and ninety nine"`;
 
 exports[`handles 1-9999 -- partial range test 4101`] = `"four thousand one hundred"`;
 
@@ -10060,203 +10060,203 @@ exports[`handles 1-9999 -- partial range test 5000`] = `"four thousand nine hund
 
 exports[`handles 1-9999 -- partial range test 5001`] = `"five thousand"`;
 
-exports[`handles 1-9999 -- partial range test 5002`] = `"five thousand one"`;
+exports[`handles 1-9999 -- partial range test 5002`] = `"five thousand and one"`;
 
-exports[`handles 1-9999 -- partial range test 5003`] = `"five thousand two"`;
+exports[`handles 1-9999 -- partial range test 5003`] = `"five thousand and two"`;
 
-exports[`handles 1-9999 -- partial range test 5004`] = `"five thousand three"`;
+exports[`handles 1-9999 -- partial range test 5004`] = `"five thousand and three"`;
 
-exports[`handles 1-9999 -- partial range test 5005`] = `"five thousand four"`;
+exports[`handles 1-9999 -- partial range test 5005`] = `"five thousand and four"`;
 
-exports[`handles 1-9999 -- partial range test 5006`] = `"five thousand five"`;
+exports[`handles 1-9999 -- partial range test 5006`] = `"five thousand and five"`;
 
-exports[`handles 1-9999 -- partial range test 5007`] = `"five thousand six"`;
+exports[`handles 1-9999 -- partial range test 5007`] = `"five thousand and six"`;
 
-exports[`handles 1-9999 -- partial range test 5008`] = `"five thousand seven"`;
+exports[`handles 1-9999 -- partial range test 5008`] = `"five thousand and seven"`;
 
-exports[`handles 1-9999 -- partial range test 5009`] = `"five thousand eight"`;
+exports[`handles 1-9999 -- partial range test 5009`] = `"five thousand and eight"`;
 
-exports[`handles 1-9999 -- partial range test 5010`] = `"five thousand nine"`;
+exports[`handles 1-9999 -- partial range test 5010`] = `"five thousand and nine"`;
 
-exports[`handles 1-9999 -- partial range test 5011`] = `"five thousand ten"`;
+exports[`handles 1-9999 -- partial range test 5011`] = `"five thousand and ten"`;
 
-exports[`handles 1-9999 -- partial range test 5012`] = `"five thousand eleven"`;
+exports[`handles 1-9999 -- partial range test 5012`] = `"five thousand and eleven"`;
 
-exports[`handles 1-9999 -- partial range test 5013`] = `"five thousand twelve"`;
+exports[`handles 1-9999 -- partial range test 5013`] = `"five thousand and twelve"`;
 
-exports[`handles 1-9999 -- partial range test 5014`] = `"five thousand thirteen"`;
+exports[`handles 1-9999 -- partial range test 5014`] = `"five thousand and thirteen"`;
 
-exports[`handles 1-9999 -- partial range test 5015`] = `"five thousand fourteen"`;
+exports[`handles 1-9999 -- partial range test 5015`] = `"five thousand and fourteen"`;
 
-exports[`handles 1-9999 -- partial range test 5016`] = `"five thousand fifteen"`;
+exports[`handles 1-9999 -- partial range test 5016`] = `"five thousand and fifteen"`;
 
-exports[`handles 1-9999 -- partial range test 5017`] = `"five thousand sixteen"`;
+exports[`handles 1-9999 -- partial range test 5017`] = `"five thousand and sixteen"`;
 
-exports[`handles 1-9999 -- partial range test 5018`] = `"five thousand seventeen"`;
+exports[`handles 1-9999 -- partial range test 5018`] = `"five thousand and seventeen"`;
 
-exports[`handles 1-9999 -- partial range test 5019`] = `"five thousand eighteen"`;
+exports[`handles 1-9999 -- partial range test 5019`] = `"five thousand and eighteen"`;
 
-exports[`handles 1-9999 -- partial range test 5020`] = `"five thousand nineteen"`;
+exports[`handles 1-9999 -- partial range test 5020`] = `"five thousand and nineteen"`;
 
-exports[`handles 1-9999 -- partial range test 5021`] = `"five thousand twenty"`;
+exports[`handles 1-9999 -- partial range test 5021`] = `"five thousand and twenty"`;
 
-exports[`handles 1-9999 -- partial range test 5022`] = `"five thousand twenty one"`;
+exports[`handles 1-9999 -- partial range test 5022`] = `"five thousand and twenty one"`;
 
-exports[`handles 1-9999 -- partial range test 5023`] = `"five thousand twenty two"`;
+exports[`handles 1-9999 -- partial range test 5023`] = `"five thousand and twenty two"`;
 
-exports[`handles 1-9999 -- partial range test 5024`] = `"five thousand twenty three"`;
+exports[`handles 1-9999 -- partial range test 5024`] = `"five thousand and twenty three"`;
 
-exports[`handles 1-9999 -- partial range test 5025`] = `"five thousand twenty four"`;
+exports[`handles 1-9999 -- partial range test 5025`] = `"five thousand and twenty four"`;
 
-exports[`handles 1-9999 -- partial range test 5026`] = `"five thousand twenty five"`;
+exports[`handles 1-9999 -- partial range test 5026`] = `"five thousand and twenty five"`;
 
-exports[`handles 1-9999 -- partial range test 5027`] = `"five thousand twenty six"`;
+exports[`handles 1-9999 -- partial range test 5027`] = `"five thousand and twenty six"`;
 
-exports[`handles 1-9999 -- partial range test 5028`] = `"five thousand twenty seven"`;
+exports[`handles 1-9999 -- partial range test 5028`] = `"five thousand and twenty seven"`;
 
-exports[`handles 1-9999 -- partial range test 5029`] = `"five thousand twenty eight"`;
+exports[`handles 1-9999 -- partial range test 5029`] = `"five thousand and twenty eight"`;
 
-exports[`handles 1-9999 -- partial range test 5030`] = `"five thousand twenty nine"`;
+exports[`handles 1-9999 -- partial range test 5030`] = `"five thousand and twenty nine"`;
 
-exports[`handles 1-9999 -- partial range test 5031`] = `"five thousand thirty"`;
+exports[`handles 1-9999 -- partial range test 5031`] = `"five thousand and thirty"`;
 
-exports[`handles 1-9999 -- partial range test 5032`] = `"five thousand thirty one"`;
+exports[`handles 1-9999 -- partial range test 5032`] = `"five thousand and thirty one"`;
 
-exports[`handles 1-9999 -- partial range test 5033`] = `"five thousand thirty two"`;
+exports[`handles 1-9999 -- partial range test 5033`] = `"five thousand and thirty two"`;
 
-exports[`handles 1-9999 -- partial range test 5034`] = `"five thousand thirty three"`;
+exports[`handles 1-9999 -- partial range test 5034`] = `"five thousand and thirty three"`;
 
-exports[`handles 1-9999 -- partial range test 5035`] = `"five thousand thirty four"`;
+exports[`handles 1-9999 -- partial range test 5035`] = `"five thousand and thirty four"`;
 
-exports[`handles 1-9999 -- partial range test 5036`] = `"five thousand thirty five"`;
+exports[`handles 1-9999 -- partial range test 5036`] = `"five thousand and thirty five"`;
 
-exports[`handles 1-9999 -- partial range test 5037`] = `"five thousand thirty six"`;
+exports[`handles 1-9999 -- partial range test 5037`] = `"five thousand and thirty six"`;
 
-exports[`handles 1-9999 -- partial range test 5038`] = `"five thousand thirty seven"`;
+exports[`handles 1-9999 -- partial range test 5038`] = `"five thousand and thirty seven"`;
 
-exports[`handles 1-9999 -- partial range test 5039`] = `"five thousand thirty eight"`;
+exports[`handles 1-9999 -- partial range test 5039`] = `"five thousand and thirty eight"`;
 
-exports[`handles 1-9999 -- partial range test 5040`] = `"five thousand thirty nine"`;
+exports[`handles 1-9999 -- partial range test 5040`] = `"five thousand and thirty nine"`;
 
-exports[`handles 1-9999 -- partial range test 5041`] = `"five thousand forty"`;
+exports[`handles 1-9999 -- partial range test 5041`] = `"five thousand and forty"`;
 
-exports[`handles 1-9999 -- partial range test 5042`] = `"five thousand forty one"`;
+exports[`handles 1-9999 -- partial range test 5042`] = `"five thousand and forty one"`;
 
-exports[`handles 1-9999 -- partial range test 5043`] = `"five thousand forty two"`;
+exports[`handles 1-9999 -- partial range test 5043`] = `"five thousand and forty two"`;
 
-exports[`handles 1-9999 -- partial range test 5044`] = `"five thousand forty three"`;
+exports[`handles 1-9999 -- partial range test 5044`] = `"five thousand and forty three"`;
 
-exports[`handles 1-9999 -- partial range test 5045`] = `"five thousand forty four"`;
+exports[`handles 1-9999 -- partial range test 5045`] = `"five thousand and forty four"`;
 
-exports[`handles 1-9999 -- partial range test 5046`] = `"five thousand forty five"`;
+exports[`handles 1-9999 -- partial range test 5046`] = `"five thousand and forty five"`;
 
-exports[`handles 1-9999 -- partial range test 5047`] = `"five thousand forty six"`;
+exports[`handles 1-9999 -- partial range test 5047`] = `"five thousand and forty six"`;
 
-exports[`handles 1-9999 -- partial range test 5048`] = `"five thousand forty seven"`;
+exports[`handles 1-9999 -- partial range test 5048`] = `"five thousand and forty seven"`;
 
-exports[`handles 1-9999 -- partial range test 5049`] = `"five thousand forty eight"`;
+exports[`handles 1-9999 -- partial range test 5049`] = `"five thousand and forty eight"`;
 
-exports[`handles 1-9999 -- partial range test 5050`] = `"five thousand forty nine"`;
+exports[`handles 1-9999 -- partial range test 5050`] = `"five thousand and forty nine"`;
 
-exports[`handles 1-9999 -- partial range test 5051`] = `"five thousand fifty"`;
+exports[`handles 1-9999 -- partial range test 5051`] = `"five thousand and fifty"`;
 
-exports[`handles 1-9999 -- partial range test 5052`] = `"five thousand fifty one"`;
+exports[`handles 1-9999 -- partial range test 5052`] = `"five thousand and fifty one"`;
 
-exports[`handles 1-9999 -- partial range test 5053`] = `"five thousand fifty two"`;
+exports[`handles 1-9999 -- partial range test 5053`] = `"five thousand and fifty two"`;
 
-exports[`handles 1-9999 -- partial range test 5054`] = `"five thousand fifty three"`;
+exports[`handles 1-9999 -- partial range test 5054`] = `"five thousand and fifty three"`;
 
-exports[`handles 1-9999 -- partial range test 5055`] = `"five thousand fifty four"`;
+exports[`handles 1-9999 -- partial range test 5055`] = `"five thousand and fifty four"`;
 
-exports[`handles 1-9999 -- partial range test 5056`] = `"five thousand fifty five"`;
+exports[`handles 1-9999 -- partial range test 5056`] = `"five thousand and fifty five"`;
 
-exports[`handles 1-9999 -- partial range test 5057`] = `"five thousand fifty six"`;
+exports[`handles 1-9999 -- partial range test 5057`] = `"five thousand and fifty six"`;
 
-exports[`handles 1-9999 -- partial range test 5058`] = `"five thousand fifty seven"`;
+exports[`handles 1-9999 -- partial range test 5058`] = `"five thousand and fifty seven"`;
 
-exports[`handles 1-9999 -- partial range test 5059`] = `"five thousand fifty eight"`;
+exports[`handles 1-9999 -- partial range test 5059`] = `"five thousand and fifty eight"`;
 
-exports[`handles 1-9999 -- partial range test 5060`] = `"five thousand fifty nine"`;
+exports[`handles 1-9999 -- partial range test 5060`] = `"five thousand and fifty nine"`;
 
-exports[`handles 1-9999 -- partial range test 5061`] = `"five thousand sixty"`;
+exports[`handles 1-9999 -- partial range test 5061`] = `"five thousand and sixty"`;
 
-exports[`handles 1-9999 -- partial range test 5062`] = `"five thousand sixty one"`;
+exports[`handles 1-9999 -- partial range test 5062`] = `"five thousand and sixty one"`;
 
-exports[`handles 1-9999 -- partial range test 5063`] = `"five thousand sixty two"`;
+exports[`handles 1-9999 -- partial range test 5063`] = `"five thousand and sixty two"`;
 
-exports[`handles 1-9999 -- partial range test 5064`] = `"five thousand sixty three"`;
+exports[`handles 1-9999 -- partial range test 5064`] = `"five thousand and sixty three"`;
 
-exports[`handles 1-9999 -- partial range test 5065`] = `"five thousand sixty four"`;
+exports[`handles 1-9999 -- partial range test 5065`] = `"five thousand and sixty four"`;
 
-exports[`handles 1-9999 -- partial range test 5066`] = `"five thousand sixty five"`;
+exports[`handles 1-9999 -- partial range test 5066`] = `"five thousand and sixty five"`;
 
-exports[`handles 1-9999 -- partial range test 5067`] = `"five thousand sixty six"`;
+exports[`handles 1-9999 -- partial range test 5067`] = `"five thousand and sixty six"`;
 
-exports[`handles 1-9999 -- partial range test 5068`] = `"five thousand sixty seven"`;
+exports[`handles 1-9999 -- partial range test 5068`] = `"five thousand and sixty seven"`;
 
-exports[`handles 1-9999 -- partial range test 5069`] = `"five thousand sixty eight"`;
+exports[`handles 1-9999 -- partial range test 5069`] = `"five thousand and sixty eight"`;
 
-exports[`handles 1-9999 -- partial range test 5070`] = `"five thousand sixty nine"`;
+exports[`handles 1-9999 -- partial range test 5070`] = `"five thousand and sixty nine"`;
 
-exports[`handles 1-9999 -- partial range test 5071`] = `"five thousand seventy"`;
+exports[`handles 1-9999 -- partial range test 5071`] = `"five thousand and seventy"`;
 
-exports[`handles 1-9999 -- partial range test 5072`] = `"five thousand seventy one"`;
+exports[`handles 1-9999 -- partial range test 5072`] = `"five thousand and seventy one"`;
 
-exports[`handles 1-9999 -- partial range test 5073`] = `"five thousand seventy two"`;
+exports[`handles 1-9999 -- partial range test 5073`] = `"five thousand and seventy two"`;
 
-exports[`handles 1-9999 -- partial range test 5074`] = `"five thousand seventy three"`;
+exports[`handles 1-9999 -- partial range test 5074`] = `"five thousand and seventy three"`;
 
-exports[`handles 1-9999 -- partial range test 5075`] = `"five thousand seventy four"`;
+exports[`handles 1-9999 -- partial range test 5075`] = `"five thousand and seventy four"`;
 
-exports[`handles 1-9999 -- partial range test 5076`] = `"five thousand seventy five"`;
+exports[`handles 1-9999 -- partial range test 5076`] = `"five thousand and seventy five"`;
 
-exports[`handles 1-9999 -- partial range test 5077`] = `"five thousand seventy six"`;
+exports[`handles 1-9999 -- partial range test 5077`] = `"five thousand and seventy six"`;
 
-exports[`handles 1-9999 -- partial range test 5078`] = `"five thousand seventy seven"`;
+exports[`handles 1-9999 -- partial range test 5078`] = `"five thousand and seventy seven"`;
 
-exports[`handles 1-9999 -- partial range test 5079`] = `"five thousand seventy eight"`;
+exports[`handles 1-9999 -- partial range test 5079`] = `"five thousand and seventy eight"`;
 
-exports[`handles 1-9999 -- partial range test 5080`] = `"five thousand seventy nine"`;
+exports[`handles 1-9999 -- partial range test 5080`] = `"five thousand and seventy nine"`;
 
-exports[`handles 1-9999 -- partial range test 5081`] = `"five thousand eighty"`;
+exports[`handles 1-9999 -- partial range test 5081`] = `"five thousand and eighty"`;
 
-exports[`handles 1-9999 -- partial range test 5082`] = `"five thousand eighty one"`;
+exports[`handles 1-9999 -- partial range test 5082`] = `"five thousand and eighty one"`;
 
-exports[`handles 1-9999 -- partial range test 5083`] = `"five thousand eighty two"`;
+exports[`handles 1-9999 -- partial range test 5083`] = `"five thousand and eighty two"`;
 
-exports[`handles 1-9999 -- partial range test 5084`] = `"five thousand eighty three"`;
+exports[`handles 1-9999 -- partial range test 5084`] = `"five thousand and eighty three"`;
 
-exports[`handles 1-9999 -- partial range test 5085`] = `"five thousand eighty four"`;
+exports[`handles 1-9999 -- partial range test 5085`] = `"five thousand and eighty four"`;
 
-exports[`handles 1-9999 -- partial range test 5086`] = `"five thousand eighty five"`;
+exports[`handles 1-9999 -- partial range test 5086`] = `"five thousand and eighty five"`;
 
-exports[`handles 1-9999 -- partial range test 5087`] = `"five thousand eighty six"`;
+exports[`handles 1-9999 -- partial range test 5087`] = `"five thousand and eighty six"`;
 
-exports[`handles 1-9999 -- partial range test 5088`] = `"five thousand eighty seven"`;
+exports[`handles 1-9999 -- partial range test 5088`] = `"five thousand and eighty seven"`;
 
-exports[`handles 1-9999 -- partial range test 5089`] = `"five thousand eighty eight"`;
+exports[`handles 1-9999 -- partial range test 5089`] = `"five thousand and eighty eight"`;
 
-exports[`handles 1-9999 -- partial range test 5090`] = `"five thousand eighty nine"`;
+exports[`handles 1-9999 -- partial range test 5090`] = `"five thousand and eighty nine"`;
 
-exports[`handles 1-9999 -- partial range test 5091`] = `"five thousand ninety"`;
+exports[`handles 1-9999 -- partial range test 5091`] = `"five thousand and ninety"`;
 
-exports[`handles 1-9999 -- partial range test 5092`] = `"five thousand ninety one"`;
+exports[`handles 1-9999 -- partial range test 5092`] = `"five thousand and ninety one"`;
 
-exports[`handles 1-9999 -- partial range test 5093`] = `"five thousand ninety two"`;
+exports[`handles 1-9999 -- partial range test 5093`] = `"five thousand and ninety two"`;
 
-exports[`handles 1-9999 -- partial range test 5094`] = `"five thousand ninety three"`;
+exports[`handles 1-9999 -- partial range test 5094`] = `"five thousand and ninety three"`;
 
-exports[`handles 1-9999 -- partial range test 5095`] = `"five thousand ninety four"`;
+exports[`handles 1-9999 -- partial range test 5095`] = `"five thousand and ninety four"`;
 
-exports[`handles 1-9999 -- partial range test 5096`] = `"five thousand ninety five"`;
+exports[`handles 1-9999 -- partial range test 5096`] = `"five thousand and ninety five"`;
 
-exports[`handles 1-9999 -- partial range test 5097`] = `"five thousand ninety six"`;
+exports[`handles 1-9999 -- partial range test 5097`] = `"five thousand and ninety six"`;
 
-exports[`handles 1-9999 -- partial range test 5098`] = `"five thousand ninety seven"`;
+exports[`handles 1-9999 -- partial range test 5098`] = `"five thousand and ninety seven"`;
 
-exports[`handles 1-9999 -- partial range test 5099`] = `"five thousand ninety eight"`;
+exports[`handles 1-9999 -- partial range test 5099`] = `"five thousand and ninety eight"`;
 
-exports[`handles 1-9999 -- partial range test 5100`] = `"five thousand ninety nine"`;
+exports[`handles 1-9999 -- partial range test 5100`] = `"five thousand and ninety nine"`;
 
 exports[`handles 1-9999 -- partial range test 5101`] = `"five thousand one hundred"`;
 
@@ -12060,203 +12060,203 @@ exports[`handles 1-9999 -- partial range test 6000`] = `"five thousand nine hund
 
 exports[`handles 1-9999 -- partial range test 6001`] = `"six thousand"`;
 
-exports[`handles 1-9999 -- partial range test 6002`] = `"six thousand one"`;
+exports[`handles 1-9999 -- partial range test 6002`] = `"six thousand and one"`;
 
-exports[`handles 1-9999 -- partial range test 6003`] = `"six thousand two"`;
+exports[`handles 1-9999 -- partial range test 6003`] = `"six thousand and two"`;
 
-exports[`handles 1-9999 -- partial range test 6004`] = `"six thousand three"`;
+exports[`handles 1-9999 -- partial range test 6004`] = `"six thousand and three"`;
 
-exports[`handles 1-9999 -- partial range test 6005`] = `"six thousand four"`;
+exports[`handles 1-9999 -- partial range test 6005`] = `"six thousand and four"`;
 
-exports[`handles 1-9999 -- partial range test 6006`] = `"six thousand five"`;
+exports[`handles 1-9999 -- partial range test 6006`] = `"six thousand and five"`;
 
-exports[`handles 1-9999 -- partial range test 6007`] = `"six thousand six"`;
+exports[`handles 1-9999 -- partial range test 6007`] = `"six thousand and six"`;
 
-exports[`handles 1-9999 -- partial range test 6008`] = `"six thousand seven"`;
+exports[`handles 1-9999 -- partial range test 6008`] = `"six thousand and seven"`;
 
-exports[`handles 1-9999 -- partial range test 6009`] = `"six thousand eight"`;
+exports[`handles 1-9999 -- partial range test 6009`] = `"six thousand and eight"`;
 
-exports[`handles 1-9999 -- partial range test 6010`] = `"six thousand nine"`;
+exports[`handles 1-9999 -- partial range test 6010`] = `"six thousand and nine"`;
 
-exports[`handles 1-9999 -- partial range test 6011`] = `"six thousand ten"`;
+exports[`handles 1-9999 -- partial range test 6011`] = `"six thousand and ten"`;
 
-exports[`handles 1-9999 -- partial range test 6012`] = `"six thousand eleven"`;
+exports[`handles 1-9999 -- partial range test 6012`] = `"six thousand and eleven"`;
 
-exports[`handles 1-9999 -- partial range test 6013`] = `"six thousand twelve"`;
+exports[`handles 1-9999 -- partial range test 6013`] = `"six thousand and twelve"`;
 
-exports[`handles 1-9999 -- partial range test 6014`] = `"six thousand thirteen"`;
+exports[`handles 1-9999 -- partial range test 6014`] = `"six thousand and thirteen"`;
 
-exports[`handles 1-9999 -- partial range test 6015`] = `"six thousand fourteen"`;
+exports[`handles 1-9999 -- partial range test 6015`] = `"six thousand and fourteen"`;
 
-exports[`handles 1-9999 -- partial range test 6016`] = `"six thousand fifteen"`;
+exports[`handles 1-9999 -- partial range test 6016`] = `"six thousand and fifteen"`;
 
-exports[`handles 1-9999 -- partial range test 6017`] = `"six thousand sixteen"`;
+exports[`handles 1-9999 -- partial range test 6017`] = `"six thousand and sixteen"`;
 
-exports[`handles 1-9999 -- partial range test 6018`] = `"six thousand seventeen"`;
+exports[`handles 1-9999 -- partial range test 6018`] = `"six thousand and seventeen"`;
 
-exports[`handles 1-9999 -- partial range test 6019`] = `"six thousand eighteen"`;
+exports[`handles 1-9999 -- partial range test 6019`] = `"six thousand and eighteen"`;
 
-exports[`handles 1-9999 -- partial range test 6020`] = `"six thousand nineteen"`;
+exports[`handles 1-9999 -- partial range test 6020`] = `"six thousand and nineteen"`;
 
-exports[`handles 1-9999 -- partial range test 6021`] = `"six thousand twenty"`;
+exports[`handles 1-9999 -- partial range test 6021`] = `"six thousand and twenty"`;
 
-exports[`handles 1-9999 -- partial range test 6022`] = `"six thousand twenty one"`;
+exports[`handles 1-9999 -- partial range test 6022`] = `"six thousand and twenty one"`;
 
-exports[`handles 1-9999 -- partial range test 6023`] = `"six thousand twenty two"`;
+exports[`handles 1-9999 -- partial range test 6023`] = `"six thousand and twenty two"`;
 
-exports[`handles 1-9999 -- partial range test 6024`] = `"six thousand twenty three"`;
+exports[`handles 1-9999 -- partial range test 6024`] = `"six thousand and twenty three"`;
 
-exports[`handles 1-9999 -- partial range test 6025`] = `"six thousand twenty four"`;
+exports[`handles 1-9999 -- partial range test 6025`] = `"six thousand and twenty four"`;
 
-exports[`handles 1-9999 -- partial range test 6026`] = `"six thousand twenty five"`;
+exports[`handles 1-9999 -- partial range test 6026`] = `"six thousand and twenty five"`;
 
-exports[`handles 1-9999 -- partial range test 6027`] = `"six thousand twenty six"`;
+exports[`handles 1-9999 -- partial range test 6027`] = `"six thousand and twenty six"`;
 
-exports[`handles 1-9999 -- partial range test 6028`] = `"six thousand twenty seven"`;
+exports[`handles 1-9999 -- partial range test 6028`] = `"six thousand and twenty seven"`;
 
-exports[`handles 1-9999 -- partial range test 6029`] = `"six thousand twenty eight"`;
+exports[`handles 1-9999 -- partial range test 6029`] = `"six thousand and twenty eight"`;
 
-exports[`handles 1-9999 -- partial range test 6030`] = `"six thousand twenty nine"`;
+exports[`handles 1-9999 -- partial range test 6030`] = `"six thousand and twenty nine"`;
 
-exports[`handles 1-9999 -- partial range test 6031`] = `"six thousand thirty"`;
+exports[`handles 1-9999 -- partial range test 6031`] = `"six thousand and thirty"`;
 
-exports[`handles 1-9999 -- partial range test 6032`] = `"six thousand thirty one"`;
+exports[`handles 1-9999 -- partial range test 6032`] = `"six thousand and thirty one"`;
 
-exports[`handles 1-9999 -- partial range test 6033`] = `"six thousand thirty two"`;
+exports[`handles 1-9999 -- partial range test 6033`] = `"six thousand and thirty two"`;
 
-exports[`handles 1-9999 -- partial range test 6034`] = `"six thousand thirty three"`;
+exports[`handles 1-9999 -- partial range test 6034`] = `"six thousand and thirty three"`;
 
-exports[`handles 1-9999 -- partial range test 6035`] = `"six thousand thirty four"`;
+exports[`handles 1-9999 -- partial range test 6035`] = `"six thousand and thirty four"`;
 
-exports[`handles 1-9999 -- partial range test 6036`] = `"six thousand thirty five"`;
+exports[`handles 1-9999 -- partial range test 6036`] = `"six thousand and thirty five"`;
 
-exports[`handles 1-9999 -- partial range test 6037`] = `"six thousand thirty six"`;
+exports[`handles 1-9999 -- partial range test 6037`] = `"six thousand and thirty six"`;
 
-exports[`handles 1-9999 -- partial range test 6038`] = `"six thousand thirty seven"`;
+exports[`handles 1-9999 -- partial range test 6038`] = `"six thousand and thirty seven"`;
 
-exports[`handles 1-9999 -- partial range test 6039`] = `"six thousand thirty eight"`;
+exports[`handles 1-9999 -- partial range test 6039`] = `"six thousand and thirty eight"`;
 
-exports[`handles 1-9999 -- partial range test 6040`] = `"six thousand thirty nine"`;
+exports[`handles 1-9999 -- partial range test 6040`] = `"six thousand and thirty nine"`;
 
-exports[`handles 1-9999 -- partial range test 6041`] = `"six thousand forty"`;
+exports[`handles 1-9999 -- partial range test 6041`] = `"six thousand and forty"`;
 
-exports[`handles 1-9999 -- partial range test 6042`] = `"six thousand forty one"`;
+exports[`handles 1-9999 -- partial range test 6042`] = `"six thousand and forty one"`;
 
-exports[`handles 1-9999 -- partial range test 6043`] = `"six thousand forty two"`;
+exports[`handles 1-9999 -- partial range test 6043`] = `"six thousand and forty two"`;
 
-exports[`handles 1-9999 -- partial range test 6044`] = `"six thousand forty three"`;
+exports[`handles 1-9999 -- partial range test 6044`] = `"six thousand and forty three"`;
 
-exports[`handles 1-9999 -- partial range test 6045`] = `"six thousand forty four"`;
+exports[`handles 1-9999 -- partial range test 6045`] = `"six thousand and forty four"`;
 
-exports[`handles 1-9999 -- partial range test 6046`] = `"six thousand forty five"`;
+exports[`handles 1-9999 -- partial range test 6046`] = `"six thousand and forty five"`;
 
-exports[`handles 1-9999 -- partial range test 6047`] = `"six thousand forty six"`;
+exports[`handles 1-9999 -- partial range test 6047`] = `"six thousand and forty six"`;
 
-exports[`handles 1-9999 -- partial range test 6048`] = `"six thousand forty seven"`;
+exports[`handles 1-9999 -- partial range test 6048`] = `"six thousand and forty seven"`;
 
-exports[`handles 1-9999 -- partial range test 6049`] = `"six thousand forty eight"`;
+exports[`handles 1-9999 -- partial range test 6049`] = `"six thousand and forty eight"`;
 
-exports[`handles 1-9999 -- partial range test 6050`] = `"six thousand forty nine"`;
+exports[`handles 1-9999 -- partial range test 6050`] = `"six thousand and forty nine"`;
 
-exports[`handles 1-9999 -- partial range test 6051`] = `"six thousand fifty"`;
+exports[`handles 1-9999 -- partial range test 6051`] = `"six thousand and fifty"`;
 
-exports[`handles 1-9999 -- partial range test 6052`] = `"six thousand fifty one"`;
+exports[`handles 1-9999 -- partial range test 6052`] = `"six thousand and fifty one"`;
 
-exports[`handles 1-9999 -- partial range test 6053`] = `"six thousand fifty two"`;
+exports[`handles 1-9999 -- partial range test 6053`] = `"six thousand and fifty two"`;
 
-exports[`handles 1-9999 -- partial range test 6054`] = `"six thousand fifty three"`;
+exports[`handles 1-9999 -- partial range test 6054`] = `"six thousand and fifty three"`;
 
-exports[`handles 1-9999 -- partial range test 6055`] = `"six thousand fifty four"`;
+exports[`handles 1-9999 -- partial range test 6055`] = `"six thousand and fifty four"`;
 
-exports[`handles 1-9999 -- partial range test 6056`] = `"six thousand fifty five"`;
+exports[`handles 1-9999 -- partial range test 6056`] = `"six thousand and fifty five"`;
 
-exports[`handles 1-9999 -- partial range test 6057`] = `"six thousand fifty six"`;
+exports[`handles 1-9999 -- partial range test 6057`] = `"six thousand and fifty six"`;
 
-exports[`handles 1-9999 -- partial range test 6058`] = `"six thousand fifty seven"`;
+exports[`handles 1-9999 -- partial range test 6058`] = `"six thousand and fifty seven"`;
 
-exports[`handles 1-9999 -- partial range test 6059`] = `"six thousand fifty eight"`;
+exports[`handles 1-9999 -- partial range test 6059`] = `"six thousand and fifty eight"`;
 
-exports[`handles 1-9999 -- partial range test 6060`] = `"six thousand fifty nine"`;
+exports[`handles 1-9999 -- partial range test 6060`] = `"six thousand and fifty nine"`;
 
-exports[`handles 1-9999 -- partial range test 6061`] = `"six thousand sixty"`;
+exports[`handles 1-9999 -- partial range test 6061`] = `"six thousand and sixty"`;
 
-exports[`handles 1-9999 -- partial range test 6062`] = `"six thousand sixty one"`;
+exports[`handles 1-9999 -- partial range test 6062`] = `"six thousand and sixty one"`;
 
-exports[`handles 1-9999 -- partial range test 6063`] = `"six thousand sixty two"`;
+exports[`handles 1-9999 -- partial range test 6063`] = `"six thousand and sixty two"`;
 
-exports[`handles 1-9999 -- partial range test 6064`] = `"six thousand sixty three"`;
+exports[`handles 1-9999 -- partial range test 6064`] = `"six thousand and sixty three"`;
 
-exports[`handles 1-9999 -- partial range test 6065`] = `"six thousand sixty four"`;
+exports[`handles 1-9999 -- partial range test 6065`] = `"six thousand and sixty four"`;
 
-exports[`handles 1-9999 -- partial range test 6066`] = `"six thousand sixty five"`;
+exports[`handles 1-9999 -- partial range test 6066`] = `"six thousand and sixty five"`;
 
-exports[`handles 1-9999 -- partial range test 6067`] = `"six thousand sixty six"`;
+exports[`handles 1-9999 -- partial range test 6067`] = `"six thousand and sixty six"`;
 
-exports[`handles 1-9999 -- partial range test 6068`] = `"six thousand sixty seven"`;
+exports[`handles 1-9999 -- partial range test 6068`] = `"six thousand and sixty seven"`;
 
-exports[`handles 1-9999 -- partial range test 6069`] = `"six thousand sixty eight"`;
+exports[`handles 1-9999 -- partial range test 6069`] = `"six thousand and sixty eight"`;
 
-exports[`handles 1-9999 -- partial range test 6070`] = `"six thousand sixty nine"`;
+exports[`handles 1-9999 -- partial range test 6070`] = `"six thousand and sixty nine"`;
 
-exports[`handles 1-9999 -- partial range test 6071`] = `"six thousand seventy"`;
+exports[`handles 1-9999 -- partial range test 6071`] = `"six thousand and seventy"`;
 
-exports[`handles 1-9999 -- partial range test 6072`] = `"six thousand seventy one"`;
+exports[`handles 1-9999 -- partial range test 6072`] = `"six thousand and seventy one"`;
 
-exports[`handles 1-9999 -- partial range test 6073`] = `"six thousand seventy two"`;
+exports[`handles 1-9999 -- partial range test 6073`] = `"six thousand and seventy two"`;
 
-exports[`handles 1-9999 -- partial range test 6074`] = `"six thousand seventy three"`;
+exports[`handles 1-9999 -- partial range test 6074`] = `"six thousand and seventy three"`;
 
-exports[`handles 1-9999 -- partial range test 6075`] = `"six thousand seventy four"`;
+exports[`handles 1-9999 -- partial range test 6075`] = `"six thousand and seventy four"`;
 
-exports[`handles 1-9999 -- partial range test 6076`] = `"six thousand seventy five"`;
+exports[`handles 1-9999 -- partial range test 6076`] = `"six thousand and seventy five"`;
 
-exports[`handles 1-9999 -- partial range test 6077`] = `"six thousand seventy six"`;
+exports[`handles 1-9999 -- partial range test 6077`] = `"six thousand and seventy six"`;
 
-exports[`handles 1-9999 -- partial range test 6078`] = `"six thousand seventy seven"`;
+exports[`handles 1-9999 -- partial range test 6078`] = `"six thousand and seventy seven"`;
 
-exports[`handles 1-9999 -- partial range test 6079`] = `"six thousand seventy eight"`;
+exports[`handles 1-9999 -- partial range test 6079`] = `"six thousand and seventy eight"`;
 
-exports[`handles 1-9999 -- partial range test 6080`] = `"six thousand seventy nine"`;
+exports[`handles 1-9999 -- partial range test 6080`] = `"six thousand and seventy nine"`;
 
-exports[`handles 1-9999 -- partial range test 6081`] = `"six thousand eighty"`;
+exports[`handles 1-9999 -- partial range test 6081`] = `"six thousand and eighty"`;
 
-exports[`handles 1-9999 -- partial range test 6082`] = `"six thousand eighty one"`;
+exports[`handles 1-9999 -- partial range test 6082`] = `"six thousand and eighty one"`;
 
-exports[`handles 1-9999 -- partial range test 6083`] = `"six thousand eighty two"`;
+exports[`handles 1-9999 -- partial range test 6083`] = `"six thousand and eighty two"`;
 
-exports[`handles 1-9999 -- partial range test 6084`] = `"six thousand eighty three"`;
+exports[`handles 1-9999 -- partial range test 6084`] = `"six thousand and eighty three"`;
 
-exports[`handles 1-9999 -- partial range test 6085`] = `"six thousand eighty four"`;
+exports[`handles 1-9999 -- partial range test 6085`] = `"six thousand and eighty four"`;
 
-exports[`handles 1-9999 -- partial range test 6086`] = `"six thousand eighty five"`;
+exports[`handles 1-9999 -- partial range test 6086`] = `"six thousand and eighty five"`;
 
-exports[`handles 1-9999 -- partial range test 6087`] = `"six thousand eighty six"`;
+exports[`handles 1-9999 -- partial range test 6087`] = `"six thousand and eighty six"`;
 
-exports[`handles 1-9999 -- partial range test 6088`] = `"six thousand eighty seven"`;
+exports[`handles 1-9999 -- partial range test 6088`] = `"six thousand and eighty seven"`;
 
-exports[`handles 1-9999 -- partial range test 6089`] = `"six thousand eighty eight"`;
+exports[`handles 1-9999 -- partial range test 6089`] = `"six thousand and eighty eight"`;
 
-exports[`handles 1-9999 -- partial range test 6090`] = `"six thousand eighty nine"`;
+exports[`handles 1-9999 -- partial range test 6090`] = `"six thousand and eighty nine"`;
 
-exports[`handles 1-9999 -- partial range test 6091`] = `"six thousand ninety"`;
+exports[`handles 1-9999 -- partial range test 6091`] = `"six thousand and ninety"`;
 
-exports[`handles 1-9999 -- partial range test 6092`] = `"six thousand ninety one"`;
+exports[`handles 1-9999 -- partial range test 6092`] = `"six thousand and ninety one"`;
 
-exports[`handles 1-9999 -- partial range test 6093`] = `"six thousand ninety two"`;
+exports[`handles 1-9999 -- partial range test 6093`] = `"six thousand and ninety two"`;
 
-exports[`handles 1-9999 -- partial range test 6094`] = `"six thousand ninety three"`;
+exports[`handles 1-9999 -- partial range test 6094`] = `"six thousand and ninety three"`;
 
-exports[`handles 1-9999 -- partial range test 6095`] = `"six thousand ninety four"`;
+exports[`handles 1-9999 -- partial range test 6095`] = `"six thousand and ninety four"`;
 
-exports[`handles 1-9999 -- partial range test 6096`] = `"six thousand ninety five"`;
+exports[`handles 1-9999 -- partial range test 6096`] = `"six thousand and ninety five"`;
 
-exports[`handles 1-9999 -- partial range test 6097`] = `"six thousand ninety six"`;
+exports[`handles 1-9999 -- partial range test 6097`] = `"six thousand and ninety six"`;
 
-exports[`handles 1-9999 -- partial range test 6098`] = `"six thousand ninety seven"`;
+exports[`handles 1-9999 -- partial range test 6098`] = `"six thousand and ninety seven"`;
 
-exports[`handles 1-9999 -- partial range test 6099`] = `"six thousand ninety eight"`;
+exports[`handles 1-9999 -- partial range test 6099`] = `"six thousand and ninety eight"`;
 
-exports[`handles 1-9999 -- partial range test 6100`] = `"six thousand ninety nine"`;
+exports[`handles 1-9999 -- partial range test 6100`] = `"six thousand and ninety nine"`;
 
 exports[`handles 1-9999 -- partial range test 6101`] = `"six thousand one hundred"`;
 
@@ -14060,203 +14060,203 @@ exports[`handles 1-9999 -- partial range test 7000`] = `"six thousand nine hundr
 
 exports[`handles 1-9999 -- partial range test 7001`] = `"seven thousand"`;
 
-exports[`handles 1-9999 -- partial range test 7002`] = `"seven thousand one"`;
+exports[`handles 1-9999 -- partial range test 7002`] = `"seven thousand and one"`;
 
-exports[`handles 1-9999 -- partial range test 7003`] = `"seven thousand two"`;
+exports[`handles 1-9999 -- partial range test 7003`] = `"seven thousand and two"`;
 
-exports[`handles 1-9999 -- partial range test 7004`] = `"seven thousand three"`;
+exports[`handles 1-9999 -- partial range test 7004`] = `"seven thousand and three"`;
 
-exports[`handles 1-9999 -- partial range test 7005`] = `"seven thousand four"`;
+exports[`handles 1-9999 -- partial range test 7005`] = `"seven thousand and four"`;
 
-exports[`handles 1-9999 -- partial range test 7006`] = `"seven thousand five"`;
+exports[`handles 1-9999 -- partial range test 7006`] = `"seven thousand and five"`;
 
-exports[`handles 1-9999 -- partial range test 7007`] = `"seven thousand six"`;
+exports[`handles 1-9999 -- partial range test 7007`] = `"seven thousand and six"`;
 
-exports[`handles 1-9999 -- partial range test 7008`] = `"seven thousand seven"`;
+exports[`handles 1-9999 -- partial range test 7008`] = `"seven thousand and seven"`;
 
-exports[`handles 1-9999 -- partial range test 7009`] = `"seven thousand eight"`;
+exports[`handles 1-9999 -- partial range test 7009`] = `"seven thousand and eight"`;
 
-exports[`handles 1-9999 -- partial range test 7010`] = `"seven thousand nine"`;
+exports[`handles 1-9999 -- partial range test 7010`] = `"seven thousand and nine"`;
 
-exports[`handles 1-9999 -- partial range test 7011`] = `"seven thousand ten"`;
+exports[`handles 1-9999 -- partial range test 7011`] = `"seven thousand and ten"`;
 
-exports[`handles 1-9999 -- partial range test 7012`] = `"seven thousand eleven"`;
+exports[`handles 1-9999 -- partial range test 7012`] = `"seven thousand and eleven"`;
 
-exports[`handles 1-9999 -- partial range test 7013`] = `"seven thousand twelve"`;
+exports[`handles 1-9999 -- partial range test 7013`] = `"seven thousand and twelve"`;
 
-exports[`handles 1-9999 -- partial range test 7014`] = `"seven thousand thirteen"`;
+exports[`handles 1-9999 -- partial range test 7014`] = `"seven thousand and thirteen"`;
 
-exports[`handles 1-9999 -- partial range test 7015`] = `"seven thousand fourteen"`;
+exports[`handles 1-9999 -- partial range test 7015`] = `"seven thousand and fourteen"`;
 
-exports[`handles 1-9999 -- partial range test 7016`] = `"seven thousand fifteen"`;
+exports[`handles 1-9999 -- partial range test 7016`] = `"seven thousand and fifteen"`;
 
-exports[`handles 1-9999 -- partial range test 7017`] = `"seven thousand sixteen"`;
+exports[`handles 1-9999 -- partial range test 7017`] = `"seven thousand and sixteen"`;
 
-exports[`handles 1-9999 -- partial range test 7018`] = `"seven thousand seventeen"`;
+exports[`handles 1-9999 -- partial range test 7018`] = `"seven thousand and seventeen"`;
 
-exports[`handles 1-9999 -- partial range test 7019`] = `"seven thousand eighteen"`;
+exports[`handles 1-9999 -- partial range test 7019`] = `"seven thousand and eighteen"`;
 
-exports[`handles 1-9999 -- partial range test 7020`] = `"seven thousand nineteen"`;
+exports[`handles 1-9999 -- partial range test 7020`] = `"seven thousand and nineteen"`;
 
-exports[`handles 1-9999 -- partial range test 7021`] = `"seven thousand twenty"`;
+exports[`handles 1-9999 -- partial range test 7021`] = `"seven thousand and twenty"`;
 
-exports[`handles 1-9999 -- partial range test 7022`] = `"seven thousand twenty one"`;
+exports[`handles 1-9999 -- partial range test 7022`] = `"seven thousand and twenty one"`;
 
-exports[`handles 1-9999 -- partial range test 7023`] = `"seven thousand twenty two"`;
+exports[`handles 1-9999 -- partial range test 7023`] = `"seven thousand and twenty two"`;
 
-exports[`handles 1-9999 -- partial range test 7024`] = `"seven thousand twenty three"`;
+exports[`handles 1-9999 -- partial range test 7024`] = `"seven thousand and twenty three"`;
 
-exports[`handles 1-9999 -- partial range test 7025`] = `"seven thousand twenty four"`;
+exports[`handles 1-9999 -- partial range test 7025`] = `"seven thousand and twenty four"`;
 
-exports[`handles 1-9999 -- partial range test 7026`] = `"seven thousand twenty five"`;
+exports[`handles 1-9999 -- partial range test 7026`] = `"seven thousand and twenty five"`;
 
-exports[`handles 1-9999 -- partial range test 7027`] = `"seven thousand twenty six"`;
+exports[`handles 1-9999 -- partial range test 7027`] = `"seven thousand and twenty six"`;
 
-exports[`handles 1-9999 -- partial range test 7028`] = `"seven thousand twenty seven"`;
+exports[`handles 1-9999 -- partial range test 7028`] = `"seven thousand and twenty seven"`;
 
-exports[`handles 1-9999 -- partial range test 7029`] = `"seven thousand twenty eight"`;
+exports[`handles 1-9999 -- partial range test 7029`] = `"seven thousand and twenty eight"`;
 
-exports[`handles 1-9999 -- partial range test 7030`] = `"seven thousand twenty nine"`;
+exports[`handles 1-9999 -- partial range test 7030`] = `"seven thousand and twenty nine"`;
 
-exports[`handles 1-9999 -- partial range test 7031`] = `"seven thousand thirty"`;
+exports[`handles 1-9999 -- partial range test 7031`] = `"seven thousand and thirty"`;
 
-exports[`handles 1-9999 -- partial range test 7032`] = `"seven thousand thirty one"`;
+exports[`handles 1-9999 -- partial range test 7032`] = `"seven thousand and thirty one"`;
 
-exports[`handles 1-9999 -- partial range test 7033`] = `"seven thousand thirty two"`;
+exports[`handles 1-9999 -- partial range test 7033`] = `"seven thousand and thirty two"`;
 
-exports[`handles 1-9999 -- partial range test 7034`] = `"seven thousand thirty three"`;
+exports[`handles 1-9999 -- partial range test 7034`] = `"seven thousand and thirty three"`;
 
-exports[`handles 1-9999 -- partial range test 7035`] = `"seven thousand thirty four"`;
+exports[`handles 1-9999 -- partial range test 7035`] = `"seven thousand and thirty four"`;
 
-exports[`handles 1-9999 -- partial range test 7036`] = `"seven thousand thirty five"`;
+exports[`handles 1-9999 -- partial range test 7036`] = `"seven thousand and thirty five"`;
 
-exports[`handles 1-9999 -- partial range test 7037`] = `"seven thousand thirty six"`;
+exports[`handles 1-9999 -- partial range test 7037`] = `"seven thousand and thirty six"`;
 
-exports[`handles 1-9999 -- partial range test 7038`] = `"seven thousand thirty seven"`;
+exports[`handles 1-9999 -- partial range test 7038`] = `"seven thousand and thirty seven"`;
 
-exports[`handles 1-9999 -- partial range test 7039`] = `"seven thousand thirty eight"`;
+exports[`handles 1-9999 -- partial range test 7039`] = `"seven thousand and thirty eight"`;
 
-exports[`handles 1-9999 -- partial range test 7040`] = `"seven thousand thirty nine"`;
+exports[`handles 1-9999 -- partial range test 7040`] = `"seven thousand and thirty nine"`;
 
-exports[`handles 1-9999 -- partial range test 7041`] = `"seven thousand forty"`;
+exports[`handles 1-9999 -- partial range test 7041`] = `"seven thousand and forty"`;
 
-exports[`handles 1-9999 -- partial range test 7042`] = `"seven thousand forty one"`;
+exports[`handles 1-9999 -- partial range test 7042`] = `"seven thousand and forty one"`;
 
-exports[`handles 1-9999 -- partial range test 7043`] = `"seven thousand forty two"`;
+exports[`handles 1-9999 -- partial range test 7043`] = `"seven thousand and forty two"`;
 
-exports[`handles 1-9999 -- partial range test 7044`] = `"seven thousand forty three"`;
+exports[`handles 1-9999 -- partial range test 7044`] = `"seven thousand and forty three"`;
 
-exports[`handles 1-9999 -- partial range test 7045`] = `"seven thousand forty four"`;
+exports[`handles 1-9999 -- partial range test 7045`] = `"seven thousand and forty four"`;
 
-exports[`handles 1-9999 -- partial range test 7046`] = `"seven thousand forty five"`;
+exports[`handles 1-9999 -- partial range test 7046`] = `"seven thousand and forty five"`;
 
-exports[`handles 1-9999 -- partial range test 7047`] = `"seven thousand forty six"`;
+exports[`handles 1-9999 -- partial range test 7047`] = `"seven thousand and forty six"`;
 
-exports[`handles 1-9999 -- partial range test 7048`] = `"seven thousand forty seven"`;
+exports[`handles 1-9999 -- partial range test 7048`] = `"seven thousand and forty seven"`;
 
-exports[`handles 1-9999 -- partial range test 7049`] = `"seven thousand forty eight"`;
+exports[`handles 1-9999 -- partial range test 7049`] = `"seven thousand and forty eight"`;
 
-exports[`handles 1-9999 -- partial range test 7050`] = `"seven thousand forty nine"`;
+exports[`handles 1-9999 -- partial range test 7050`] = `"seven thousand and forty nine"`;
 
-exports[`handles 1-9999 -- partial range test 7051`] = `"seven thousand fifty"`;
+exports[`handles 1-9999 -- partial range test 7051`] = `"seven thousand and fifty"`;
 
-exports[`handles 1-9999 -- partial range test 7052`] = `"seven thousand fifty one"`;
+exports[`handles 1-9999 -- partial range test 7052`] = `"seven thousand and fifty one"`;
 
-exports[`handles 1-9999 -- partial range test 7053`] = `"seven thousand fifty two"`;
+exports[`handles 1-9999 -- partial range test 7053`] = `"seven thousand and fifty two"`;
 
-exports[`handles 1-9999 -- partial range test 7054`] = `"seven thousand fifty three"`;
+exports[`handles 1-9999 -- partial range test 7054`] = `"seven thousand and fifty three"`;
 
-exports[`handles 1-9999 -- partial range test 7055`] = `"seven thousand fifty four"`;
+exports[`handles 1-9999 -- partial range test 7055`] = `"seven thousand and fifty four"`;
 
-exports[`handles 1-9999 -- partial range test 7056`] = `"seven thousand fifty five"`;
+exports[`handles 1-9999 -- partial range test 7056`] = `"seven thousand and fifty five"`;
 
-exports[`handles 1-9999 -- partial range test 7057`] = `"seven thousand fifty six"`;
+exports[`handles 1-9999 -- partial range test 7057`] = `"seven thousand and fifty six"`;
 
-exports[`handles 1-9999 -- partial range test 7058`] = `"seven thousand fifty seven"`;
+exports[`handles 1-9999 -- partial range test 7058`] = `"seven thousand and fifty seven"`;
 
-exports[`handles 1-9999 -- partial range test 7059`] = `"seven thousand fifty eight"`;
+exports[`handles 1-9999 -- partial range test 7059`] = `"seven thousand and fifty eight"`;
 
-exports[`handles 1-9999 -- partial range test 7060`] = `"seven thousand fifty nine"`;
+exports[`handles 1-9999 -- partial range test 7060`] = `"seven thousand and fifty nine"`;
 
-exports[`handles 1-9999 -- partial range test 7061`] = `"seven thousand sixty"`;
+exports[`handles 1-9999 -- partial range test 7061`] = `"seven thousand and sixty"`;
 
-exports[`handles 1-9999 -- partial range test 7062`] = `"seven thousand sixty one"`;
+exports[`handles 1-9999 -- partial range test 7062`] = `"seven thousand and sixty one"`;
 
-exports[`handles 1-9999 -- partial range test 7063`] = `"seven thousand sixty two"`;
+exports[`handles 1-9999 -- partial range test 7063`] = `"seven thousand and sixty two"`;
 
-exports[`handles 1-9999 -- partial range test 7064`] = `"seven thousand sixty three"`;
+exports[`handles 1-9999 -- partial range test 7064`] = `"seven thousand and sixty three"`;
 
-exports[`handles 1-9999 -- partial range test 7065`] = `"seven thousand sixty four"`;
+exports[`handles 1-9999 -- partial range test 7065`] = `"seven thousand and sixty four"`;
 
-exports[`handles 1-9999 -- partial range test 7066`] = `"seven thousand sixty five"`;
+exports[`handles 1-9999 -- partial range test 7066`] = `"seven thousand and sixty five"`;
 
-exports[`handles 1-9999 -- partial range test 7067`] = `"seven thousand sixty six"`;
+exports[`handles 1-9999 -- partial range test 7067`] = `"seven thousand and sixty six"`;
 
-exports[`handles 1-9999 -- partial range test 7068`] = `"seven thousand sixty seven"`;
+exports[`handles 1-9999 -- partial range test 7068`] = `"seven thousand and sixty seven"`;
 
-exports[`handles 1-9999 -- partial range test 7069`] = `"seven thousand sixty eight"`;
+exports[`handles 1-9999 -- partial range test 7069`] = `"seven thousand and sixty eight"`;
 
-exports[`handles 1-9999 -- partial range test 7070`] = `"seven thousand sixty nine"`;
+exports[`handles 1-9999 -- partial range test 7070`] = `"seven thousand and sixty nine"`;
 
-exports[`handles 1-9999 -- partial range test 7071`] = `"seven thousand seventy"`;
+exports[`handles 1-9999 -- partial range test 7071`] = `"seven thousand and seventy"`;
 
-exports[`handles 1-9999 -- partial range test 7072`] = `"seven thousand seventy one"`;
+exports[`handles 1-9999 -- partial range test 7072`] = `"seven thousand and seventy one"`;
 
-exports[`handles 1-9999 -- partial range test 7073`] = `"seven thousand seventy two"`;
+exports[`handles 1-9999 -- partial range test 7073`] = `"seven thousand and seventy two"`;
 
-exports[`handles 1-9999 -- partial range test 7074`] = `"seven thousand seventy three"`;
+exports[`handles 1-9999 -- partial range test 7074`] = `"seven thousand and seventy three"`;
 
-exports[`handles 1-9999 -- partial range test 7075`] = `"seven thousand seventy four"`;
+exports[`handles 1-9999 -- partial range test 7075`] = `"seven thousand and seventy four"`;
 
-exports[`handles 1-9999 -- partial range test 7076`] = `"seven thousand seventy five"`;
+exports[`handles 1-9999 -- partial range test 7076`] = `"seven thousand and seventy five"`;
 
-exports[`handles 1-9999 -- partial range test 7077`] = `"seven thousand seventy six"`;
+exports[`handles 1-9999 -- partial range test 7077`] = `"seven thousand and seventy six"`;
 
-exports[`handles 1-9999 -- partial range test 7078`] = `"seven thousand seventy seven"`;
+exports[`handles 1-9999 -- partial range test 7078`] = `"seven thousand and seventy seven"`;
 
-exports[`handles 1-9999 -- partial range test 7079`] = `"seven thousand seventy eight"`;
+exports[`handles 1-9999 -- partial range test 7079`] = `"seven thousand and seventy eight"`;
 
-exports[`handles 1-9999 -- partial range test 7080`] = `"seven thousand seventy nine"`;
+exports[`handles 1-9999 -- partial range test 7080`] = `"seven thousand and seventy nine"`;
 
-exports[`handles 1-9999 -- partial range test 7081`] = `"seven thousand eighty"`;
+exports[`handles 1-9999 -- partial range test 7081`] = `"seven thousand and eighty"`;
 
-exports[`handles 1-9999 -- partial range test 7082`] = `"seven thousand eighty one"`;
+exports[`handles 1-9999 -- partial range test 7082`] = `"seven thousand and eighty one"`;
 
-exports[`handles 1-9999 -- partial range test 7083`] = `"seven thousand eighty two"`;
+exports[`handles 1-9999 -- partial range test 7083`] = `"seven thousand and eighty two"`;
 
-exports[`handles 1-9999 -- partial range test 7084`] = `"seven thousand eighty three"`;
+exports[`handles 1-9999 -- partial range test 7084`] = `"seven thousand and eighty three"`;
 
-exports[`handles 1-9999 -- partial range test 7085`] = `"seven thousand eighty four"`;
+exports[`handles 1-9999 -- partial range test 7085`] = `"seven thousand and eighty four"`;
 
-exports[`handles 1-9999 -- partial range test 7086`] = `"seven thousand eighty five"`;
+exports[`handles 1-9999 -- partial range test 7086`] = `"seven thousand and eighty five"`;
 
-exports[`handles 1-9999 -- partial range test 7087`] = `"seven thousand eighty six"`;
+exports[`handles 1-9999 -- partial range test 7087`] = `"seven thousand and eighty six"`;
 
-exports[`handles 1-9999 -- partial range test 7088`] = `"seven thousand eighty seven"`;
+exports[`handles 1-9999 -- partial range test 7088`] = `"seven thousand and eighty seven"`;
 
-exports[`handles 1-9999 -- partial range test 7089`] = `"seven thousand eighty eight"`;
+exports[`handles 1-9999 -- partial range test 7089`] = `"seven thousand and eighty eight"`;
 
-exports[`handles 1-9999 -- partial range test 7090`] = `"seven thousand eighty nine"`;
+exports[`handles 1-9999 -- partial range test 7090`] = `"seven thousand and eighty nine"`;
 
-exports[`handles 1-9999 -- partial range test 7091`] = `"seven thousand ninety"`;
+exports[`handles 1-9999 -- partial range test 7091`] = `"seven thousand and ninety"`;
 
-exports[`handles 1-9999 -- partial range test 7092`] = `"seven thousand ninety one"`;
+exports[`handles 1-9999 -- partial range test 7092`] = `"seven thousand and ninety one"`;
 
-exports[`handles 1-9999 -- partial range test 7093`] = `"seven thousand ninety two"`;
+exports[`handles 1-9999 -- partial range test 7093`] = `"seven thousand and ninety two"`;
 
-exports[`handles 1-9999 -- partial range test 7094`] = `"seven thousand ninety three"`;
+exports[`handles 1-9999 -- partial range test 7094`] = `"seven thousand and ninety three"`;
 
-exports[`handles 1-9999 -- partial range test 7095`] = `"seven thousand ninety four"`;
+exports[`handles 1-9999 -- partial range test 7095`] = `"seven thousand and ninety four"`;
 
-exports[`handles 1-9999 -- partial range test 7096`] = `"seven thousand ninety five"`;
+exports[`handles 1-9999 -- partial range test 7096`] = `"seven thousand and ninety five"`;
 
-exports[`handles 1-9999 -- partial range test 7097`] = `"seven thousand ninety six"`;
+exports[`handles 1-9999 -- partial range test 7097`] = `"seven thousand and ninety six"`;
 
-exports[`handles 1-9999 -- partial range test 7098`] = `"seven thousand ninety seven"`;
+exports[`handles 1-9999 -- partial range test 7098`] = `"seven thousand and ninety seven"`;
 
-exports[`handles 1-9999 -- partial range test 7099`] = `"seven thousand ninety eight"`;
+exports[`handles 1-9999 -- partial range test 7099`] = `"seven thousand and ninety eight"`;
 
-exports[`handles 1-9999 -- partial range test 7100`] = `"seven thousand ninety nine"`;
+exports[`handles 1-9999 -- partial range test 7100`] = `"seven thousand and ninety nine"`;
 
 exports[`handles 1-9999 -- partial range test 7101`] = `"seven thousand one hundred"`;
 
@@ -16060,203 +16060,203 @@ exports[`handles 1-9999 -- partial range test 8000`] = `"seven thousand nine hun
 
 exports[`handles 1-9999 -- partial range test 8001`] = `"eight thousand"`;
 
-exports[`handles 1-9999 -- partial range test 8002`] = `"eight thousand one"`;
+exports[`handles 1-9999 -- partial range test 8002`] = `"eight thousand and one"`;
 
-exports[`handles 1-9999 -- partial range test 8003`] = `"eight thousand two"`;
+exports[`handles 1-9999 -- partial range test 8003`] = `"eight thousand and two"`;
 
-exports[`handles 1-9999 -- partial range test 8004`] = `"eight thousand three"`;
+exports[`handles 1-9999 -- partial range test 8004`] = `"eight thousand and three"`;
 
-exports[`handles 1-9999 -- partial range test 8005`] = `"eight thousand four"`;
+exports[`handles 1-9999 -- partial range test 8005`] = `"eight thousand and four"`;
 
-exports[`handles 1-9999 -- partial range test 8006`] = `"eight thousand five"`;
+exports[`handles 1-9999 -- partial range test 8006`] = `"eight thousand and five"`;
 
-exports[`handles 1-9999 -- partial range test 8007`] = `"eight thousand six"`;
+exports[`handles 1-9999 -- partial range test 8007`] = `"eight thousand and six"`;
 
-exports[`handles 1-9999 -- partial range test 8008`] = `"eight thousand seven"`;
+exports[`handles 1-9999 -- partial range test 8008`] = `"eight thousand and seven"`;
 
-exports[`handles 1-9999 -- partial range test 8009`] = `"eight thousand eight"`;
+exports[`handles 1-9999 -- partial range test 8009`] = `"eight thousand and eight"`;
 
-exports[`handles 1-9999 -- partial range test 8010`] = `"eight thousand nine"`;
+exports[`handles 1-9999 -- partial range test 8010`] = `"eight thousand and nine"`;
 
-exports[`handles 1-9999 -- partial range test 8011`] = `"eight thousand ten"`;
+exports[`handles 1-9999 -- partial range test 8011`] = `"eight thousand and ten"`;
 
-exports[`handles 1-9999 -- partial range test 8012`] = `"eight thousand eleven"`;
+exports[`handles 1-9999 -- partial range test 8012`] = `"eight thousand and eleven"`;
 
-exports[`handles 1-9999 -- partial range test 8013`] = `"eight thousand twelve"`;
+exports[`handles 1-9999 -- partial range test 8013`] = `"eight thousand and twelve"`;
 
-exports[`handles 1-9999 -- partial range test 8014`] = `"eight thousand thirteen"`;
+exports[`handles 1-9999 -- partial range test 8014`] = `"eight thousand and thirteen"`;
 
-exports[`handles 1-9999 -- partial range test 8015`] = `"eight thousand fourteen"`;
+exports[`handles 1-9999 -- partial range test 8015`] = `"eight thousand and fourteen"`;
 
-exports[`handles 1-9999 -- partial range test 8016`] = `"eight thousand fifteen"`;
+exports[`handles 1-9999 -- partial range test 8016`] = `"eight thousand and fifteen"`;
 
-exports[`handles 1-9999 -- partial range test 8017`] = `"eight thousand sixteen"`;
+exports[`handles 1-9999 -- partial range test 8017`] = `"eight thousand and sixteen"`;
 
-exports[`handles 1-9999 -- partial range test 8018`] = `"eight thousand seventeen"`;
+exports[`handles 1-9999 -- partial range test 8018`] = `"eight thousand and seventeen"`;
 
-exports[`handles 1-9999 -- partial range test 8019`] = `"eight thousand eighteen"`;
+exports[`handles 1-9999 -- partial range test 8019`] = `"eight thousand and eighteen"`;
 
-exports[`handles 1-9999 -- partial range test 8020`] = `"eight thousand nineteen"`;
+exports[`handles 1-9999 -- partial range test 8020`] = `"eight thousand and nineteen"`;
 
-exports[`handles 1-9999 -- partial range test 8021`] = `"eight thousand twenty"`;
+exports[`handles 1-9999 -- partial range test 8021`] = `"eight thousand and twenty"`;
 
-exports[`handles 1-9999 -- partial range test 8022`] = `"eight thousand twenty one"`;
+exports[`handles 1-9999 -- partial range test 8022`] = `"eight thousand and twenty one"`;
 
-exports[`handles 1-9999 -- partial range test 8023`] = `"eight thousand twenty two"`;
+exports[`handles 1-9999 -- partial range test 8023`] = `"eight thousand and twenty two"`;
 
-exports[`handles 1-9999 -- partial range test 8024`] = `"eight thousand twenty three"`;
+exports[`handles 1-9999 -- partial range test 8024`] = `"eight thousand and twenty three"`;
 
-exports[`handles 1-9999 -- partial range test 8025`] = `"eight thousand twenty four"`;
+exports[`handles 1-9999 -- partial range test 8025`] = `"eight thousand and twenty four"`;
 
-exports[`handles 1-9999 -- partial range test 8026`] = `"eight thousand twenty five"`;
+exports[`handles 1-9999 -- partial range test 8026`] = `"eight thousand and twenty five"`;
 
-exports[`handles 1-9999 -- partial range test 8027`] = `"eight thousand twenty six"`;
+exports[`handles 1-9999 -- partial range test 8027`] = `"eight thousand and twenty six"`;
 
-exports[`handles 1-9999 -- partial range test 8028`] = `"eight thousand twenty seven"`;
+exports[`handles 1-9999 -- partial range test 8028`] = `"eight thousand and twenty seven"`;
 
-exports[`handles 1-9999 -- partial range test 8029`] = `"eight thousand twenty eight"`;
+exports[`handles 1-9999 -- partial range test 8029`] = `"eight thousand and twenty eight"`;
 
-exports[`handles 1-9999 -- partial range test 8030`] = `"eight thousand twenty nine"`;
+exports[`handles 1-9999 -- partial range test 8030`] = `"eight thousand and twenty nine"`;
 
-exports[`handles 1-9999 -- partial range test 8031`] = `"eight thousand thirty"`;
+exports[`handles 1-9999 -- partial range test 8031`] = `"eight thousand and thirty"`;
 
-exports[`handles 1-9999 -- partial range test 8032`] = `"eight thousand thirty one"`;
+exports[`handles 1-9999 -- partial range test 8032`] = `"eight thousand and thirty one"`;
 
-exports[`handles 1-9999 -- partial range test 8033`] = `"eight thousand thirty two"`;
+exports[`handles 1-9999 -- partial range test 8033`] = `"eight thousand and thirty two"`;
 
-exports[`handles 1-9999 -- partial range test 8034`] = `"eight thousand thirty three"`;
+exports[`handles 1-9999 -- partial range test 8034`] = `"eight thousand and thirty three"`;
 
-exports[`handles 1-9999 -- partial range test 8035`] = `"eight thousand thirty four"`;
+exports[`handles 1-9999 -- partial range test 8035`] = `"eight thousand and thirty four"`;
 
-exports[`handles 1-9999 -- partial range test 8036`] = `"eight thousand thirty five"`;
+exports[`handles 1-9999 -- partial range test 8036`] = `"eight thousand and thirty five"`;
 
-exports[`handles 1-9999 -- partial range test 8037`] = `"eight thousand thirty six"`;
+exports[`handles 1-9999 -- partial range test 8037`] = `"eight thousand and thirty six"`;
 
-exports[`handles 1-9999 -- partial range test 8038`] = `"eight thousand thirty seven"`;
+exports[`handles 1-9999 -- partial range test 8038`] = `"eight thousand and thirty seven"`;
 
-exports[`handles 1-9999 -- partial range test 8039`] = `"eight thousand thirty eight"`;
+exports[`handles 1-9999 -- partial range test 8039`] = `"eight thousand and thirty eight"`;
 
-exports[`handles 1-9999 -- partial range test 8040`] = `"eight thousand thirty nine"`;
+exports[`handles 1-9999 -- partial range test 8040`] = `"eight thousand and thirty nine"`;
 
-exports[`handles 1-9999 -- partial range test 8041`] = `"eight thousand forty"`;
+exports[`handles 1-9999 -- partial range test 8041`] = `"eight thousand and forty"`;
 
-exports[`handles 1-9999 -- partial range test 8042`] = `"eight thousand forty one"`;
+exports[`handles 1-9999 -- partial range test 8042`] = `"eight thousand and forty one"`;
 
-exports[`handles 1-9999 -- partial range test 8043`] = `"eight thousand forty two"`;
+exports[`handles 1-9999 -- partial range test 8043`] = `"eight thousand and forty two"`;
 
-exports[`handles 1-9999 -- partial range test 8044`] = `"eight thousand forty three"`;
+exports[`handles 1-9999 -- partial range test 8044`] = `"eight thousand and forty three"`;
 
-exports[`handles 1-9999 -- partial range test 8045`] = `"eight thousand forty four"`;
+exports[`handles 1-9999 -- partial range test 8045`] = `"eight thousand and forty four"`;
 
-exports[`handles 1-9999 -- partial range test 8046`] = `"eight thousand forty five"`;
+exports[`handles 1-9999 -- partial range test 8046`] = `"eight thousand and forty five"`;
 
-exports[`handles 1-9999 -- partial range test 8047`] = `"eight thousand forty six"`;
+exports[`handles 1-9999 -- partial range test 8047`] = `"eight thousand and forty six"`;
 
-exports[`handles 1-9999 -- partial range test 8048`] = `"eight thousand forty seven"`;
+exports[`handles 1-9999 -- partial range test 8048`] = `"eight thousand and forty seven"`;
 
-exports[`handles 1-9999 -- partial range test 8049`] = `"eight thousand forty eight"`;
+exports[`handles 1-9999 -- partial range test 8049`] = `"eight thousand and forty eight"`;
 
-exports[`handles 1-9999 -- partial range test 8050`] = `"eight thousand forty nine"`;
+exports[`handles 1-9999 -- partial range test 8050`] = `"eight thousand and forty nine"`;
 
-exports[`handles 1-9999 -- partial range test 8051`] = `"eight thousand fifty"`;
+exports[`handles 1-9999 -- partial range test 8051`] = `"eight thousand and fifty"`;
 
-exports[`handles 1-9999 -- partial range test 8052`] = `"eight thousand fifty one"`;
+exports[`handles 1-9999 -- partial range test 8052`] = `"eight thousand and fifty one"`;
 
-exports[`handles 1-9999 -- partial range test 8053`] = `"eight thousand fifty two"`;
+exports[`handles 1-9999 -- partial range test 8053`] = `"eight thousand and fifty two"`;
 
-exports[`handles 1-9999 -- partial range test 8054`] = `"eight thousand fifty three"`;
+exports[`handles 1-9999 -- partial range test 8054`] = `"eight thousand and fifty three"`;
 
-exports[`handles 1-9999 -- partial range test 8055`] = `"eight thousand fifty four"`;
+exports[`handles 1-9999 -- partial range test 8055`] = `"eight thousand and fifty four"`;
 
-exports[`handles 1-9999 -- partial range test 8056`] = `"eight thousand fifty five"`;
+exports[`handles 1-9999 -- partial range test 8056`] = `"eight thousand and fifty five"`;
 
-exports[`handles 1-9999 -- partial range test 8057`] = `"eight thousand fifty six"`;
+exports[`handles 1-9999 -- partial range test 8057`] = `"eight thousand and fifty six"`;
 
-exports[`handles 1-9999 -- partial range test 8058`] = `"eight thousand fifty seven"`;
+exports[`handles 1-9999 -- partial range test 8058`] = `"eight thousand and fifty seven"`;
 
-exports[`handles 1-9999 -- partial range test 8059`] = `"eight thousand fifty eight"`;
+exports[`handles 1-9999 -- partial range test 8059`] = `"eight thousand and fifty eight"`;
 
-exports[`handles 1-9999 -- partial range test 8060`] = `"eight thousand fifty nine"`;
+exports[`handles 1-9999 -- partial range test 8060`] = `"eight thousand and fifty nine"`;
 
-exports[`handles 1-9999 -- partial range test 8061`] = `"eight thousand sixty"`;
+exports[`handles 1-9999 -- partial range test 8061`] = `"eight thousand and sixty"`;
 
-exports[`handles 1-9999 -- partial range test 8062`] = `"eight thousand sixty one"`;
+exports[`handles 1-9999 -- partial range test 8062`] = `"eight thousand and sixty one"`;
 
-exports[`handles 1-9999 -- partial range test 8063`] = `"eight thousand sixty two"`;
+exports[`handles 1-9999 -- partial range test 8063`] = `"eight thousand and sixty two"`;
 
-exports[`handles 1-9999 -- partial range test 8064`] = `"eight thousand sixty three"`;
+exports[`handles 1-9999 -- partial range test 8064`] = `"eight thousand and sixty three"`;
 
-exports[`handles 1-9999 -- partial range test 8065`] = `"eight thousand sixty four"`;
+exports[`handles 1-9999 -- partial range test 8065`] = `"eight thousand and sixty four"`;
 
-exports[`handles 1-9999 -- partial range test 8066`] = `"eight thousand sixty five"`;
+exports[`handles 1-9999 -- partial range test 8066`] = `"eight thousand and sixty five"`;
 
-exports[`handles 1-9999 -- partial range test 8067`] = `"eight thousand sixty six"`;
+exports[`handles 1-9999 -- partial range test 8067`] = `"eight thousand and sixty six"`;
 
-exports[`handles 1-9999 -- partial range test 8068`] = `"eight thousand sixty seven"`;
+exports[`handles 1-9999 -- partial range test 8068`] = `"eight thousand and sixty seven"`;
 
-exports[`handles 1-9999 -- partial range test 8069`] = `"eight thousand sixty eight"`;
+exports[`handles 1-9999 -- partial range test 8069`] = `"eight thousand and sixty eight"`;
 
-exports[`handles 1-9999 -- partial range test 8070`] = `"eight thousand sixty nine"`;
+exports[`handles 1-9999 -- partial range test 8070`] = `"eight thousand and sixty nine"`;
 
-exports[`handles 1-9999 -- partial range test 8071`] = `"eight thousand seventy"`;
+exports[`handles 1-9999 -- partial range test 8071`] = `"eight thousand and seventy"`;
 
-exports[`handles 1-9999 -- partial range test 8072`] = `"eight thousand seventy one"`;
+exports[`handles 1-9999 -- partial range test 8072`] = `"eight thousand and seventy one"`;
 
-exports[`handles 1-9999 -- partial range test 8073`] = `"eight thousand seventy two"`;
+exports[`handles 1-9999 -- partial range test 8073`] = `"eight thousand and seventy two"`;
 
-exports[`handles 1-9999 -- partial range test 8074`] = `"eight thousand seventy three"`;
+exports[`handles 1-9999 -- partial range test 8074`] = `"eight thousand and seventy three"`;
 
-exports[`handles 1-9999 -- partial range test 8075`] = `"eight thousand seventy four"`;
+exports[`handles 1-9999 -- partial range test 8075`] = `"eight thousand and seventy four"`;
 
-exports[`handles 1-9999 -- partial range test 8076`] = `"eight thousand seventy five"`;
+exports[`handles 1-9999 -- partial range test 8076`] = `"eight thousand and seventy five"`;
 
-exports[`handles 1-9999 -- partial range test 8077`] = `"eight thousand seventy six"`;
+exports[`handles 1-9999 -- partial range test 8077`] = `"eight thousand and seventy six"`;
 
-exports[`handles 1-9999 -- partial range test 8078`] = `"eight thousand seventy seven"`;
+exports[`handles 1-9999 -- partial range test 8078`] = `"eight thousand and seventy seven"`;
 
-exports[`handles 1-9999 -- partial range test 8079`] = `"eight thousand seventy eight"`;
+exports[`handles 1-9999 -- partial range test 8079`] = `"eight thousand and seventy eight"`;
 
-exports[`handles 1-9999 -- partial range test 8080`] = `"eight thousand seventy nine"`;
+exports[`handles 1-9999 -- partial range test 8080`] = `"eight thousand and seventy nine"`;
 
-exports[`handles 1-9999 -- partial range test 8081`] = `"eight thousand eighty"`;
+exports[`handles 1-9999 -- partial range test 8081`] = `"eight thousand and eighty"`;
 
-exports[`handles 1-9999 -- partial range test 8082`] = `"eight thousand eighty one"`;
+exports[`handles 1-9999 -- partial range test 8082`] = `"eight thousand and eighty one"`;
 
-exports[`handles 1-9999 -- partial range test 8083`] = `"eight thousand eighty two"`;
+exports[`handles 1-9999 -- partial range test 8083`] = `"eight thousand and eighty two"`;
 
-exports[`handles 1-9999 -- partial range test 8084`] = `"eight thousand eighty three"`;
+exports[`handles 1-9999 -- partial range test 8084`] = `"eight thousand and eighty three"`;
 
-exports[`handles 1-9999 -- partial range test 8085`] = `"eight thousand eighty four"`;
+exports[`handles 1-9999 -- partial range test 8085`] = `"eight thousand and eighty four"`;
 
-exports[`handles 1-9999 -- partial range test 8086`] = `"eight thousand eighty five"`;
+exports[`handles 1-9999 -- partial range test 8086`] = `"eight thousand and eighty five"`;
 
-exports[`handles 1-9999 -- partial range test 8087`] = `"eight thousand eighty six"`;
+exports[`handles 1-9999 -- partial range test 8087`] = `"eight thousand and eighty six"`;
 
-exports[`handles 1-9999 -- partial range test 8088`] = `"eight thousand eighty seven"`;
+exports[`handles 1-9999 -- partial range test 8088`] = `"eight thousand and eighty seven"`;
 
-exports[`handles 1-9999 -- partial range test 8089`] = `"eight thousand eighty eight"`;
+exports[`handles 1-9999 -- partial range test 8089`] = `"eight thousand and eighty eight"`;
 
-exports[`handles 1-9999 -- partial range test 8090`] = `"eight thousand eighty nine"`;
+exports[`handles 1-9999 -- partial range test 8090`] = `"eight thousand and eighty nine"`;
 
-exports[`handles 1-9999 -- partial range test 8091`] = `"eight thousand ninety"`;
+exports[`handles 1-9999 -- partial range test 8091`] = `"eight thousand and ninety"`;
 
-exports[`handles 1-9999 -- partial range test 8092`] = `"eight thousand ninety one"`;
+exports[`handles 1-9999 -- partial range test 8092`] = `"eight thousand and ninety one"`;
 
-exports[`handles 1-9999 -- partial range test 8093`] = `"eight thousand ninety two"`;
+exports[`handles 1-9999 -- partial range test 8093`] = `"eight thousand and ninety two"`;
 
-exports[`handles 1-9999 -- partial range test 8094`] = `"eight thousand ninety three"`;
+exports[`handles 1-9999 -- partial range test 8094`] = `"eight thousand and ninety three"`;
 
-exports[`handles 1-9999 -- partial range test 8095`] = `"eight thousand ninety four"`;
+exports[`handles 1-9999 -- partial range test 8095`] = `"eight thousand and ninety four"`;
 
-exports[`handles 1-9999 -- partial range test 8096`] = `"eight thousand ninety five"`;
+exports[`handles 1-9999 -- partial range test 8096`] = `"eight thousand and ninety five"`;
 
-exports[`handles 1-9999 -- partial range test 8097`] = `"eight thousand ninety six"`;
+exports[`handles 1-9999 -- partial range test 8097`] = `"eight thousand and ninety six"`;
 
-exports[`handles 1-9999 -- partial range test 8098`] = `"eight thousand ninety seven"`;
+exports[`handles 1-9999 -- partial range test 8098`] = `"eight thousand and ninety seven"`;
 
-exports[`handles 1-9999 -- partial range test 8099`] = `"eight thousand ninety eight"`;
+exports[`handles 1-9999 -- partial range test 8099`] = `"eight thousand and ninety eight"`;
 
-exports[`handles 1-9999 -- partial range test 8100`] = `"eight thousand ninety nine"`;
+exports[`handles 1-9999 -- partial range test 8100`] = `"eight thousand and ninety nine"`;
 
 exports[`handles 1-9999 -- partial range test 8101`] = `"eight thousand one hundred"`;
 
@@ -18060,203 +18060,203 @@ exports[`handles 1-9999 -- partial range test 9000`] = `"eight thousand nine hun
 
 exports[`handles 1-9999 -- partial range test 9001`] = `"nine thousand"`;
 
-exports[`handles 1-9999 -- partial range test 9002`] = `"nine thousand one"`;
+exports[`handles 1-9999 -- partial range test 9002`] = `"nine thousand and one"`;
 
-exports[`handles 1-9999 -- partial range test 9003`] = `"nine thousand two"`;
+exports[`handles 1-9999 -- partial range test 9003`] = `"nine thousand and two"`;
 
-exports[`handles 1-9999 -- partial range test 9004`] = `"nine thousand three"`;
+exports[`handles 1-9999 -- partial range test 9004`] = `"nine thousand and three"`;
 
-exports[`handles 1-9999 -- partial range test 9005`] = `"nine thousand four"`;
+exports[`handles 1-9999 -- partial range test 9005`] = `"nine thousand and four"`;
 
-exports[`handles 1-9999 -- partial range test 9006`] = `"nine thousand five"`;
+exports[`handles 1-9999 -- partial range test 9006`] = `"nine thousand and five"`;
 
-exports[`handles 1-9999 -- partial range test 9007`] = `"nine thousand six"`;
+exports[`handles 1-9999 -- partial range test 9007`] = `"nine thousand and six"`;
 
-exports[`handles 1-9999 -- partial range test 9008`] = `"nine thousand seven"`;
+exports[`handles 1-9999 -- partial range test 9008`] = `"nine thousand and seven"`;
 
-exports[`handles 1-9999 -- partial range test 9009`] = `"nine thousand eight"`;
+exports[`handles 1-9999 -- partial range test 9009`] = `"nine thousand and eight"`;
 
-exports[`handles 1-9999 -- partial range test 9010`] = `"nine thousand nine"`;
+exports[`handles 1-9999 -- partial range test 9010`] = `"nine thousand and nine"`;
 
-exports[`handles 1-9999 -- partial range test 9011`] = `"nine thousand ten"`;
+exports[`handles 1-9999 -- partial range test 9011`] = `"nine thousand and ten"`;
 
-exports[`handles 1-9999 -- partial range test 9012`] = `"nine thousand eleven"`;
+exports[`handles 1-9999 -- partial range test 9012`] = `"nine thousand and eleven"`;
 
-exports[`handles 1-9999 -- partial range test 9013`] = `"nine thousand twelve"`;
+exports[`handles 1-9999 -- partial range test 9013`] = `"nine thousand and twelve"`;
 
-exports[`handles 1-9999 -- partial range test 9014`] = `"nine thousand thirteen"`;
+exports[`handles 1-9999 -- partial range test 9014`] = `"nine thousand and thirteen"`;
 
-exports[`handles 1-9999 -- partial range test 9015`] = `"nine thousand fourteen"`;
+exports[`handles 1-9999 -- partial range test 9015`] = `"nine thousand and fourteen"`;
 
-exports[`handles 1-9999 -- partial range test 9016`] = `"nine thousand fifteen"`;
+exports[`handles 1-9999 -- partial range test 9016`] = `"nine thousand and fifteen"`;
 
-exports[`handles 1-9999 -- partial range test 9017`] = `"nine thousand sixteen"`;
+exports[`handles 1-9999 -- partial range test 9017`] = `"nine thousand and sixteen"`;
 
-exports[`handles 1-9999 -- partial range test 9018`] = `"nine thousand seventeen"`;
+exports[`handles 1-9999 -- partial range test 9018`] = `"nine thousand and seventeen"`;
 
-exports[`handles 1-9999 -- partial range test 9019`] = `"nine thousand eighteen"`;
+exports[`handles 1-9999 -- partial range test 9019`] = `"nine thousand and eighteen"`;
 
-exports[`handles 1-9999 -- partial range test 9020`] = `"nine thousand nineteen"`;
+exports[`handles 1-9999 -- partial range test 9020`] = `"nine thousand and nineteen"`;
 
-exports[`handles 1-9999 -- partial range test 9021`] = `"nine thousand twenty"`;
+exports[`handles 1-9999 -- partial range test 9021`] = `"nine thousand and twenty"`;
 
-exports[`handles 1-9999 -- partial range test 9022`] = `"nine thousand twenty one"`;
+exports[`handles 1-9999 -- partial range test 9022`] = `"nine thousand and twenty one"`;
 
-exports[`handles 1-9999 -- partial range test 9023`] = `"nine thousand twenty two"`;
+exports[`handles 1-9999 -- partial range test 9023`] = `"nine thousand and twenty two"`;
 
-exports[`handles 1-9999 -- partial range test 9024`] = `"nine thousand twenty three"`;
+exports[`handles 1-9999 -- partial range test 9024`] = `"nine thousand and twenty three"`;
 
-exports[`handles 1-9999 -- partial range test 9025`] = `"nine thousand twenty four"`;
+exports[`handles 1-9999 -- partial range test 9025`] = `"nine thousand and twenty four"`;
 
-exports[`handles 1-9999 -- partial range test 9026`] = `"nine thousand twenty five"`;
+exports[`handles 1-9999 -- partial range test 9026`] = `"nine thousand and twenty five"`;
 
-exports[`handles 1-9999 -- partial range test 9027`] = `"nine thousand twenty six"`;
+exports[`handles 1-9999 -- partial range test 9027`] = `"nine thousand and twenty six"`;
 
-exports[`handles 1-9999 -- partial range test 9028`] = `"nine thousand twenty seven"`;
+exports[`handles 1-9999 -- partial range test 9028`] = `"nine thousand and twenty seven"`;
 
-exports[`handles 1-9999 -- partial range test 9029`] = `"nine thousand twenty eight"`;
+exports[`handles 1-9999 -- partial range test 9029`] = `"nine thousand and twenty eight"`;
 
-exports[`handles 1-9999 -- partial range test 9030`] = `"nine thousand twenty nine"`;
+exports[`handles 1-9999 -- partial range test 9030`] = `"nine thousand and twenty nine"`;
 
-exports[`handles 1-9999 -- partial range test 9031`] = `"nine thousand thirty"`;
+exports[`handles 1-9999 -- partial range test 9031`] = `"nine thousand and thirty"`;
 
-exports[`handles 1-9999 -- partial range test 9032`] = `"nine thousand thirty one"`;
+exports[`handles 1-9999 -- partial range test 9032`] = `"nine thousand and thirty one"`;
 
-exports[`handles 1-9999 -- partial range test 9033`] = `"nine thousand thirty two"`;
+exports[`handles 1-9999 -- partial range test 9033`] = `"nine thousand and thirty two"`;
 
-exports[`handles 1-9999 -- partial range test 9034`] = `"nine thousand thirty three"`;
+exports[`handles 1-9999 -- partial range test 9034`] = `"nine thousand and thirty three"`;
 
-exports[`handles 1-9999 -- partial range test 9035`] = `"nine thousand thirty four"`;
+exports[`handles 1-9999 -- partial range test 9035`] = `"nine thousand and thirty four"`;
 
-exports[`handles 1-9999 -- partial range test 9036`] = `"nine thousand thirty five"`;
+exports[`handles 1-9999 -- partial range test 9036`] = `"nine thousand and thirty five"`;
 
-exports[`handles 1-9999 -- partial range test 9037`] = `"nine thousand thirty six"`;
+exports[`handles 1-9999 -- partial range test 9037`] = `"nine thousand and thirty six"`;
 
-exports[`handles 1-9999 -- partial range test 9038`] = `"nine thousand thirty seven"`;
+exports[`handles 1-9999 -- partial range test 9038`] = `"nine thousand and thirty seven"`;
 
-exports[`handles 1-9999 -- partial range test 9039`] = `"nine thousand thirty eight"`;
+exports[`handles 1-9999 -- partial range test 9039`] = `"nine thousand and thirty eight"`;
 
-exports[`handles 1-9999 -- partial range test 9040`] = `"nine thousand thirty nine"`;
+exports[`handles 1-9999 -- partial range test 9040`] = `"nine thousand and thirty nine"`;
 
-exports[`handles 1-9999 -- partial range test 9041`] = `"nine thousand forty"`;
+exports[`handles 1-9999 -- partial range test 9041`] = `"nine thousand and forty"`;
 
-exports[`handles 1-9999 -- partial range test 9042`] = `"nine thousand forty one"`;
+exports[`handles 1-9999 -- partial range test 9042`] = `"nine thousand and forty one"`;
 
-exports[`handles 1-9999 -- partial range test 9043`] = `"nine thousand forty two"`;
+exports[`handles 1-9999 -- partial range test 9043`] = `"nine thousand and forty two"`;
 
-exports[`handles 1-9999 -- partial range test 9044`] = `"nine thousand forty three"`;
+exports[`handles 1-9999 -- partial range test 9044`] = `"nine thousand and forty three"`;
 
-exports[`handles 1-9999 -- partial range test 9045`] = `"nine thousand forty four"`;
+exports[`handles 1-9999 -- partial range test 9045`] = `"nine thousand and forty four"`;
 
-exports[`handles 1-9999 -- partial range test 9046`] = `"nine thousand forty five"`;
+exports[`handles 1-9999 -- partial range test 9046`] = `"nine thousand and forty five"`;
 
-exports[`handles 1-9999 -- partial range test 9047`] = `"nine thousand forty six"`;
+exports[`handles 1-9999 -- partial range test 9047`] = `"nine thousand and forty six"`;
 
-exports[`handles 1-9999 -- partial range test 9048`] = `"nine thousand forty seven"`;
+exports[`handles 1-9999 -- partial range test 9048`] = `"nine thousand and forty seven"`;
 
-exports[`handles 1-9999 -- partial range test 9049`] = `"nine thousand forty eight"`;
+exports[`handles 1-9999 -- partial range test 9049`] = `"nine thousand and forty eight"`;
 
-exports[`handles 1-9999 -- partial range test 9050`] = `"nine thousand forty nine"`;
+exports[`handles 1-9999 -- partial range test 9050`] = `"nine thousand and forty nine"`;
 
-exports[`handles 1-9999 -- partial range test 9051`] = `"nine thousand fifty"`;
+exports[`handles 1-9999 -- partial range test 9051`] = `"nine thousand and fifty"`;
 
-exports[`handles 1-9999 -- partial range test 9052`] = `"nine thousand fifty one"`;
+exports[`handles 1-9999 -- partial range test 9052`] = `"nine thousand and fifty one"`;
 
-exports[`handles 1-9999 -- partial range test 9053`] = `"nine thousand fifty two"`;
+exports[`handles 1-9999 -- partial range test 9053`] = `"nine thousand and fifty two"`;
 
-exports[`handles 1-9999 -- partial range test 9054`] = `"nine thousand fifty three"`;
+exports[`handles 1-9999 -- partial range test 9054`] = `"nine thousand and fifty three"`;
 
-exports[`handles 1-9999 -- partial range test 9055`] = `"nine thousand fifty four"`;
+exports[`handles 1-9999 -- partial range test 9055`] = `"nine thousand and fifty four"`;
 
-exports[`handles 1-9999 -- partial range test 9056`] = `"nine thousand fifty five"`;
+exports[`handles 1-9999 -- partial range test 9056`] = `"nine thousand and fifty five"`;
 
-exports[`handles 1-9999 -- partial range test 9057`] = `"nine thousand fifty six"`;
+exports[`handles 1-9999 -- partial range test 9057`] = `"nine thousand and fifty six"`;
 
-exports[`handles 1-9999 -- partial range test 9058`] = `"nine thousand fifty seven"`;
+exports[`handles 1-9999 -- partial range test 9058`] = `"nine thousand and fifty seven"`;
 
-exports[`handles 1-9999 -- partial range test 9059`] = `"nine thousand fifty eight"`;
+exports[`handles 1-9999 -- partial range test 9059`] = `"nine thousand and fifty eight"`;
 
-exports[`handles 1-9999 -- partial range test 9060`] = `"nine thousand fifty nine"`;
+exports[`handles 1-9999 -- partial range test 9060`] = `"nine thousand and fifty nine"`;
 
-exports[`handles 1-9999 -- partial range test 9061`] = `"nine thousand sixty"`;
+exports[`handles 1-9999 -- partial range test 9061`] = `"nine thousand and sixty"`;
 
-exports[`handles 1-9999 -- partial range test 9062`] = `"nine thousand sixty one"`;
+exports[`handles 1-9999 -- partial range test 9062`] = `"nine thousand and sixty one"`;
 
-exports[`handles 1-9999 -- partial range test 9063`] = `"nine thousand sixty two"`;
+exports[`handles 1-9999 -- partial range test 9063`] = `"nine thousand and sixty two"`;
 
-exports[`handles 1-9999 -- partial range test 9064`] = `"nine thousand sixty three"`;
+exports[`handles 1-9999 -- partial range test 9064`] = `"nine thousand and sixty three"`;
 
-exports[`handles 1-9999 -- partial range test 9065`] = `"nine thousand sixty four"`;
+exports[`handles 1-9999 -- partial range test 9065`] = `"nine thousand and sixty four"`;
 
-exports[`handles 1-9999 -- partial range test 9066`] = `"nine thousand sixty five"`;
+exports[`handles 1-9999 -- partial range test 9066`] = `"nine thousand and sixty five"`;
 
-exports[`handles 1-9999 -- partial range test 9067`] = `"nine thousand sixty six"`;
+exports[`handles 1-9999 -- partial range test 9067`] = `"nine thousand and sixty six"`;
 
-exports[`handles 1-9999 -- partial range test 9068`] = `"nine thousand sixty seven"`;
+exports[`handles 1-9999 -- partial range test 9068`] = `"nine thousand and sixty seven"`;
 
-exports[`handles 1-9999 -- partial range test 9069`] = `"nine thousand sixty eight"`;
+exports[`handles 1-9999 -- partial range test 9069`] = `"nine thousand and sixty eight"`;
 
-exports[`handles 1-9999 -- partial range test 9070`] = `"nine thousand sixty nine"`;
+exports[`handles 1-9999 -- partial range test 9070`] = `"nine thousand and sixty nine"`;
 
-exports[`handles 1-9999 -- partial range test 9071`] = `"nine thousand seventy"`;
+exports[`handles 1-9999 -- partial range test 9071`] = `"nine thousand and seventy"`;
 
-exports[`handles 1-9999 -- partial range test 9072`] = `"nine thousand seventy one"`;
+exports[`handles 1-9999 -- partial range test 9072`] = `"nine thousand and seventy one"`;
 
-exports[`handles 1-9999 -- partial range test 9073`] = `"nine thousand seventy two"`;
+exports[`handles 1-9999 -- partial range test 9073`] = `"nine thousand and seventy two"`;
 
-exports[`handles 1-9999 -- partial range test 9074`] = `"nine thousand seventy three"`;
+exports[`handles 1-9999 -- partial range test 9074`] = `"nine thousand and seventy three"`;
 
-exports[`handles 1-9999 -- partial range test 9075`] = `"nine thousand seventy four"`;
+exports[`handles 1-9999 -- partial range test 9075`] = `"nine thousand and seventy four"`;
 
-exports[`handles 1-9999 -- partial range test 9076`] = `"nine thousand seventy five"`;
+exports[`handles 1-9999 -- partial range test 9076`] = `"nine thousand and seventy five"`;
 
-exports[`handles 1-9999 -- partial range test 9077`] = `"nine thousand seventy six"`;
+exports[`handles 1-9999 -- partial range test 9077`] = `"nine thousand and seventy six"`;
 
-exports[`handles 1-9999 -- partial range test 9078`] = `"nine thousand seventy seven"`;
+exports[`handles 1-9999 -- partial range test 9078`] = `"nine thousand and seventy seven"`;
 
-exports[`handles 1-9999 -- partial range test 9079`] = `"nine thousand seventy eight"`;
+exports[`handles 1-9999 -- partial range test 9079`] = `"nine thousand and seventy eight"`;
 
-exports[`handles 1-9999 -- partial range test 9080`] = `"nine thousand seventy nine"`;
+exports[`handles 1-9999 -- partial range test 9080`] = `"nine thousand and seventy nine"`;
 
-exports[`handles 1-9999 -- partial range test 9081`] = `"nine thousand eighty"`;
+exports[`handles 1-9999 -- partial range test 9081`] = `"nine thousand and eighty"`;
 
-exports[`handles 1-9999 -- partial range test 9082`] = `"nine thousand eighty one"`;
+exports[`handles 1-9999 -- partial range test 9082`] = `"nine thousand and eighty one"`;
 
-exports[`handles 1-9999 -- partial range test 9083`] = `"nine thousand eighty two"`;
+exports[`handles 1-9999 -- partial range test 9083`] = `"nine thousand and eighty two"`;
 
-exports[`handles 1-9999 -- partial range test 9084`] = `"nine thousand eighty three"`;
+exports[`handles 1-9999 -- partial range test 9084`] = `"nine thousand and eighty three"`;
 
-exports[`handles 1-9999 -- partial range test 9085`] = `"nine thousand eighty four"`;
+exports[`handles 1-9999 -- partial range test 9085`] = `"nine thousand and eighty four"`;
 
-exports[`handles 1-9999 -- partial range test 9086`] = `"nine thousand eighty five"`;
+exports[`handles 1-9999 -- partial range test 9086`] = `"nine thousand and eighty five"`;
 
-exports[`handles 1-9999 -- partial range test 9087`] = `"nine thousand eighty six"`;
+exports[`handles 1-9999 -- partial range test 9087`] = `"nine thousand and eighty six"`;
 
-exports[`handles 1-9999 -- partial range test 9088`] = `"nine thousand eighty seven"`;
+exports[`handles 1-9999 -- partial range test 9088`] = `"nine thousand and eighty seven"`;
 
-exports[`handles 1-9999 -- partial range test 9089`] = `"nine thousand eighty eight"`;
+exports[`handles 1-9999 -- partial range test 9089`] = `"nine thousand and eighty eight"`;
 
-exports[`handles 1-9999 -- partial range test 9090`] = `"nine thousand eighty nine"`;
+exports[`handles 1-9999 -- partial range test 9090`] = `"nine thousand and eighty nine"`;
 
-exports[`handles 1-9999 -- partial range test 9091`] = `"nine thousand ninety"`;
+exports[`handles 1-9999 -- partial range test 9091`] = `"nine thousand and ninety"`;
 
-exports[`handles 1-9999 -- partial range test 9092`] = `"nine thousand ninety one"`;
+exports[`handles 1-9999 -- partial range test 9092`] = `"nine thousand and ninety one"`;
 
-exports[`handles 1-9999 -- partial range test 9093`] = `"nine thousand ninety two"`;
+exports[`handles 1-9999 -- partial range test 9093`] = `"nine thousand and ninety two"`;
 
-exports[`handles 1-9999 -- partial range test 9094`] = `"nine thousand ninety three"`;
+exports[`handles 1-9999 -- partial range test 9094`] = `"nine thousand and ninety three"`;
 
-exports[`handles 1-9999 -- partial range test 9095`] = `"nine thousand ninety four"`;
+exports[`handles 1-9999 -- partial range test 9095`] = `"nine thousand and ninety four"`;
 
-exports[`handles 1-9999 -- partial range test 9096`] = `"nine thousand ninety five"`;
+exports[`handles 1-9999 -- partial range test 9096`] = `"nine thousand and ninety five"`;
 
-exports[`handles 1-9999 -- partial range test 9097`] = `"nine thousand ninety six"`;
+exports[`handles 1-9999 -- partial range test 9097`] = `"nine thousand and ninety six"`;
 
-exports[`handles 1-9999 -- partial range test 9098`] = `"nine thousand ninety seven"`;
+exports[`handles 1-9999 -- partial range test 9098`] = `"nine thousand and ninety seven"`;
 
-exports[`handles 1-9999 -- partial range test 9099`] = `"nine thousand ninety eight"`;
+exports[`handles 1-9999 -- partial range test 9099`] = `"nine thousand and ninety eight"`;
 
-exports[`handles 1-9999 -- partial range test 9100`] = `"nine thousand ninety nine"`;
+exports[`handles 1-9999 -- partial range test 9100`] = `"nine thousand and ninety nine"`;
 
 exports[`handles 1-9999 -- partial range test 9101`] = `"nine thousand one hundred"`;
 
