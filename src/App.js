@@ -10,7 +10,7 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <h1 className="App-title">Digits To English</h1>
+          <h1 className="App-title">Numbers To English Words</h1>
         </header>
        <ConversionComponent
          value={0}
