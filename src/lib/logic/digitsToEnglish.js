@@ -66,7 +66,9 @@ export default (strInput) => {
             const strCurrVal = (strNum[i - 2] || '') + (strNum[i - 1] || '') + (strNum[i] || '')
 
             const postFix = positionPostfixes[significancePos]
-            strOutput = _digitsToEnglishThreeDigit(strCurrVal) + ' ' + (postFix ? postFix + ' ' : '') + ', ' + strOutput
+            const placeSeperator = (i === len - 1) ? ' ' : ', '
+            strOutput = _digitsToEnglishThreeDigit(strCurrVal) + ' ' + (postFix || '') +
+              placeSeperator + strOutput
             i = i - 3
             significancePos++
         }

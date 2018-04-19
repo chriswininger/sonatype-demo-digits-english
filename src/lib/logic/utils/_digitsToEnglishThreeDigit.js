@@ -21,6 +21,6 @@ export default (strNum) => {
         return _digitsToEnglishTwoDigit(strNum)
     } else {
         const tens = _digitsToEnglishTwoDigit(strNum.slice(1))
-        return _digitsToEnglishTwoDigit(strNum[0]) + (tens ? ' hundred and ' + tens : ' hundred')
+        return _digitsToEnglishTwoDigit(strNum[0]) + (tens ? ' hundred ' + tens : ' hundred')
     }
 }
