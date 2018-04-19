@@ -22,6 +22,13 @@ it('handles zero', () => {
     expect(digitsToEnglish('-0000')).toBe('zero')
 })
 
+// some simple tests based on sample data provided (note in sample data they start with upper case but I handle this ui)
+it('handles base sample numbers', () => {
+    expect(digitsToEnglish(13)).toBe('thirteen')
+    expect(digitsToEnglish(85)).toBe('eighty five')
+    expect(digitsToEnglish(5237)).toBe('five thousand two hundred and thirty seven')
+})
+
 it('handles negative numbers', () => {
     expect(digitsToEnglish(-1)).toBe('negative one')
     expect(digitsToEnglish(-12)).toBe('negative twelve')
