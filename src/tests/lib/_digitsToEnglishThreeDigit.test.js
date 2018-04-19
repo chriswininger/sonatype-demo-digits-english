@@ -13,7 +13,7 @@ it('throws a RangeError when a value with more than two digits is used', () => {
 // === Check Input cleanup ===
 it('evaluates numbers with leading zeros', () => {
     expect(_digitsToEnglishThreeDigit('001')).toBe('one')
-    expect(_digitsToEnglishThreeDigit('00120')).toBe('one hundred twenty')
+    expect(_digitsToEnglishThreeDigit('00120')).toBe('one hundred and twenty')
 })
 
 // === Alert Us To Any Changes from Here on out to valid input ===
