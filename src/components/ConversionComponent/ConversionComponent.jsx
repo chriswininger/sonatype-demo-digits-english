@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import ConversionOutput from './ConversionOutput.jsx'
-import digitsToEnglish from '../lib/logic/digitsToEnglish'
+import digitsToEnglish from '../../lib/logic/digitsToEnglish'
 
 const _convertValue = (inVal) => {
   let value = ''

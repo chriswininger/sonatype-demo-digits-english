@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 import digitsToEnglishFrom from './lib/logic/digitsToEnglish'
-import ConversionComponent from './components/ConversionComponent.jsx'
+import ConversionComponent from './components/ConversionComponent'
 
 class App extends Component {
   render() {
