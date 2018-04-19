@@ -1,0 +1,2007 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`numbers match expected output (full range test) 1`] = `""`;
+
+exports[`numbers match expected output (full range test) 2`] = `"one"`;
+
+exports[`numbers match expected output (full range test) 3`] = `"two"`;
+
+exports[`numbers match expected output (full range test) 4`] = `"three"`;
+
+exports[`numbers match expected output (full range test) 5`] = `"four"`;
+
+exports[`numbers match expected output (full range test) 6`] = `"five"`;
+
+exports[`numbers match expected output (full range test) 7`] = `"six"`;
+
+exports[`numbers match expected output (full range test) 8`] = `"seven"`;
+
+exports[`numbers match expected output (full range test) 9`] = `"eight"`;
+
+exports[`numbers match expected output (full range test) 10`] = `"nine"`;
+
+exports[`numbers match expected output (full range test) 11`] = `"ten"`;
+
+exports[`numbers match expected output (full range test) 12`] = `"eleven"`;
+
+exports[`numbers match expected output (full range test) 13`] = `"twelve"`;
+
+exports[`numbers match expected output (full range test) 14`] = `"thirteen"`;
+
+exports[`numbers match expected output (full range test) 15`] = `"fourteen"`;
+
+exports[`numbers match expected output (full range test) 16`] = `"fifteen"`;
+
+exports[`numbers match expected output (full range test) 17`] = `"sixteen"`;
+
+exports[`numbers match expected output (full range test) 18`] = `"seventeen"`;
+
+exports[`numbers match expected output (full range test) 19`] = `"eighteen"`;
+
+exports[`numbers match expected output (full range test) 20`] = `"nineteen"`;
+
+exports[`numbers match expected output (full range test) 21`] = `"twenty"`;
+
+exports[`numbers match expected output (full range test) 22`] = `"twenty-one"`;
+
+exports[`numbers match expected output (full range test) 23`] = `"twenty-two"`;
+
+exports[`numbers match expected output (full range test) 24`] = `"twenty-three"`;
+
+exports[`numbers match expected output (full range test) 25`] = `"twenty-four"`;
+
+exports[`numbers match expected output (full range test) 26`] = `"twenty-five"`;
+
+exports[`numbers match expected output (full range test) 27`] = `"twenty-six"`;
+
+exports[`numbers match expected output (full range test) 28`] = `"twenty-seven"`;
+
+exports[`numbers match expected output (full range test) 29`] = `"twenty-eight"`;
+
+exports[`numbers match expected output (full range test) 30`] = `"twenty-nine"`;
+
+exports[`numbers match expected output (full range test) 31`] = `"thirty"`;
+
+exports[`numbers match expected output (full range test) 32`] = `"thirty-one"`;
+
+exports[`numbers match expected output (full range test) 33`] = `"thirty-two"`;
+
+exports[`numbers match expected output (full range test) 34`] = `"thirty-three"`;
+
+exports[`numbers match expected output (full range test) 35`] = `"thirty-four"`;
+
+exports[`numbers match expected output (full range test) 36`] = `"thirty-five"`;
+
+exports[`numbers match expected output (full range test) 37`] = `"thirty-six"`;
+
+exports[`numbers match expected output (full range test) 38`] = `"thirty-seven"`;
+
+exports[`numbers match expected output (full range test) 39`] = `"thirty-eight"`;
+
+exports[`numbers match expected output (full range test) 40`] = `"thirty-nine"`;
+
+exports[`numbers match expected output (full range test) 41`] = `"forty"`;
+
+exports[`numbers match expected output (full range test) 42`] = `"forty-one"`;
+
+exports[`numbers match expected output (full range test) 43`] = `"forty-two"`;
+
+exports[`numbers match expected output (full range test) 44`] = `"forty-three"`;
+
+exports[`numbers match expected output (full range test) 45`] = `"forty-four"`;
+
+exports[`numbers match expected output (full range test) 46`] = `"forty-five"`;
+
+exports[`numbers match expected output (full range test) 47`] = `"forty-six"`;
+
+exports[`numbers match expected output (full range test) 48`] = `"forty-seven"`;
+
+exports[`numbers match expected output (full range test) 49`] = `"forty-eight"`;
+
+exports[`numbers match expected output (full range test) 50`] = `"forty-nine"`;
+
+exports[`numbers match expected output (full range test) 51`] = `"fifty"`;
+
+exports[`numbers match expected output (full range test) 52`] = `"fifty-one"`;
+
+exports[`numbers match expected output (full range test) 53`] = `"fifty-two"`;
+
+exports[`numbers match expected output (full range test) 54`] = `"fifty-three"`;
+
+exports[`numbers match expected output (full range test) 55`] = `"fifty-four"`;
+
+exports[`numbers match expected output (full range test) 56`] = `"fifty-five"`;
+
+exports[`numbers match expected output (full range test) 57`] = `"fifty-six"`;
+
+exports[`numbers match expected output (full range test) 58`] = `"fifty-seven"`;
+
+exports[`numbers match expected output (full range test) 59`] = `"fifty-eight"`;
+
+exports[`numbers match expected output (full range test) 60`] = `"fifty-nine"`;
+
+exports[`numbers match expected output (full range test) 61`] = `"sixty"`;
+
+exports[`numbers match expected output (full range test) 62`] = `"sixty-one"`;
+
+exports[`numbers match expected output (full range test) 63`] = `"sixty-two"`;
+
+exports[`numbers match expected output (full range test) 64`] = `"sixty-three"`;
+
+exports[`numbers match expected output (full range test) 65`] = `"sixty-four"`;
+
+exports[`numbers match expected output (full range test) 66`] = `"sixty-five"`;
+
+exports[`numbers match expected output (full range test) 67`] = `"sixty-six"`;
+
+exports[`numbers match expected output (full range test) 68`] = `"sixty-seven"`;
+
+exports[`numbers match expected output (full range test) 69`] = `"sixty-eight"`;
+
+exports[`numbers match expected output (full range test) 70`] = `"sixty-nine"`;
+
+exports[`numbers match expected output (full range test) 71`] = `"seventy"`;
+
+exports[`numbers match expected output (full range test) 72`] = `"seventy-one"`;
+
+exports[`numbers match expected output (full range test) 73`] = `"seventy-two"`;
+
+exports[`numbers match expected output (full range test) 74`] = `"seventy-three"`;
+
+exports[`numbers match expected output (full range test) 75`] = `"seventy-four"`;
+
+exports[`numbers match expected output (full range test) 76`] = `"seventy-five"`;
+
+exports[`numbers match expected output (full range test) 77`] = `"seventy-six"`;
+
+exports[`numbers match expected output (full range test) 78`] = `"seventy-seven"`;
+
+exports[`numbers match expected output (full range test) 79`] = `"seventy-eight"`;
+
+exports[`numbers match expected output (full range test) 80`] = `"seventy-nine"`;
+
+exports[`numbers match expected output (full range test) 81`] = `"eighty"`;
+
+exports[`numbers match expected output (full range test) 82`] = `"eighty-one"`;
+
+exports[`numbers match expected output (full range test) 83`] = `"eighty-two"`;
+
+exports[`numbers match expected output (full range test) 84`] = `"eighty-three"`;
+
+exports[`numbers match expected output (full range test) 85`] = `"eighty-four"`;
+
+exports[`numbers match expected output (full range test) 86`] = `"eighty-five"`;
+
+exports[`numbers match expected output (full range test) 87`] = `"eighty-six"`;
+
+exports[`numbers match expected output (full range test) 88`] = `"eighty-seven"`;
+
+exports[`numbers match expected output (full range test) 89`] = `"eighty-eight"`;
+
+exports[`numbers match expected output (full range test) 90`] = `"eighty-nine"`;
+
+exports[`numbers match expected output (full range test) 91`] = `"ninety"`;
+
+exports[`numbers match expected output (full range test) 92`] = `"ninety-one"`;
+
+exports[`numbers match expected output (full range test) 93`] = `"ninety-two"`;
+
+exports[`numbers match expected output (full range test) 94`] = `"ninety-three"`;
+
+exports[`numbers match expected output (full range test) 95`] = `"ninety-four"`;
+
+exports[`numbers match expected output (full range test) 96`] = `"ninety-five"`;
+
+exports[`numbers match expected output (full range test) 97`] = `"ninety-six"`;
+
+exports[`numbers match expected output (full range test) 98`] = `"ninety-seven"`;
+
+exports[`numbers match expected output (full range test) 99`] = `"ninety-eight"`;
+
+exports[`numbers match expected output (full range test) 100`] = `"ninety-nine"`;
+
+exports[`numbers match expected output (full range test) 101`] = `"one hundred"`;
+
+exports[`numbers match expected output (full range test) 102`] = `"one hundred one"`;
+
+exports[`numbers match expected output (full range test) 103`] = `"one hundred two"`;
+
+exports[`numbers match expected output (full range test) 104`] = `"one hundred three"`;
+
+exports[`numbers match expected output (full range test) 105`] = `"one hundred four"`;
+
+exports[`numbers match expected output (full range test) 106`] = `"one hundred five"`;
+
+exports[`numbers match expected output (full range test) 107`] = `"one hundred six"`;
+
+exports[`numbers match expected output (full range test) 108`] = `"one hundred seven"`;
+
+exports[`numbers match expected output (full range test) 109`] = `"one hundred eight"`;
+
+exports[`numbers match expected output (full range test) 110`] = `"one hundred nine"`;
+
+exports[`numbers match expected output (full range test) 111`] = `"one hundred ten"`;
+
+exports[`numbers match expected output (full range test) 112`] = `"one hundred eleven"`;
+
+exports[`numbers match expected output (full range test) 113`] = `"one hundred twelve"`;
+
+exports[`numbers match expected output (full range test) 114`] = `"one hundred thirteen"`;
+
+exports[`numbers match expected output (full range test) 115`] = `"one hundred fourteen"`;
+
+exports[`numbers match expected output (full range test) 116`] = `"one hundred fifteen"`;
+
+exports[`numbers match expected output (full range test) 117`] = `"one hundred sixteen"`;
+
+exports[`numbers match expected output (full range test) 118`] = `"one hundred seventeen"`;
+
+exports[`numbers match expected output (full range test) 119`] = `"one hundred eighteen"`;
+
+exports[`numbers match expected output (full range test) 120`] = `"one hundred nineteen"`;
+
+exports[`numbers match expected output (full range test) 121`] = `"one hundred twenty"`;
+
+exports[`numbers match expected output (full range test) 122`] = `"one hundred twenty-one"`;
+
+exports[`numbers match expected output (full range test) 123`] = `"one hundred twenty-two"`;
+
+exports[`numbers match expected output (full range test) 124`] = `"one hundred twenty-three"`;
+
+exports[`numbers match expected output (full range test) 125`] = `"one hundred twenty-four"`;
+
+exports[`numbers match expected output (full range test) 126`] = `"one hundred twenty-five"`;
+
+exports[`numbers match expected output (full range test) 127`] = `"one hundred twenty-six"`;
+
+exports[`numbers match expected output (full range test) 128`] = `"one hundred twenty-seven"`;
+
+exports[`numbers match expected output (full range test) 129`] = `"one hundred twenty-eight"`;
+
+exports[`numbers match expected output (full range test) 130`] = `"one hundred twenty-nine"`;
+
+exports[`numbers match expected output (full range test) 131`] = `"one hundred thirty"`;
+
+exports[`numbers match expected output (full range test) 132`] = `"one hundred thirty-one"`;
+
+exports[`numbers match expected output (full range test) 133`] = `"one hundred thirty-two"`;
+
+exports[`numbers match expected output (full range test) 134`] = `"one hundred thirty-three"`;
+
+exports[`numbers match expected output (full range test) 135`] = `"one hundred thirty-four"`;
+
+exports[`numbers match expected output (full range test) 136`] = `"one hundred thirty-five"`;
+
+exports[`numbers match expected output (full range test) 137`] = `"one hundred thirty-six"`;
+
+exports[`numbers match expected output (full range test) 138`] = `"one hundred thirty-seven"`;
+
+exports[`numbers match expected output (full range test) 139`] = `"one hundred thirty-eight"`;
+
+exports[`numbers match expected output (full range test) 140`] = `"one hundred thirty-nine"`;
+
+exports[`numbers match expected output (full range test) 141`] = `"one hundred forty"`;
+
+exports[`numbers match expected output (full range test) 142`] = `"one hundred forty-one"`;
+
+exports[`numbers match expected output (full range test) 143`] = `"one hundred forty-two"`;
+
+exports[`numbers match expected output (full range test) 144`] = `"one hundred forty-three"`;
+
+exports[`numbers match expected output (full range test) 145`] = `"one hundred forty-four"`;
+
+exports[`numbers match expected output (full range test) 146`] = `"one hundred forty-five"`;
+
+exports[`numbers match expected output (full range test) 147`] = `"one hundred forty-six"`;
+
+exports[`numbers match expected output (full range test) 148`] = `"one hundred forty-seven"`;
+
+exports[`numbers match expected output (full range test) 149`] = `"one hundred forty-eight"`;
+
+exports[`numbers match expected output (full range test) 150`] = `"one hundred forty-nine"`;
+
+exports[`numbers match expected output (full range test) 151`] = `"one hundred fifty"`;
+
+exports[`numbers match expected output (full range test) 152`] = `"one hundred fifty-one"`;
+
+exports[`numbers match expected output (full range test) 153`] = `"one hundred fifty-two"`;
+
+exports[`numbers match expected output (full range test) 154`] = `"one hundred fifty-three"`;
+
+exports[`numbers match expected output (full range test) 155`] = `"one hundred fifty-four"`;
+
+exports[`numbers match expected output (full range test) 156`] = `"one hundred fifty-five"`;
+
+exports[`numbers match expected output (full range test) 157`] = `"one hundred fifty-six"`;
+
+exports[`numbers match expected output (full range test) 158`] = `"one hundred fifty-seven"`;
+
+exports[`numbers match expected output (full range test) 159`] = `"one hundred fifty-eight"`;
+
+exports[`numbers match expected output (full range test) 160`] = `"one hundred fifty-nine"`;
+
+exports[`numbers match expected output (full range test) 161`] = `"one hundred sixty"`;
+
+exports[`numbers match expected output (full range test) 162`] = `"one hundred sixty-one"`;
+
+exports[`numbers match expected output (full range test) 163`] = `"one hundred sixty-two"`;
+
+exports[`numbers match expected output (full range test) 164`] = `"one hundred sixty-three"`;
+
+exports[`numbers match expected output (full range test) 165`] = `"one hundred sixty-four"`;
+
+exports[`numbers match expected output (full range test) 166`] = `"one hundred sixty-five"`;
+
+exports[`numbers match expected output (full range test) 167`] = `"one hundred sixty-six"`;
+
+exports[`numbers match expected output (full range test) 168`] = `"one hundred sixty-seven"`;
+
+exports[`numbers match expected output (full range test) 169`] = `"one hundred sixty-eight"`;
+
+exports[`numbers match expected output (full range test) 170`] = `"one hundred sixty-nine"`;
+
+exports[`numbers match expected output (full range test) 171`] = `"one hundred seventy"`;
+
+exports[`numbers match expected output (full range test) 172`] = `"one hundred seventy-one"`;
+
+exports[`numbers match expected output (full range test) 173`] = `"one hundred seventy-two"`;
+
+exports[`numbers match expected output (full range test) 174`] = `"one hundred seventy-three"`;
+
+exports[`numbers match expected output (full range test) 175`] = `"one hundred seventy-four"`;
+
+exports[`numbers match expected output (full range test) 176`] = `"one hundred seventy-five"`;
+
+exports[`numbers match expected output (full range test) 177`] = `"one hundred seventy-six"`;
+
+exports[`numbers match expected output (full range test) 178`] = `"one hundred seventy-seven"`;
+
+exports[`numbers match expected output (full range test) 179`] = `"one hundred seventy-eight"`;
+
+exports[`numbers match expected output (full range test) 180`] = `"one hundred seventy-nine"`;
+
+exports[`numbers match expected output (full range test) 181`] = `"one hundred eighty"`;
+
+exports[`numbers match expected output (full range test) 182`] = `"one hundred eighty-one"`;
+
+exports[`numbers match expected output (full range test) 183`] = `"one hundred eighty-two"`;
+
+exports[`numbers match expected output (full range test) 184`] = `"one hundred eighty-three"`;
+
+exports[`numbers match expected output (full range test) 185`] = `"one hundred eighty-four"`;
+
+exports[`numbers match expected output (full range test) 186`] = `"one hundred eighty-five"`;
+
+exports[`numbers match expected output (full range test) 187`] = `"one hundred eighty-six"`;
+
+exports[`numbers match expected output (full range test) 188`] = `"one hundred eighty-seven"`;
+
+exports[`numbers match expected output (full range test) 189`] = `"one hundred eighty-eight"`;
+
+exports[`numbers match expected output (full range test) 190`] = `"one hundred eighty-nine"`;
+
+exports[`numbers match expected output (full range test) 191`] = `"one hundred ninety"`;
+
+exports[`numbers match expected output (full range test) 192`] = `"one hundred ninety-one"`;
+
+exports[`numbers match expected output (full range test) 193`] = `"one hundred ninety-two"`;
+
+exports[`numbers match expected output (full range test) 194`] = `"one hundred ninety-three"`;
+
+exports[`numbers match expected output (full range test) 195`] = `"one hundred ninety-four"`;
+
+exports[`numbers match expected output (full range test) 196`] = `"one hundred ninety-five"`;
+
+exports[`numbers match expected output (full range test) 197`] = `"one hundred ninety-six"`;
+
+exports[`numbers match expected output (full range test) 198`] = `"one hundred ninety-seven"`;
+
+exports[`numbers match expected output (full range test) 199`] = `"one hundred ninety-eight"`;
+
+exports[`numbers match expected output (full range test) 200`] = `"one hundred ninety-nine"`;
+
+exports[`numbers match expected output (full range test) 201`] = `"two hundred"`;
+
+exports[`numbers match expected output (full range test) 202`] = `"two hundred one"`;
+
+exports[`numbers match expected output (full range test) 203`] = `"two hundred two"`;
+
+exports[`numbers match expected output (full range test) 204`] = `"two hundred three"`;
+
+exports[`numbers match expected output (full range test) 205`] = `"two hundred four"`;
+
+exports[`numbers match expected output (full range test) 206`] = `"two hundred five"`;
+
+exports[`numbers match expected output (full range test) 207`] = `"two hundred six"`;
+
+exports[`numbers match expected output (full range test) 208`] = `"two hundred seven"`;
+
+exports[`numbers match expected output (full range test) 209`] = `"two hundred eight"`;
+
+exports[`numbers match expected output (full range test) 210`] = `"two hundred nine"`;
+
+exports[`numbers match expected output (full range test) 211`] = `"two hundred ten"`;
+
+exports[`numbers match expected output (full range test) 212`] = `"two hundred eleven"`;
+
+exports[`numbers match expected output (full range test) 213`] = `"two hundred twelve"`;
+
+exports[`numbers match expected output (full range test) 214`] = `"two hundred thirteen"`;
+
+exports[`numbers match expected output (full range test) 215`] = `"two hundred fourteen"`;
+
+exports[`numbers match expected output (full range test) 216`] = `"two hundred fifteen"`;
+
+exports[`numbers match expected output (full range test) 217`] = `"two hundred sixteen"`;
+
+exports[`numbers match expected output (full range test) 218`] = `"two hundred seventeen"`;
+
+exports[`numbers match expected output (full range test) 219`] = `"two hundred eighteen"`;
+
+exports[`numbers match expected output (full range test) 220`] = `"two hundred nineteen"`;
+
+exports[`numbers match expected output (full range test) 221`] = `"two hundred twenty"`;
+
+exports[`numbers match expected output (full range test) 222`] = `"two hundred twenty-one"`;
+
+exports[`numbers match expected output (full range test) 223`] = `"two hundred twenty-two"`;
+
+exports[`numbers match expected output (full range test) 224`] = `"two hundred twenty-three"`;
+
+exports[`numbers match expected output (full range test) 225`] = `"two hundred twenty-four"`;
+
+exports[`numbers match expected output (full range test) 226`] = `"two hundred twenty-five"`;
+
+exports[`numbers match expected output (full range test) 227`] = `"two hundred twenty-six"`;
+
+exports[`numbers match expected output (full range test) 228`] = `"two hundred twenty-seven"`;
+
+exports[`numbers match expected output (full range test) 229`] = `"two hundred twenty-eight"`;
+
+exports[`numbers match expected output (full range test) 230`] = `"two hundred twenty-nine"`;
+
+exports[`numbers match expected output (full range test) 231`] = `"two hundred thirty"`;
+
+exports[`numbers match expected output (full range test) 232`] = `"two hundred thirty-one"`;
+
+exports[`numbers match expected output (full range test) 233`] = `"two hundred thirty-two"`;
+
+exports[`numbers match expected output (full range test) 234`] = `"two hundred thirty-three"`;
+
+exports[`numbers match expected output (full range test) 235`] = `"two hundred thirty-four"`;
+
+exports[`numbers match expected output (full range test) 236`] = `"two hundred thirty-five"`;
+
+exports[`numbers match expected output (full range test) 237`] = `"two hundred thirty-six"`;
+
+exports[`numbers match expected output (full range test) 238`] = `"two hundred thirty-seven"`;
+
+exports[`numbers match expected output (full range test) 239`] = `"two hundred thirty-eight"`;
+
+exports[`numbers match expected output (full range test) 240`] = `"two hundred thirty-nine"`;
+
+exports[`numbers match expected output (full range test) 241`] = `"two hundred forty"`;
+
+exports[`numbers match expected output (full range test) 242`] = `"two hundred forty-one"`;
+
+exports[`numbers match expected output (full range test) 243`] = `"two hundred forty-two"`;
+
+exports[`numbers match expected output (full range test) 244`] = `"two hundred forty-three"`;
+
+exports[`numbers match expected output (full range test) 245`] = `"two hundred forty-four"`;
+
+exports[`numbers match expected output (full range test) 246`] = `"two hundred forty-five"`;
+
+exports[`numbers match expected output (full range test) 247`] = `"two hundred forty-six"`;
+
+exports[`numbers match expected output (full range test) 248`] = `"two hundred forty-seven"`;
+
+exports[`numbers match expected output (full range test) 249`] = `"two hundred forty-eight"`;
+
+exports[`numbers match expected output (full range test) 250`] = `"two hundred forty-nine"`;
+
+exports[`numbers match expected output (full range test) 251`] = `"two hundred fifty"`;
+
+exports[`numbers match expected output (full range test) 252`] = `"two hundred fifty-one"`;
+
+exports[`numbers match expected output (full range test) 253`] = `"two hundred fifty-two"`;
+
+exports[`numbers match expected output (full range test) 254`] = `"two hundred fifty-three"`;
+
+exports[`numbers match expected output (full range test) 255`] = `"two hundred fifty-four"`;
+
+exports[`numbers match expected output (full range test) 256`] = `"two hundred fifty-five"`;
+
+exports[`numbers match expected output (full range test) 257`] = `"two hundred fifty-six"`;
+
+exports[`numbers match expected output (full range test) 258`] = `"two hundred fifty-seven"`;
+
+exports[`numbers match expected output (full range test) 259`] = `"two hundred fifty-eight"`;
+
+exports[`numbers match expected output (full range test) 260`] = `"two hundred fifty-nine"`;
+
+exports[`numbers match expected output (full range test) 261`] = `"two hundred sixty"`;
+
+exports[`numbers match expected output (full range test) 262`] = `"two hundred sixty-one"`;
+
+exports[`numbers match expected output (full range test) 263`] = `"two hundred sixty-two"`;
+
+exports[`numbers match expected output (full range test) 264`] = `"two hundred sixty-three"`;
+
+exports[`numbers match expected output (full range test) 265`] = `"two hundred sixty-four"`;
+
+exports[`numbers match expected output (full range test) 266`] = `"two hundred sixty-five"`;
+
+exports[`numbers match expected output (full range test) 267`] = `"two hundred sixty-six"`;
+
+exports[`numbers match expected output (full range test) 268`] = `"two hundred sixty-seven"`;
+
+exports[`numbers match expected output (full range test) 269`] = `"two hundred sixty-eight"`;
+
+exports[`numbers match expected output (full range test) 270`] = `"two hundred sixty-nine"`;
+
+exports[`numbers match expected output (full range test) 271`] = `"two hundred seventy"`;
+
+exports[`numbers match expected output (full range test) 272`] = `"two hundred seventy-one"`;
+
+exports[`numbers match expected output (full range test) 273`] = `"two hundred seventy-two"`;
+
+exports[`numbers match expected output (full range test) 274`] = `"two hundred seventy-three"`;
+
+exports[`numbers match expected output (full range test) 275`] = `"two hundred seventy-four"`;
+
+exports[`numbers match expected output (full range test) 276`] = `"two hundred seventy-five"`;
+
+exports[`numbers match expected output (full range test) 277`] = `"two hundred seventy-six"`;
+
+exports[`numbers match expected output (full range test) 278`] = `"two hundred seventy-seven"`;
+
+exports[`numbers match expected output (full range test) 279`] = `"two hundred seventy-eight"`;
+
+exports[`numbers match expected output (full range test) 280`] = `"two hundred seventy-nine"`;
+
+exports[`numbers match expected output (full range test) 281`] = `"two hundred eighty"`;
+
+exports[`numbers match expected output (full range test) 282`] = `"two hundred eighty-one"`;
+
+exports[`numbers match expected output (full range test) 283`] = `"two hundred eighty-two"`;
+
+exports[`numbers match expected output (full range test) 284`] = `"two hundred eighty-three"`;
+
+exports[`numbers match expected output (full range test) 285`] = `"two hundred eighty-four"`;
+
+exports[`numbers match expected output (full range test) 286`] = `"two hundred eighty-five"`;
+
+exports[`numbers match expected output (full range test) 287`] = `"two hundred eighty-six"`;
+
+exports[`numbers match expected output (full range test) 288`] = `"two hundred eighty-seven"`;
+
+exports[`numbers match expected output (full range test) 289`] = `"two hundred eighty-eight"`;
+
+exports[`numbers match expected output (full range test) 290`] = `"two hundred eighty-nine"`;
+
+exports[`numbers match expected output (full range test) 291`] = `"two hundred ninety"`;
+
+exports[`numbers match expected output (full range test) 292`] = `"two hundred ninety-one"`;
+
+exports[`numbers match expected output (full range test) 293`] = `"two hundred ninety-two"`;
+
+exports[`numbers match expected output (full range test) 294`] = `"two hundred ninety-three"`;
+
+exports[`numbers match expected output (full range test) 295`] = `"two hundred ninety-four"`;
+
+exports[`numbers match expected output (full range test) 296`] = `"two hundred ninety-five"`;
+
+exports[`numbers match expected output (full range test) 297`] = `"two hundred ninety-six"`;
+
+exports[`numbers match expected output (full range test) 298`] = `"two hundred ninety-seven"`;
+
+exports[`numbers match expected output (full range test) 299`] = `"two hundred ninety-eight"`;
+
+exports[`numbers match expected output (full range test) 300`] = `"two hundred ninety-nine"`;
+
+exports[`numbers match expected output (full range test) 301`] = `"three hundred"`;
+
+exports[`numbers match expected output (full range test) 302`] = `"three hundred one"`;
+
+exports[`numbers match expected output (full range test) 303`] = `"three hundred two"`;
+
+exports[`numbers match expected output (full range test) 304`] = `"three hundred three"`;
+
+exports[`numbers match expected output (full range test) 305`] = `"three hundred four"`;
+
+exports[`numbers match expected output (full range test) 306`] = `"three hundred five"`;
+
+exports[`numbers match expected output (full range test) 307`] = `"three hundred six"`;
+
+exports[`numbers match expected output (full range test) 308`] = `"three hundred seven"`;
+
+exports[`numbers match expected output (full range test) 309`] = `"three hundred eight"`;
+
+exports[`numbers match expected output (full range test) 310`] = `"three hundred nine"`;
+
+exports[`numbers match expected output (full range test) 311`] = `"three hundred ten"`;
+
+exports[`numbers match expected output (full range test) 312`] = `"three hundred eleven"`;
+
+exports[`numbers match expected output (full range test) 313`] = `"three hundred twelve"`;
+
+exports[`numbers match expected output (full range test) 314`] = `"three hundred thirteen"`;
+
+exports[`numbers match expected output (full range test) 315`] = `"three hundred fourteen"`;
+
+exports[`numbers match expected output (full range test) 316`] = `"three hundred fifteen"`;
+
+exports[`numbers match expected output (full range test) 317`] = `"three hundred sixteen"`;
+
+exports[`numbers match expected output (full range test) 318`] = `"three hundred seventeen"`;
+
+exports[`numbers match expected output (full range test) 319`] = `"three hundred eighteen"`;
+
+exports[`numbers match expected output (full range test) 320`] = `"three hundred nineteen"`;
+
+exports[`numbers match expected output (full range test) 321`] = `"three hundred twenty"`;
+
+exports[`numbers match expected output (full range test) 322`] = `"three hundred twenty-one"`;
+
+exports[`numbers match expected output (full range test) 323`] = `"three hundred twenty-two"`;
+
+exports[`numbers match expected output (full range test) 324`] = `"three hundred twenty-three"`;
+
+exports[`numbers match expected output (full range test) 325`] = `"three hundred twenty-four"`;
+
+exports[`numbers match expected output (full range test) 326`] = `"three hundred twenty-five"`;
+
+exports[`numbers match expected output (full range test) 327`] = `"three hundred twenty-six"`;
+
+exports[`numbers match expected output (full range test) 328`] = `"three hundred twenty-seven"`;
+
+exports[`numbers match expected output (full range test) 329`] = `"three hundred twenty-eight"`;
+
+exports[`numbers match expected output (full range test) 330`] = `"three hundred twenty-nine"`;
+
+exports[`numbers match expected output (full range test) 331`] = `"three hundred thirty"`;
+
+exports[`numbers match expected output (full range test) 332`] = `"three hundred thirty-one"`;
+
+exports[`numbers match expected output (full range test) 333`] = `"three hundred thirty-two"`;
+
+exports[`numbers match expected output (full range test) 334`] = `"three hundred thirty-three"`;
+
+exports[`numbers match expected output (full range test) 335`] = `"three hundred thirty-four"`;
+
+exports[`numbers match expected output (full range test) 336`] = `"three hundred thirty-five"`;
+
+exports[`numbers match expected output (full range test) 337`] = `"three hundred thirty-six"`;
+
+exports[`numbers match expected output (full range test) 338`] = `"three hundred thirty-seven"`;
+
+exports[`numbers match expected output (full range test) 339`] = `"three hundred thirty-eight"`;
+
+exports[`numbers match expected output (full range test) 340`] = `"three hundred thirty-nine"`;
+
+exports[`numbers match expected output (full range test) 341`] = `"three hundred forty"`;
+
+exports[`numbers match expected output (full range test) 342`] = `"three hundred forty-one"`;
+
+exports[`numbers match expected output (full range test) 343`] = `"three hundred forty-two"`;
+
+exports[`numbers match expected output (full range test) 344`] = `"three hundred forty-three"`;
+
+exports[`numbers match expected output (full range test) 345`] = `"three hundred forty-four"`;
+
+exports[`numbers match expected output (full range test) 346`] = `"three hundred forty-five"`;
+
+exports[`numbers match expected output (full range test) 347`] = `"three hundred forty-six"`;
+
+exports[`numbers match expected output (full range test) 348`] = `"three hundred forty-seven"`;
+
+exports[`numbers match expected output (full range test) 349`] = `"three hundred forty-eight"`;
+
+exports[`numbers match expected output (full range test) 350`] = `"three hundred forty-nine"`;
+
+exports[`numbers match expected output (full range test) 351`] = `"three hundred fifty"`;
+
+exports[`numbers match expected output (full range test) 352`] = `"three hundred fifty-one"`;
+
+exports[`numbers match expected output (full range test) 353`] = `"three hundred fifty-two"`;
+
+exports[`numbers match expected output (full range test) 354`] = `"three hundred fifty-three"`;
+
+exports[`numbers match expected output (full range test) 355`] = `"three hundred fifty-four"`;
+
+exports[`numbers match expected output (full range test) 356`] = `"three hundred fifty-five"`;
+
+exports[`numbers match expected output (full range test) 357`] = `"three hundred fifty-six"`;
+
+exports[`numbers match expected output (full range test) 358`] = `"three hundred fifty-seven"`;
+
+exports[`numbers match expected output (full range test) 359`] = `"three hundred fifty-eight"`;
+
+exports[`numbers match expected output (full range test) 360`] = `"three hundred fifty-nine"`;
+
+exports[`numbers match expected output (full range test) 361`] = `"three hundred sixty"`;
+
+exports[`numbers match expected output (full range test) 362`] = `"three hundred sixty-one"`;
+
+exports[`numbers match expected output (full range test) 363`] = `"three hundred sixty-two"`;
+
+exports[`numbers match expected output (full range test) 364`] = `"three hundred sixty-three"`;
+
+exports[`numbers match expected output (full range test) 365`] = `"three hundred sixty-four"`;
+
+exports[`numbers match expected output (full range test) 366`] = `"three hundred sixty-five"`;
+
+exports[`numbers match expected output (full range test) 367`] = `"three hundred sixty-six"`;
+
+exports[`numbers match expected output (full range test) 368`] = `"three hundred sixty-seven"`;
+
+exports[`numbers match expected output (full range test) 369`] = `"three hundred sixty-eight"`;
+
+exports[`numbers match expected output (full range test) 370`] = `"three hundred sixty-nine"`;
+
+exports[`numbers match expected output (full range test) 371`] = `"three hundred seventy"`;
+
+exports[`numbers match expected output (full range test) 372`] = `"three hundred seventy-one"`;
+
+exports[`numbers match expected output (full range test) 373`] = `"three hundred seventy-two"`;
+
+exports[`numbers match expected output (full range test) 374`] = `"three hundred seventy-three"`;
+
+exports[`numbers match expected output (full range test) 375`] = `"three hundred seventy-four"`;
+
+exports[`numbers match expected output (full range test) 376`] = `"three hundred seventy-five"`;
+
+exports[`numbers match expected output (full range test) 377`] = `"three hundred seventy-six"`;
+
+exports[`numbers match expected output (full range test) 378`] = `"three hundred seventy-seven"`;
+
+exports[`numbers match expected output (full range test) 379`] = `"three hundred seventy-eight"`;
+
+exports[`numbers match expected output (full range test) 380`] = `"three hundred seventy-nine"`;
+
+exports[`numbers match expected output (full range test) 381`] = `"three hundred eighty"`;
+
+exports[`numbers match expected output (full range test) 382`] = `"three hundred eighty-one"`;
+
+exports[`numbers match expected output (full range test) 383`] = `"three hundred eighty-two"`;
+
+exports[`numbers match expected output (full range test) 384`] = `"three hundred eighty-three"`;
+
+exports[`numbers match expected output (full range test) 385`] = `"three hundred eighty-four"`;
+
+exports[`numbers match expected output (full range test) 386`] = `"three hundred eighty-five"`;
+
+exports[`numbers match expected output (full range test) 387`] = `"three hundred eighty-six"`;
+
+exports[`numbers match expected output (full range test) 388`] = `"three hundred eighty-seven"`;
+
+exports[`numbers match expected output (full range test) 389`] = `"three hundred eighty-eight"`;
+
+exports[`numbers match expected output (full range test) 390`] = `"three hundred eighty-nine"`;
+
+exports[`numbers match expected output (full range test) 391`] = `"three hundred ninety"`;
+
+exports[`numbers match expected output (full range test) 392`] = `"three hundred ninety-one"`;
+
+exports[`numbers match expected output (full range test) 393`] = `"three hundred ninety-two"`;
+
+exports[`numbers match expected output (full range test) 394`] = `"three hundred ninety-three"`;
+
+exports[`numbers match expected output (full range test) 395`] = `"three hundred ninety-four"`;
+
+exports[`numbers match expected output (full range test) 396`] = `"three hundred ninety-five"`;
+
+exports[`numbers match expected output (full range test) 397`] = `"three hundred ninety-six"`;
+
+exports[`numbers match expected output (full range test) 398`] = `"three hundred ninety-seven"`;
+
+exports[`numbers match expected output (full range test) 399`] = `"three hundred ninety-eight"`;
+
+exports[`numbers match expected output (full range test) 400`] = `"three hundred ninety-nine"`;
+
+exports[`numbers match expected output (full range test) 401`] = `"four hundred"`;
+
+exports[`numbers match expected output (full range test) 402`] = `"four hundred one"`;
+
+exports[`numbers match expected output (full range test) 403`] = `"four hundred two"`;
+
+exports[`numbers match expected output (full range test) 404`] = `"four hundred three"`;
+
+exports[`numbers match expected output (full range test) 405`] = `"four hundred four"`;
+
+exports[`numbers match expected output (full range test) 406`] = `"four hundred five"`;
+
+exports[`numbers match expected output (full range test) 407`] = `"four hundred six"`;
+
+exports[`numbers match expected output (full range test) 408`] = `"four hundred seven"`;
+
+exports[`numbers match expected output (full range test) 409`] = `"four hundred eight"`;
+
+exports[`numbers match expected output (full range test) 410`] = `"four hundred nine"`;
+
+exports[`numbers match expected output (full range test) 411`] = `"four hundred ten"`;
+
+exports[`numbers match expected output (full range test) 412`] = `"four hundred eleven"`;
+
+exports[`numbers match expected output (full range test) 413`] = `"four hundred twelve"`;
+
+exports[`numbers match expected output (full range test) 414`] = `"four hundred thirteen"`;
+
+exports[`numbers match expected output (full range test) 415`] = `"four hundred fourteen"`;
+
+exports[`numbers match expected output (full range test) 416`] = `"four hundred fifteen"`;
+
+exports[`numbers match expected output (full range test) 417`] = `"four hundred sixteen"`;
+
+exports[`numbers match expected output (full range test) 418`] = `"four hundred seventeen"`;
+
+exports[`numbers match expected output (full range test) 419`] = `"four hundred eighteen"`;
+
+exports[`numbers match expected output (full range test) 420`] = `"four hundred nineteen"`;
+
+exports[`numbers match expected output (full range test) 421`] = `"four hundred twenty"`;
+
+exports[`numbers match expected output (full range test) 422`] = `"four hundred twenty-one"`;
+
+exports[`numbers match expected output (full range test) 423`] = `"four hundred twenty-two"`;
+
+exports[`numbers match expected output (full range test) 424`] = `"four hundred twenty-three"`;
+
+exports[`numbers match expected output (full range test) 425`] = `"four hundred twenty-four"`;
+
+exports[`numbers match expected output (full range test) 426`] = `"four hundred twenty-five"`;
+
+exports[`numbers match expected output (full range test) 427`] = `"four hundred twenty-six"`;
+
+exports[`numbers match expected output (full range test) 428`] = `"four hundred twenty-seven"`;
+
+exports[`numbers match expected output (full range test) 429`] = `"four hundred twenty-eight"`;
+
+exports[`numbers match expected output (full range test) 430`] = `"four hundred twenty-nine"`;
+
+exports[`numbers match expected output (full range test) 431`] = `"four hundred thirty"`;
+
+exports[`numbers match expected output (full range test) 432`] = `"four hundred thirty-one"`;
+
+exports[`numbers match expected output (full range test) 433`] = `"four hundred thirty-two"`;
+
+exports[`numbers match expected output (full range test) 434`] = `"four hundred thirty-three"`;
+
+exports[`numbers match expected output (full range test) 435`] = `"four hundred thirty-four"`;
+
+exports[`numbers match expected output (full range test) 436`] = `"four hundred thirty-five"`;
+
+exports[`numbers match expected output (full range test) 437`] = `"four hundred thirty-six"`;
+
+exports[`numbers match expected output (full range test) 438`] = `"four hundred thirty-seven"`;
+
+exports[`numbers match expected output (full range test) 439`] = `"four hundred thirty-eight"`;
+
+exports[`numbers match expected output (full range test) 440`] = `"four hundred thirty-nine"`;
+
+exports[`numbers match expected output (full range test) 441`] = `"four hundred forty"`;
+
+exports[`numbers match expected output (full range test) 442`] = `"four hundred forty-one"`;
+
+exports[`numbers match expected output (full range test) 443`] = `"four hundred forty-two"`;
+
+exports[`numbers match expected output (full range test) 444`] = `"four hundred forty-three"`;
+
+exports[`numbers match expected output (full range test) 445`] = `"four hundred forty-four"`;
+
+exports[`numbers match expected output (full range test) 446`] = `"four hundred forty-five"`;
+
+exports[`numbers match expected output (full range test) 447`] = `"four hundred forty-six"`;
+
+exports[`numbers match expected output (full range test) 448`] = `"four hundred forty-seven"`;
+
+exports[`numbers match expected output (full range test) 449`] = `"four hundred forty-eight"`;
+
+exports[`numbers match expected output (full range test) 450`] = `"four hundred forty-nine"`;
+
+exports[`numbers match expected output (full range test) 451`] = `"four hundred fifty"`;
+
+exports[`numbers match expected output (full range test) 452`] = `"four hundred fifty-one"`;
+
+exports[`numbers match expected output (full range test) 453`] = `"four hundred fifty-two"`;
+
+exports[`numbers match expected output (full range test) 454`] = `"four hundred fifty-three"`;
+
+exports[`numbers match expected output (full range test) 455`] = `"four hundred fifty-four"`;
+
+exports[`numbers match expected output (full range test) 456`] = `"four hundred fifty-five"`;
+
+exports[`numbers match expected output (full range test) 457`] = `"four hundred fifty-six"`;
+
+exports[`numbers match expected output (full range test) 458`] = `"four hundred fifty-seven"`;
+
+exports[`numbers match expected output (full range test) 459`] = `"four hundred fifty-eight"`;
+
+exports[`numbers match expected output (full range test) 460`] = `"four hundred fifty-nine"`;
+
+exports[`numbers match expected output (full range test) 461`] = `"four hundred sixty"`;
+
+exports[`numbers match expected output (full range test) 462`] = `"four hundred sixty-one"`;
+
+exports[`numbers match expected output (full range test) 463`] = `"four hundred sixty-two"`;
+
+exports[`numbers match expected output (full range test) 464`] = `"four hundred sixty-three"`;
+
+exports[`numbers match expected output (full range test) 465`] = `"four hundred sixty-four"`;
+
+exports[`numbers match expected output (full range test) 466`] = `"four hundred sixty-five"`;
+
+exports[`numbers match expected output (full range test) 467`] = `"four hundred sixty-six"`;
+
+exports[`numbers match expected output (full range test) 468`] = `"four hundred sixty-seven"`;
+
+exports[`numbers match expected output (full range test) 469`] = `"four hundred sixty-eight"`;
+
+exports[`numbers match expected output (full range test) 470`] = `"four hundred sixty-nine"`;
+
+exports[`numbers match expected output (full range test) 471`] = `"four hundred seventy"`;
+
+exports[`numbers match expected output (full range test) 472`] = `"four hundred seventy-one"`;
+
+exports[`numbers match expected output (full range test) 473`] = `"four hundred seventy-two"`;
+
+exports[`numbers match expected output (full range test) 474`] = `"four hundred seventy-three"`;
+
+exports[`numbers match expected output (full range test) 475`] = `"four hundred seventy-four"`;
+
+exports[`numbers match expected output (full range test) 476`] = `"four hundred seventy-five"`;
+
+exports[`numbers match expected output (full range test) 477`] = `"four hundred seventy-six"`;
+
+exports[`numbers match expected output (full range test) 478`] = `"four hundred seventy-seven"`;
+
+exports[`numbers match expected output (full range test) 479`] = `"four hundred seventy-eight"`;
+
+exports[`numbers match expected output (full range test) 480`] = `"four hundred seventy-nine"`;
+
+exports[`numbers match expected output (full range test) 481`] = `"four hundred eighty"`;
+
+exports[`numbers match expected output (full range test) 482`] = `"four hundred eighty-one"`;
+
+exports[`numbers match expected output (full range test) 483`] = `"four hundred eighty-two"`;
+
+exports[`numbers match expected output (full range test) 484`] = `"four hundred eighty-three"`;
+
+exports[`numbers match expected output (full range test) 485`] = `"four hundred eighty-four"`;
+
+exports[`numbers match expected output (full range test) 486`] = `"four hundred eighty-five"`;
+
+exports[`numbers match expected output (full range test) 487`] = `"four hundred eighty-six"`;
+
+exports[`numbers match expected output (full range test) 488`] = `"four hundred eighty-seven"`;
+
+exports[`numbers match expected output (full range test) 489`] = `"four hundred eighty-eight"`;
+
+exports[`numbers match expected output (full range test) 490`] = `"four hundred eighty-nine"`;
+
+exports[`numbers match expected output (full range test) 491`] = `"four hundred ninety"`;
+
+exports[`numbers match expected output (full range test) 492`] = `"four hundred ninety-one"`;
+
+exports[`numbers match expected output (full range test) 493`] = `"four hundred ninety-two"`;
+
+exports[`numbers match expected output (full range test) 494`] = `"four hundred ninety-three"`;
+
+exports[`numbers match expected output (full range test) 495`] = `"four hundred ninety-four"`;
+
+exports[`numbers match expected output (full range test) 496`] = `"four hundred ninety-five"`;
+
+exports[`numbers match expected output (full range test) 497`] = `"four hundred ninety-six"`;
+
+exports[`numbers match expected output (full range test) 498`] = `"four hundred ninety-seven"`;
+
+exports[`numbers match expected output (full range test) 499`] = `"four hundred ninety-eight"`;
+
+exports[`numbers match expected output (full range test) 500`] = `"four hundred ninety-nine"`;
+
+exports[`numbers match expected output (full range test) 501`] = `"five hundred"`;
+
+exports[`numbers match expected output (full range test) 502`] = `"five hundred one"`;
+
+exports[`numbers match expected output (full range test) 503`] = `"five hundred two"`;
+
+exports[`numbers match expected output (full range test) 504`] = `"five hundred three"`;
+
+exports[`numbers match expected output (full range test) 505`] = `"five hundred four"`;
+
+exports[`numbers match expected output (full range test) 506`] = `"five hundred five"`;
+
+exports[`numbers match expected output (full range test) 507`] = `"five hundred six"`;
+
+exports[`numbers match expected output (full range test) 508`] = `"five hundred seven"`;
+
+exports[`numbers match expected output (full range test) 509`] = `"five hundred eight"`;
+
+exports[`numbers match expected output (full range test) 510`] = `"five hundred nine"`;
+
+exports[`numbers match expected output (full range test) 511`] = `"five hundred ten"`;
+
+exports[`numbers match expected output (full range test) 512`] = `"five hundred eleven"`;
+
+exports[`numbers match expected output (full range test) 513`] = `"five hundred twelve"`;
+
+exports[`numbers match expected output (full range test) 514`] = `"five hundred thirteen"`;
+
+exports[`numbers match expected output (full range test) 515`] = `"five hundred fourteen"`;
+
+exports[`numbers match expected output (full range test) 516`] = `"five hundred fifteen"`;
+
+exports[`numbers match expected output (full range test) 517`] = `"five hundred sixteen"`;
+
+exports[`numbers match expected output (full range test) 518`] = `"five hundred seventeen"`;
+
+exports[`numbers match expected output (full range test) 519`] = `"five hundred eighteen"`;
+
+exports[`numbers match expected output (full range test) 520`] = `"five hundred nineteen"`;
+
+exports[`numbers match expected output (full range test) 521`] = `"five hundred twenty"`;
+
+exports[`numbers match expected output (full range test) 522`] = `"five hundred twenty-one"`;
+
+exports[`numbers match expected output (full range test) 523`] = `"five hundred twenty-two"`;
+
+exports[`numbers match expected output (full range test) 524`] = `"five hundred twenty-three"`;
+
+exports[`numbers match expected output (full range test) 525`] = `"five hundred twenty-four"`;
+
+exports[`numbers match expected output (full range test) 526`] = `"five hundred twenty-five"`;
+
+exports[`numbers match expected output (full range test) 527`] = `"five hundred twenty-six"`;
+
+exports[`numbers match expected output (full range test) 528`] = `"five hundred twenty-seven"`;
+
+exports[`numbers match expected output (full range test) 529`] = `"five hundred twenty-eight"`;
+
+exports[`numbers match expected output (full range test) 530`] = `"five hundred twenty-nine"`;
+
+exports[`numbers match expected output (full range test) 531`] = `"five hundred thirty"`;
+
+exports[`numbers match expected output (full range test) 532`] = `"five hundred thirty-one"`;
+
+exports[`numbers match expected output (full range test) 533`] = `"five hundred thirty-two"`;
+
+exports[`numbers match expected output (full range test) 534`] = `"five hundred thirty-three"`;
+
+exports[`numbers match expected output (full range test) 535`] = `"five hundred thirty-four"`;
+
+exports[`numbers match expected output (full range test) 536`] = `"five hundred thirty-five"`;
+
+exports[`numbers match expected output (full range test) 537`] = `"five hundred thirty-six"`;
+
+exports[`numbers match expected output (full range test) 538`] = `"five hundred thirty-seven"`;
+
+exports[`numbers match expected output (full range test) 539`] = `"five hundred thirty-eight"`;
+
+exports[`numbers match expected output (full range test) 540`] = `"five hundred thirty-nine"`;
+
+exports[`numbers match expected output (full range test) 541`] = `"five hundred forty"`;
+
+exports[`numbers match expected output (full range test) 542`] = `"five hundred forty-one"`;
+
+exports[`numbers match expected output (full range test) 543`] = `"five hundred forty-two"`;
+
+exports[`numbers match expected output (full range test) 544`] = `"five hundred forty-three"`;
+
+exports[`numbers match expected output (full range test) 545`] = `"five hundred forty-four"`;
+
+exports[`numbers match expected output (full range test) 546`] = `"five hundred forty-five"`;
+
+exports[`numbers match expected output (full range test) 547`] = `"five hundred forty-six"`;
+
+exports[`numbers match expected output (full range test) 548`] = `"five hundred forty-seven"`;
+
+exports[`numbers match expected output (full range test) 549`] = `"five hundred forty-eight"`;
+
+exports[`numbers match expected output (full range test) 550`] = `"five hundred forty-nine"`;
+
+exports[`numbers match expected output (full range test) 551`] = `"five hundred fifty"`;
+
+exports[`numbers match expected output (full range test) 552`] = `"five hundred fifty-one"`;
+
+exports[`numbers match expected output (full range test) 553`] = `"five hundred fifty-two"`;
+
+exports[`numbers match expected output (full range test) 554`] = `"five hundred fifty-three"`;
+
+exports[`numbers match expected output (full range test) 555`] = `"five hundred fifty-four"`;
+
+exports[`numbers match expected output (full range test) 556`] = `"five hundred fifty-five"`;
+
+exports[`numbers match expected output (full range test) 557`] = `"five hundred fifty-six"`;
+
+exports[`numbers match expected output (full range test) 558`] = `"five hundred fifty-seven"`;
+
+exports[`numbers match expected output (full range test) 559`] = `"five hundred fifty-eight"`;
+
+exports[`numbers match expected output (full range test) 560`] = `"five hundred fifty-nine"`;
+
+exports[`numbers match expected output (full range test) 561`] = `"five hundred sixty"`;
+
+exports[`numbers match expected output (full range test) 562`] = `"five hundred sixty-one"`;
+
+exports[`numbers match expected output (full range test) 563`] = `"five hundred sixty-two"`;
+
+exports[`numbers match expected output (full range test) 564`] = `"five hundred sixty-three"`;
+
+exports[`numbers match expected output (full range test) 565`] = `"five hundred sixty-four"`;
+
+exports[`numbers match expected output (full range test) 566`] = `"five hundred sixty-five"`;
+
+exports[`numbers match expected output (full range test) 567`] = `"five hundred sixty-six"`;
+
+exports[`numbers match expected output (full range test) 568`] = `"five hundred sixty-seven"`;
+
+exports[`numbers match expected output (full range test) 569`] = `"five hundred sixty-eight"`;
+
+exports[`numbers match expected output (full range test) 570`] = `"five hundred sixty-nine"`;
+
+exports[`numbers match expected output (full range test) 571`] = `"five hundred seventy"`;
+
+exports[`numbers match expected output (full range test) 572`] = `"five hundred seventy-one"`;
+
+exports[`numbers match expected output (full range test) 573`] = `"five hundred seventy-two"`;
+
+exports[`numbers match expected output (full range test) 574`] = `"five hundred seventy-three"`;
+
+exports[`numbers match expected output (full range test) 575`] = `"five hundred seventy-four"`;
+
+exports[`numbers match expected output (full range test) 576`] = `"five hundred seventy-five"`;
+
+exports[`numbers match expected output (full range test) 577`] = `"five hundred seventy-six"`;
+
+exports[`numbers match expected output (full range test) 578`] = `"five hundred seventy-seven"`;
+
+exports[`numbers match expected output (full range test) 579`] = `"five hundred seventy-eight"`;
+
+exports[`numbers match expected output (full range test) 580`] = `"five hundred seventy-nine"`;
+
+exports[`numbers match expected output (full range test) 581`] = `"five hundred eighty"`;
+
+exports[`numbers match expected output (full range test) 582`] = `"five hundred eighty-one"`;
+
+exports[`numbers match expected output (full range test) 583`] = `"five hundred eighty-two"`;
+
+exports[`numbers match expected output (full range test) 584`] = `"five hundred eighty-three"`;
+
+exports[`numbers match expected output (full range test) 585`] = `"five hundred eighty-four"`;
+
+exports[`numbers match expected output (full range test) 586`] = `"five hundred eighty-five"`;
+
+exports[`numbers match expected output (full range test) 587`] = `"five hundred eighty-six"`;
+
+exports[`numbers match expected output (full range test) 588`] = `"five hundred eighty-seven"`;
+
+exports[`numbers match expected output (full range test) 589`] = `"five hundred eighty-eight"`;
+
+exports[`numbers match expected output (full range test) 590`] = `"five hundred eighty-nine"`;
+
+exports[`numbers match expected output (full range test) 591`] = `"five hundred ninety"`;
+
+exports[`numbers match expected output (full range test) 592`] = `"five hundred ninety-one"`;
+
+exports[`numbers match expected output (full range test) 593`] = `"five hundred ninety-two"`;
+
+exports[`numbers match expected output (full range test) 594`] = `"five hundred ninety-three"`;
+
+exports[`numbers match expected output (full range test) 595`] = `"five hundred ninety-four"`;
+
+exports[`numbers match expected output (full range test) 596`] = `"five hundred ninety-five"`;
+
+exports[`numbers match expected output (full range test) 597`] = `"five hundred ninety-six"`;
+
+exports[`numbers match expected output (full range test) 598`] = `"five hundred ninety-seven"`;
+
+exports[`numbers match expected output (full range test) 599`] = `"five hundred ninety-eight"`;
+
+exports[`numbers match expected output (full range test) 600`] = `"five hundred ninety-nine"`;
+
+exports[`numbers match expected output (full range test) 601`] = `"six hundred"`;
+
+exports[`numbers match expected output (full range test) 602`] = `"six hundred one"`;
+
+exports[`numbers match expected output (full range test) 603`] = `"six hundred two"`;
+
+exports[`numbers match expected output (full range test) 604`] = `"six hundred three"`;
+
+exports[`numbers match expected output (full range test) 605`] = `"six hundred four"`;
+
+exports[`numbers match expected output (full range test) 606`] = `"six hundred five"`;
+
+exports[`numbers match expected output (full range test) 607`] = `"six hundred six"`;
+
+exports[`numbers match expected output (full range test) 608`] = `"six hundred seven"`;
+
+exports[`numbers match expected output (full range test) 609`] = `"six hundred eight"`;
+
+exports[`numbers match expected output (full range test) 610`] = `"six hundred nine"`;
+
+exports[`numbers match expected output (full range test) 611`] = `"six hundred ten"`;
+
+exports[`numbers match expected output (full range test) 612`] = `"six hundred eleven"`;
+
+exports[`numbers match expected output (full range test) 613`] = `"six hundred twelve"`;
+
+exports[`numbers match expected output (full range test) 614`] = `"six hundred thirteen"`;
+
+exports[`numbers match expected output (full range test) 615`] = `"six hundred fourteen"`;
+
+exports[`numbers match expected output (full range test) 616`] = `"six hundred fifteen"`;
+
+exports[`numbers match expected output (full range test) 617`] = `"six hundred sixteen"`;
+
+exports[`numbers match expected output (full range test) 618`] = `"six hundred seventeen"`;
+
+exports[`numbers match expected output (full range test) 619`] = `"six hundred eighteen"`;
+
+exports[`numbers match expected output (full range test) 620`] = `"six hundred nineteen"`;
+
+exports[`numbers match expected output (full range test) 621`] = `"six hundred twenty"`;
+
+exports[`numbers match expected output (full range test) 622`] = `"six hundred twenty-one"`;
+
+exports[`numbers match expected output (full range test) 623`] = `"six hundred twenty-two"`;
+
+exports[`numbers match expected output (full range test) 624`] = `"six hundred twenty-three"`;
+
+exports[`numbers match expected output (full range test) 625`] = `"six hundred twenty-four"`;
+
+exports[`numbers match expected output (full range test) 626`] = `"six hundred twenty-five"`;
+
+exports[`numbers match expected output (full range test) 627`] = `"six hundred twenty-six"`;
+
+exports[`numbers match expected output (full range test) 628`] = `"six hundred twenty-seven"`;
+
+exports[`numbers match expected output (full range test) 629`] = `"six hundred twenty-eight"`;
+
+exports[`numbers match expected output (full range test) 630`] = `"six hundred twenty-nine"`;
+
+exports[`numbers match expected output (full range test) 631`] = `"six hundred thirty"`;
+
+exports[`numbers match expected output (full range test) 632`] = `"six hundred thirty-one"`;
+
+exports[`numbers match expected output (full range test) 633`] = `"six hundred thirty-two"`;
+
+exports[`numbers match expected output (full range test) 634`] = `"six hundred thirty-three"`;
+
+exports[`numbers match expected output (full range test) 635`] = `"six hundred thirty-four"`;
+
+exports[`numbers match expected output (full range test) 636`] = `"six hundred thirty-five"`;
+
+exports[`numbers match expected output (full range test) 637`] = `"six hundred thirty-six"`;
+
+exports[`numbers match expected output (full range test) 638`] = `"six hundred thirty-seven"`;
+
+exports[`numbers match expected output (full range test) 639`] = `"six hundred thirty-eight"`;
+
+exports[`numbers match expected output (full range test) 640`] = `"six hundred thirty-nine"`;
+
+exports[`numbers match expected output (full range test) 641`] = `"six hundred forty"`;
+
+exports[`numbers match expected output (full range test) 642`] = `"six hundred forty-one"`;
+
+exports[`numbers match expected output (full range test) 643`] = `"six hundred forty-two"`;
+
+exports[`numbers match expected output (full range test) 644`] = `"six hundred forty-three"`;
+
+exports[`numbers match expected output (full range test) 645`] = `"six hundred forty-four"`;
+
+exports[`numbers match expected output (full range test) 646`] = `"six hundred forty-five"`;
+
+exports[`numbers match expected output (full range test) 647`] = `"six hundred forty-six"`;
+
+exports[`numbers match expected output (full range test) 648`] = `"six hundred forty-seven"`;
+
+exports[`numbers match expected output (full range test) 649`] = `"six hundred forty-eight"`;
+
+exports[`numbers match expected output (full range test) 650`] = `"six hundred forty-nine"`;
+
+exports[`numbers match expected output (full range test) 651`] = `"six hundred fifty"`;
+
+exports[`numbers match expected output (full range test) 652`] = `"six hundred fifty-one"`;
+
+exports[`numbers match expected output (full range test) 653`] = `"six hundred fifty-two"`;
+
+exports[`numbers match expected output (full range test) 654`] = `"six hundred fifty-three"`;
+
+exports[`numbers match expected output (full range test) 655`] = `"six hundred fifty-four"`;
+
+exports[`numbers match expected output (full range test) 656`] = `"six hundred fifty-five"`;
+
+exports[`numbers match expected output (full range test) 657`] = `"six hundred fifty-six"`;
+
+exports[`numbers match expected output (full range test) 658`] = `"six hundred fifty-seven"`;
+
+exports[`numbers match expected output (full range test) 659`] = `"six hundred fifty-eight"`;
+
+exports[`numbers match expected output (full range test) 660`] = `"six hundred fifty-nine"`;
+
+exports[`numbers match expected output (full range test) 661`] = `"six hundred sixty"`;
+
+exports[`numbers match expected output (full range test) 662`] = `"six hundred sixty-one"`;
+
+exports[`numbers match expected output (full range test) 663`] = `"six hundred sixty-two"`;
+
+exports[`numbers match expected output (full range test) 664`] = `"six hundred sixty-three"`;
+
+exports[`numbers match expected output (full range test) 665`] = `"six hundred sixty-four"`;
+
+exports[`numbers match expected output (full range test) 666`] = `"six hundred sixty-five"`;
+
+exports[`numbers match expected output (full range test) 667`] = `"six hundred sixty-six"`;
+
+exports[`numbers match expected output (full range test) 668`] = `"six hundred sixty-seven"`;
+
+exports[`numbers match expected output (full range test) 669`] = `"six hundred sixty-eight"`;
+
+exports[`numbers match expected output (full range test) 670`] = `"six hundred sixty-nine"`;
+
+exports[`numbers match expected output (full range test) 671`] = `"six hundred seventy"`;
+
+exports[`numbers match expected output (full range test) 672`] = `"six hundred seventy-one"`;
+
+exports[`numbers match expected output (full range test) 673`] = `"six hundred seventy-two"`;
+
+exports[`numbers match expected output (full range test) 674`] = `"six hundred seventy-three"`;
+
+exports[`numbers match expected output (full range test) 675`] = `"six hundred seventy-four"`;
+
+exports[`numbers match expected output (full range test) 676`] = `"six hundred seventy-five"`;
+
+exports[`numbers match expected output (full range test) 677`] = `"six hundred seventy-six"`;
+
+exports[`numbers match expected output (full range test) 678`] = `"six hundred seventy-seven"`;
+
+exports[`numbers match expected output (full range test) 679`] = `"six hundred seventy-eight"`;
+
+exports[`numbers match expected output (full range test) 680`] = `"six hundred seventy-nine"`;
+
+exports[`numbers match expected output (full range test) 681`] = `"six hundred eighty"`;
+
+exports[`numbers match expected output (full range test) 682`] = `"six hundred eighty-one"`;
+
+exports[`numbers match expected output (full range test) 683`] = `"six hundred eighty-two"`;
+
+exports[`numbers match expected output (full range test) 684`] = `"six hundred eighty-three"`;
+
+exports[`numbers match expected output (full range test) 685`] = `"six hundred eighty-four"`;
+
+exports[`numbers match expected output (full range test) 686`] = `"six hundred eighty-five"`;
+
+exports[`numbers match expected output (full range test) 687`] = `"six hundred eighty-six"`;
+
+exports[`numbers match expected output (full range test) 688`] = `"six hundred eighty-seven"`;
+
+exports[`numbers match expected output (full range test) 689`] = `"six hundred eighty-eight"`;
+
+exports[`numbers match expected output (full range test) 690`] = `"six hundred eighty-nine"`;
+
+exports[`numbers match expected output (full range test) 691`] = `"six hundred ninety"`;
+
+exports[`numbers match expected output (full range test) 692`] = `"six hundred ninety-one"`;
+
+exports[`numbers match expected output (full range test) 693`] = `"six hundred ninety-two"`;
+
+exports[`numbers match expected output (full range test) 694`] = `"six hundred ninety-three"`;
+
+exports[`numbers match expected output (full range test) 695`] = `"six hundred ninety-four"`;
+
+exports[`numbers match expected output (full range test) 696`] = `"six hundred ninety-five"`;
+
+exports[`numbers match expected output (full range test) 697`] = `"six hundred ninety-six"`;
+
+exports[`numbers match expected output (full range test) 698`] = `"six hundred ninety-seven"`;
+
+exports[`numbers match expected output (full range test) 699`] = `"six hundred ninety-eight"`;
+
+exports[`numbers match expected output (full range test) 700`] = `"six hundred ninety-nine"`;
+
+exports[`numbers match expected output (full range test) 701`] = `"seven hundred"`;
+
+exports[`numbers match expected output (full range test) 702`] = `"seven hundred one"`;
+
+exports[`numbers match expected output (full range test) 703`] = `"seven hundred two"`;
+
+exports[`numbers match expected output (full range test) 704`] = `"seven hundred three"`;
+
+exports[`numbers match expected output (full range test) 705`] = `"seven hundred four"`;
+
+exports[`numbers match expected output (full range test) 706`] = `"seven hundred five"`;
+
+exports[`numbers match expected output (full range test) 707`] = `"seven hundred six"`;
+
+exports[`numbers match expected output (full range test) 708`] = `"seven hundred seven"`;
+
+exports[`numbers match expected output (full range test) 709`] = `"seven hundred eight"`;
+
+exports[`numbers match expected output (full range test) 710`] = `"seven hundred nine"`;
+
+exports[`numbers match expected output (full range test) 711`] = `"seven hundred ten"`;
+
+exports[`numbers match expected output (full range test) 712`] = `"seven hundred eleven"`;
+
+exports[`numbers match expected output (full range test) 713`] = `"seven hundred twelve"`;
+
+exports[`numbers match expected output (full range test) 714`] = `"seven hundred thirteen"`;
+
+exports[`numbers match expected output (full range test) 715`] = `"seven hundred fourteen"`;
+
+exports[`numbers match expected output (full range test) 716`] = `"seven hundred fifteen"`;
+
+exports[`numbers match expected output (full range test) 717`] = `"seven hundred sixteen"`;
+
+exports[`numbers match expected output (full range test) 718`] = `"seven hundred seventeen"`;
+
+exports[`numbers match expected output (full range test) 719`] = `"seven hundred eighteen"`;
+
+exports[`numbers match expected output (full range test) 720`] = `"seven hundred nineteen"`;
+
+exports[`numbers match expected output (full range test) 721`] = `"seven hundred twenty"`;
+
+exports[`numbers match expected output (full range test) 722`] = `"seven hundred twenty-one"`;
+
+exports[`numbers match expected output (full range test) 723`] = `"seven hundred twenty-two"`;
+
+exports[`numbers match expected output (full range test) 724`] = `"seven hundred twenty-three"`;
+
+exports[`numbers match expected output (full range test) 725`] = `"seven hundred twenty-four"`;
+
+exports[`numbers match expected output (full range test) 726`] = `"seven hundred twenty-five"`;
+
+exports[`numbers match expected output (full range test) 727`] = `"seven hundred twenty-six"`;
+
+exports[`numbers match expected output (full range test) 728`] = `"seven hundred twenty-seven"`;
+
+exports[`numbers match expected output (full range test) 729`] = `"seven hundred twenty-eight"`;
+
+exports[`numbers match expected output (full range test) 730`] = `"seven hundred twenty-nine"`;
+
+exports[`numbers match expected output (full range test) 731`] = `"seven hundred thirty"`;
+
+exports[`numbers match expected output (full range test) 732`] = `"seven hundred thirty-one"`;
+
+exports[`numbers match expected output (full range test) 733`] = `"seven hundred thirty-two"`;
+
+exports[`numbers match expected output (full range test) 734`] = `"seven hundred thirty-three"`;
+
+exports[`numbers match expected output (full range test) 735`] = `"seven hundred thirty-four"`;
+
+exports[`numbers match expected output (full range test) 736`] = `"seven hundred thirty-five"`;
+
+exports[`numbers match expected output (full range test) 737`] = `"seven hundred thirty-six"`;
+
+exports[`numbers match expected output (full range test) 738`] = `"seven hundred thirty-seven"`;
+
+exports[`numbers match expected output (full range test) 739`] = `"seven hundred thirty-eight"`;
+
+exports[`numbers match expected output (full range test) 740`] = `"seven hundred thirty-nine"`;
+
+exports[`numbers match expected output (full range test) 741`] = `"seven hundred forty"`;
+
+exports[`numbers match expected output (full range test) 742`] = `"seven hundred forty-one"`;
+
+exports[`numbers match expected output (full range test) 743`] = `"seven hundred forty-two"`;
+
+exports[`numbers match expected output (full range test) 744`] = `"seven hundred forty-three"`;
+
+exports[`numbers match expected output (full range test) 745`] = `"seven hundred forty-four"`;
+
+exports[`numbers match expected output (full range test) 746`] = `"seven hundred forty-five"`;
+
+exports[`numbers match expected output (full range test) 747`] = `"seven hundred forty-six"`;
+
+exports[`numbers match expected output (full range test) 748`] = `"seven hundred forty-seven"`;
+
+exports[`numbers match expected output (full range test) 749`] = `"seven hundred forty-eight"`;
+
+exports[`numbers match expected output (full range test) 750`] = `"seven hundred forty-nine"`;
+
+exports[`numbers match expected output (full range test) 751`] = `"seven hundred fifty"`;
+
+exports[`numbers match expected output (full range test) 752`] = `"seven hundred fifty-one"`;
+
+exports[`numbers match expected output (full range test) 753`] = `"seven hundred fifty-two"`;
+
+exports[`numbers match expected output (full range test) 754`] = `"seven hundred fifty-three"`;
+
+exports[`numbers match expected output (full range test) 755`] = `"seven hundred fifty-four"`;
+
+exports[`numbers match expected output (full range test) 756`] = `"seven hundred fifty-five"`;
+
+exports[`numbers match expected output (full range test) 757`] = `"seven hundred fifty-six"`;
+
+exports[`numbers match expected output (full range test) 758`] = `"seven hundred fifty-seven"`;
+
+exports[`numbers match expected output (full range test) 759`] = `"seven hundred fifty-eight"`;
+
+exports[`numbers match expected output (full range test) 760`] = `"seven hundred fifty-nine"`;
+
+exports[`numbers match expected output (full range test) 761`] = `"seven hundred sixty"`;
+
+exports[`numbers match expected output (full range test) 762`] = `"seven hundred sixty-one"`;
+
+exports[`numbers match expected output (full range test) 763`] = `"seven hundred sixty-two"`;
+
+exports[`numbers match expected output (full range test) 764`] = `"seven hundred sixty-three"`;
+
+exports[`numbers match expected output (full range test) 765`] = `"seven hundred sixty-four"`;
+
+exports[`numbers match expected output (full range test) 766`] = `"seven hundred sixty-five"`;
+
+exports[`numbers match expected output (full range test) 767`] = `"seven hundred sixty-six"`;
+
+exports[`numbers match expected output (full range test) 768`] = `"seven hundred sixty-seven"`;
+
+exports[`numbers match expected output (full range test) 769`] = `"seven hundred sixty-eight"`;
+
+exports[`numbers match expected output (full range test) 770`] = `"seven hundred sixty-nine"`;
+
+exports[`numbers match expected output (full range test) 771`] = `"seven hundred seventy"`;
+
+exports[`numbers match expected output (full range test) 772`] = `"seven hundred seventy-one"`;
+
+exports[`numbers match expected output (full range test) 773`] = `"seven hundred seventy-two"`;
+
+exports[`numbers match expected output (full range test) 774`] = `"seven hundred seventy-three"`;
+
+exports[`numbers match expected output (full range test) 775`] = `"seven hundred seventy-four"`;
+
+exports[`numbers match expected output (full range test) 776`] = `"seven hundred seventy-five"`;
+
+exports[`numbers match expected output (full range test) 777`] = `"seven hundred seventy-six"`;
+
+exports[`numbers match expected output (full range test) 778`] = `"seven hundred seventy-seven"`;
+
+exports[`numbers match expected output (full range test) 779`] = `"seven hundred seventy-eight"`;
+
+exports[`numbers match expected output (full range test) 780`] = `"seven hundred seventy-nine"`;
+
+exports[`numbers match expected output (full range test) 781`] = `"seven hundred eighty"`;
+
+exports[`numbers match expected output (full range test) 782`] = `"seven hundred eighty-one"`;
+
+exports[`numbers match expected output (full range test) 783`] = `"seven hundred eighty-two"`;
+
+exports[`numbers match expected output (full range test) 784`] = `"seven hundred eighty-three"`;
+
+exports[`numbers match expected output (full range test) 785`] = `"seven hundred eighty-four"`;
+
+exports[`numbers match expected output (full range test) 786`] = `"seven hundred eighty-five"`;
+
+exports[`numbers match expected output (full range test) 787`] = `"seven hundred eighty-six"`;
+
+exports[`numbers match expected output (full range test) 788`] = `"seven hundred eighty-seven"`;
+
+exports[`numbers match expected output (full range test) 789`] = `"seven hundred eighty-eight"`;
+
+exports[`numbers match expected output (full range test) 790`] = `"seven hundred eighty-nine"`;
+
+exports[`numbers match expected output (full range test) 791`] = `"seven hundred ninety"`;
+
+exports[`numbers match expected output (full range test) 792`] = `"seven hundred ninety-one"`;
+
+exports[`numbers match expected output (full range test) 793`] = `"seven hundred ninety-two"`;
+
+exports[`numbers match expected output (full range test) 794`] = `"seven hundred ninety-three"`;
+
+exports[`numbers match expected output (full range test) 795`] = `"seven hundred ninety-four"`;
+
+exports[`numbers match expected output (full range test) 796`] = `"seven hundred ninety-five"`;
+
+exports[`numbers match expected output (full range test) 797`] = `"seven hundred ninety-six"`;
+
+exports[`numbers match expected output (full range test) 798`] = `"seven hundred ninety-seven"`;
+
+exports[`numbers match expected output (full range test) 799`] = `"seven hundred ninety-eight"`;
+
+exports[`numbers match expected output (full range test) 800`] = `"seven hundred ninety-nine"`;
+
+exports[`numbers match expected output (full range test) 801`] = `"eight hundred"`;
+
+exports[`numbers match expected output (full range test) 802`] = `"eight hundred one"`;
+
+exports[`numbers match expected output (full range test) 803`] = `"eight hundred two"`;
+
+exports[`numbers match expected output (full range test) 804`] = `"eight hundred three"`;
+
+exports[`numbers match expected output (full range test) 805`] = `"eight hundred four"`;
+
+exports[`numbers match expected output (full range test) 806`] = `"eight hundred five"`;
+
+exports[`numbers match expected output (full range test) 807`] = `"eight hundred six"`;
+
+exports[`numbers match expected output (full range test) 808`] = `"eight hundred seven"`;
+
+exports[`numbers match expected output (full range test) 809`] = `"eight hundred eight"`;
+
+exports[`numbers match expected output (full range test) 810`] = `"eight hundred nine"`;
+
+exports[`numbers match expected output (full range test) 811`] = `"eight hundred ten"`;
+
+exports[`numbers match expected output (full range test) 812`] = `"eight hundred eleven"`;
+
+exports[`numbers match expected output (full range test) 813`] = `"eight hundred twelve"`;
+
+exports[`numbers match expected output (full range test) 814`] = `"eight hundred thirteen"`;
+
+exports[`numbers match expected output (full range test) 815`] = `"eight hundred fourteen"`;
+
+exports[`numbers match expected output (full range test) 816`] = `"eight hundred fifteen"`;
+
+exports[`numbers match expected output (full range test) 817`] = `"eight hundred sixteen"`;
+
+exports[`numbers match expected output (full range test) 818`] = `"eight hundred seventeen"`;
+
+exports[`numbers match expected output (full range test) 819`] = `"eight hundred eighteen"`;
+
+exports[`numbers match expected output (full range test) 820`] = `"eight hundred nineteen"`;
+
+exports[`numbers match expected output (full range test) 821`] = `"eight hundred twenty"`;
+
+exports[`numbers match expected output (full range test) 822`] = `"eight hundred twenty-one"`;
+
+exports[`numbers match expected output (full range test) 823`] = `"eight hundred twenty-two"`;
+
+exports[`numbers match expected output (full range test) 824`] = `"eight hundred twenty-three"`;
+
+exports[`numbers match expected output (full range test) 825`] = `"eight hundred twenty-four"`;
+
+exports[`numbers match expected output (full range test) 826`] = `"eight hundred twenty-five"`;
+
+exports[`numbers match expected output (full range test) 827`] = `"eight hundred twenty-six"`;
+
+exports[`numbers match expected output (full range test) 828`] = `"eight hundred twenty-seven"`;
+
+exports[`numbers match expected output (full range test) 829`] = `"eight hundred twenty-eight"`;
+
+exports[`numbers match expected output (full range test) 830`] = `"eight hundred twenty-nine"`;
+
+exports[`numbers match expected output (full range test) 831`] = `"eight hundred thirty"`;
+
+exports[`numbers match expected output (full range test) 832`] = `"eight hundred thirty-one"`;
+
+exports[`numbers match expected output (full range test) 833`] = `"eight hundred thirty-two"`;
+
+exports[`numbers match expected output (full range test) 834`] = `"eight hundred thirty-three"`;
+
+exports[`numbers match expected output (full range test) 835`] = `"eight hundred thirty-four"`;
+
+exports[`numbers match expected output (full range test) 836`] = `"eight hundred thirty-five"`;
+
+exports[`numbers match expected output (full range test) 837`] = `"eight hundred thirty-six"`;
+
+exports[`numbers match expected output (full range test) 838`] = `"eight hundred thirty-seven"`;
+
+exports[`numbers match expected output (full range test) 839`] = `"eight hundred thirty-eight"`;
+
+exports[`numbers match expected output (full range test) 840`] = `"eight hundred thirty-nine"`;
+
+exports[`numbers match expected output (full range test) 841`] = `"eight hundred forty"`;
+
+exports[`numbers match expected output (full range test) 842`] = `"eight hundred forty-one"`;
+
+exports[`numbers match expected output (full range test) 843`] = `"eight hundred forty-two"`;
+
+exports[`numbers match expected output (full range test) 844`] = `"eight hundred forty-three"`;
+
+exports[`numbers match expected output (full range test) 845`] = `"eight hundred forty-four"`;
+
+exports[`numbers match expected output (full range test) 846`] = `"eight hundred forty-five"`;
+
+exports[`numbers match expected output (full range test) 847`] = `"eight hundred forty-six"`;
+
+exports[`numbers match expected output (full range test) 848`] = `"eight hundred forty-seven"`;
+
+exports[`numbers match expected output (full range test) 849`] = `"eight hundred forty-eight"`;
+
+exports[`numbers match expected output (full range test) 850`] = `"eight hundred forty-nine"`;
+
+exports[`numbers match expected output (full range test) 851`] = `"eight hundred fifty"`;
+
+exports[`numbers match expected output (full range test) 852`] = `"eight hundred fifty-one"`;
+
+exports[`numbers match expected output (full range test) 853`] = `"eight hundred fifty-two"`;
+
+exports[`numbers match expected output (full range test) 854`] = `"eight hundred fifty-three"`;
+
+exports[`numbers match expected output (full range test) 855`] = `"eight hundred fifty-four"`;
+
+exports[`numbers match expected output (full range test) 856`] = `"eight hundred fifty-five"`;
+
+exports[`numbers match expected output (full range test) 857`] = `"eight hundred fifty-six"`;
+
+exports[`numbers match expected output (full range test) 858`] = `"eight hundred fifty-seven"`;
+
+exports[`numbers match expected output (full range test) 859`] = `"eight hundred fifty-eight"`;
+
+exports[`numbers match expected output (full range test) 860`] = `"eight hundred fifty-nine"`;
+
+exports[`numbers match expected output (full range test) 861`] = `"eight hundred sixty"`;
+
+exports[`numbers match expected output (full range test) 862`] = `"eight hundred sixty-one"`;
+
+exports[`numbers match expected output (full range test) 863`] = `"eight hundred sixty-two"`;
+
+exports[`numbers match expected output (full range test) 864`] = `"eight hundred sixty-three"`;
+
+exports[`numbers match expected output (full range test) 865`] = `"eight hundred sixty-four"`;
+
+exports[`numbers match expected output (full range test) 866`] = `"eight hundred sixty-five"`;
+
+exports[`numbers match expected output (full range test) 867`] = `"eight hundred sixty-six"`;
+
+exports[`numbers match expected output (full range test) 868`] = `"eight hundred sixty-seven"`;
+
+exports[`numbers match expected output (full range test) 869`] = `"eight hundred sixty-eight"`;
+
+exports[`numbers match expected output (full range test) 870`] = `"eight hundred sixty-nine"`;
+
+exports[`numbers match expected output (full range test) 871`] = `"eight hundred seventy"`;
+
+exports[`numbers match expected output (full range test) 872`] = `"eight hundred seventy-one"`;
+
+exports[`numbers match expected output (full range test) 873`] = `"eight hundred seventy-two"`;
+
+exports[`numbers match expected output (full range test) 874`] = `"eight hundred seventy-three"`;
+
+exports[`numbers match expected output (full range test) 875`] = `"eight hundred seventy-four"`;
+
+exports[`numbers match expected output (full range test) 876`] = `"eight hundred seventy-five"`;
+
+exports[`numbers match expected output (full range test) 877`] = `"eight hundred seventy-six"`;
+
+exports[`numbers match expected output (full range test) 878`] = `"eight hundred seventy-seven"`;
+
+exports[`numbers match expected output (full range test) 879`] = `"eight hundred seventy-eight"`;
+
+exports[`numbers match expected output (full range test) 880`] = `"eight hundred seventy-nine"`;
+
+exports[`numbers match expected output (full range test) 881`] = `"eight hundred eighty"`;
+
+exports[`numbers match expected output (full range test) 882`] = `"eight hundred eighty-one"`;
+
+exports[`numbers match expected output (full range test) 883`] = `"eight hundred eighty-two"`;
+
+exports[`numbers match expected output (full range test) 884`] = `"eight hundred eighty-three"`;
+
+exports[`numbers match expected output (full range test) 885`] = `"eight hundred eighty-four"`;
+
+exports[`numbers match expected output (full range test) 886`] = `"eight hundred eighty-five"`;
+
+exports[`numbers match expected output (full range test) 887`] = `"eight hundred eighty-six"`;
+
+exports[`numbers match expected output (full range test) 888`] = `"eight hundred eighty-seven"`;
+
+exports[`numbers match expected output (full range test) 889`] = `"eight hundred eighty-eight"`;
+
+exports[`numbers match expected output (full range test) 890`] = `"eight hundred eighty-nine"`;
+
+exports[`numbers match expected output (full range test) 891`] = `"eight hundred ninety"`;
+
+exports[`numbers match expected output (full range test) 892`] = `"eight hundred ninety-one"`;
+
+exports[`numbers match expected output (full range test) 893`] = `"eight hundred ninety-two"`;
+
+exports[`numbers match expected output (full range test) 894`] = `"eight hundred ninety-three"`;
+
+exports[`numbers match expected output (full range test) 895`] = `"eight hundred ninety-four"`;
+
+exports[`numbers match expected output (full range test) 896`] = `"eight hundred ninety-five"`;
+
+exports[`numbers match expected output (full range test) 897`] = `"eight hundred ninety-six"`;
+
+exports[`numbers match expected output (full range test) 898`] = `"eight hundred ninety-seven"`;
+
+exports[`numbers match expected output (full range test) 899`] = `"eight hundred ninety-eight"`;
+
+exports[`numbers match expected output (full range test) 900`] = `"eight hundred ninety-nine"`;
+
+exports[`numbers match expected output (full range test) 901`] = `"nine hundred"`;
+
+exports[`numbers match expected output (full range test) 902`] = `"nine hundred one"`;
+
+exports[`numbers match expected output (full range test) 903`] = `"nine hundred two"`;
+
+exports[`numbers match expected output (full range test) 904`] = `"nine hundred three"`;
+
+exports[`numbers match expected output (full range test) 905`] = `"nine hundred four"`;
+
+exports[`numbers match expected output (full range test) 906`] = `"nine hundred five"`;
+
+exports[`numbers match expected output (full range test) 907`] = `"nine hundred six"`;
+
+exports[`numbers match expected output (full range test) 908`] = `"nine hundred seven"`;
+
+exports[`numbers match expected output (full range test) 909`] = `"nine hundred eight"`;
+
+exports[`numbers match expected output (full range test) 910`] = `"nine hundred nine"`;
+
+exports[`numbers match expected output (full range test) 911`] = `"nine hundred ten"`;
+
+exports[`numbers match expected output (full range test) 912`] = `"nine hundred eleven"`;
+
+exports[`numbers match expected output (full range test) 913`] = `"nine hundred twelve"`;
+
+exports[`numbers match expected output (full range test) 914`] = `"nine hundred thirteen"`;
+
+exports[`numbers match expected output (full range test) 915`] = `"nine hundred fourteen"`;
+
+exports[`numbers match expected output (full range test) 916`] = `"nine hundred fifteen"`;
+
+exports[`numbers match expected output (full range test) 917`] = `"nine hundred sixteen"`;
+
+exports[`numbers match expected output (full range test) 918`] = `"nine hundred seventeen"`;
+
+exports[`numbers match expected output (full range test) 919`] = `"nine hundred eighteen"`;
+
+exports[`numbers match expected output (full range test) 920`] = `"nine hundred nineteen"`;
+
+exports[`numbers match expected output (full range test) 921`] = `"nine hundred twenty"`;
+
+exports[`numbers match expected output (full range test) 922`] = `"nine hundred twenty-one"`;
+
+exports[`numbers match expected output (full range test) 923`] = `"nine hundred twenty-two"`;
+
+exports[`numbers match expected output (full range test) 924`] = `"nine hundred twenty-three"`;
+
+exports[`numbers match expected output (full range test) 925`] = `"nine hundred twenty-four"`;
+
+exports[`numbers match expected output (full range test) 926`] = `"nine hundred twenty-five"`;
+
+exports[`numbers match expected output (full range test) 927`] = `"nine hundred twenty-six"`;
+
+exports[`numbers match expected output (full range test) 928`] = `"nine hundred twenty-seven"`;
+
+exports[`numbers match expected output (full range test) 929`] = `"nine hundred twenty-eight"`;
+
+exports[`numbers match expected output (full range test) 930`] = `"nine hundred twenty-nine"`;
+
+exports[`numbers match expected output (full range test) 931`] = `"nine hundred thirty"`;
+
+exports[`numbers match expected output (full range test) 932`] = `"nine hundred thirty-one"`;
+
+exports[`numbers match expected output (full range test) 933`] = `"nine hundred thirty-two"`;
+
+exports[`numbers match expected output (full range test) 934`] = `"nine hundred thirty-three"`;
+
+exports[`numbers match expected output (full range test) 935`] = `"nine hundred thirty-four"`;
+
+exports[`numbers match expected output (full range test) 936`] = `"nine hundred thirty-five"`;
+
+exports[`numbers match expected output (full range test) 937`] = `"nine hundred thirty-six"`;
+
+exports[`numbers match expected output (full range test) 938`] = `"nine hundred thirty-seven"`;
+
+exports[`numbers match expected output (full range test) 939`] = `"nine hundred thirty-eight"`;
+
+exports[`numbers match expected output (full range test) 940`] = `"nine hundred thirty-nine"`;
+
+exports[`numbers match expected output (full range test) 941`] = `"nine hundred forty"`;
+
+exports[`numbers match expected output (full range test) 942`] = `"nine hundred forty-one"`;
+
+exports[`numbers match expected output (full range test) 943`] = `"nine hundred forty-two"`;
+
+exports[`numbers match expected output (full range test) 944`] = `"nine hundred forty-three"`;
+
+exports[`numbers match expected output (full range test) 945`] = `"nine hundred forty-four"`;
+
+exports[`numbers match expected output (full range test) 946`] = `"nine hundred forty-five"`;
+
+exports[`numbers match expected output (full range test) 947`] = `"nine hundred forty-six"`;
+
+exports[`numbers match expected output (full range test) 948`] = `"nine hundred forty-seven"`;
+
+exports[`numbers match expected output (full range test) 949`] = `"nine hundred forty-eight"`;
+
+exports[`numbers match expected output (full range test) 950`] = `"nine hundred forty-nine"`;
+
+exports[`numbers match expected output (full range test) 951`] = `"nine hundred fifty"`;
+
+exports[`numbers match expected output (full range test) 952`] = `"nine hundred fifty-one"`;
+
+exports[`numbers match expected output (full range test) 953`] = `"nine hundred fifty-two"`;
+
+exports[`numbers match expected output (full range test) 954`] = `"nine hundred fifty-three"`;
+
+exports[`numbers match expected output (full range test) 955`] = `"nine hundred fifty-four"`;
+
+exports[`numbers match expected output (full range test) 956`] = `"nine hundred fifty-five"`;
+
+exports[`numbers match expected output (full range test) 957`] = `"nine hundred fifty-six"`;
+
+exports[`numbers match expected output (full range test) 958`] = `"nine hundred fifty-seven"`;
+
+exports[`numbers match expected output (full range test) 959`] = `"nine hundred fifty-eight"`;
+
+exports[`numbers match expected output (full range test) 960`] = `"nine hundred fifty-nine"`;
+
+exports[`numbers match expected output (full range test) 961`] = `"nine hundred sixty"`;
+
+exports[`numbers match expected output (full range test) 962`] = `"nine hundred sixty-one"`;
+
+exports[`numbers match expected output (full range test) 963`] = `"nine hundred sixty-two"`;
+
+exports[`numbers match expected output (full range test) 964`] = `"nine hundred sixty-three"`;
+
+exports[`numbers match expected output (full range test) 965`] = `"nine hundred sixty-four"`;
+
+exports[`numbers match expected output (full range test) 966`] = `"nine hundred sixty-five"`;
+
+exports[`numbers match expected output (full range test) 967`] = `"nine hundred sixty-six"`;
+
+exports[`numbers match expected output (full range test) 968`] = `"nine hundred sixty-seven"`;
+
+exports[`numbers match expected output (full range test) 969`] = `"nine hundred sixty-eight"`;
+
+exports[`numbers match expected output (full range test) 970`] = `"nine hundred sixty-nine"`;
+
+exports[`numbers match expected output (full range test) 971`] = `"nine hundred seventy"`;
+
+exports[`numbers match expected output (full range test) 972`] = `"nine hundred seventy-one"`;
+
+exports[`numbers match expected output (full range test) 973`] = `"nine hundred seventy-two"`;
+
+exports[`numbers match expected output (full range test) 974`] = `"nine hundred seventy-three"`;
+
+exports[`numbers match expected output (full range test) 975`] = `"nine hundred seventy-four"`;
+
+exports[`numbers match expected output (full range test) 976`] = `"nine hundred seventy-five"`;
+
+exports[`numbers match expected output (full range test) 977`] = `"nine hundred seventy-six"`;
+
+exports[`numbers match expected output (full range test) 978`] = `"nine hundred seventy-seven"`;
+
+exports[`numbers match expected output (full range test) 979`] = `"nine hundred seventy-eight"`;
+
+exports[`numbers match expected output (full range test) 980`] = `"nine hundred seventy-nine"`;
+
+exports[`numbers match expected output (full range test) 981`] = `"nine hundred eighty"`;
+
+exports[`numbers match expected output (full range test) 982`] = `"nine hundred eighty-one"`;
+
+exports[`numbers match expected output (full range test) 983`] = `"nine hundred eighty-two"`;
+
+exports[`numbers match expected output (full range test) 984`] = `"nine hundred eighty-three"`;
+
+exports[`numbers match expected output (full range test) 985`] = `"nine hundred eighty-four"`;
+
+exports[`numbers match expected output (full range test) 986`] = `"nine hundred eighty-five"`;
+
+exports[`numbers match expected output (full range test) 987`] = `"nine hundred eighty-six"`;
+
+exports[`numbers match expected output (full range test) 988`] = `"nine hundred eighty-seven"`;
+
+exports[`numbers match expected output (full range test) 989`] = `"nine hundred eighty-eight"`;
+
+exports[`numbers match expected output (full range test) 990`] = `"nine hundred eighty-nine"`;
+
+exports[`numbers match expected output (full range test) 991`] = `"nine hundred ninety"`;
+
+exports[`numbers match expected output (full range test) 992`] = `"nine hundred ninety-one"`;
+
+exports[`numbers match expected output (full range test) 993`] = `"nine hundred ninety-two"`;
+
+exports[`numbers match expected output (full range test) 994`] = `"nine hundred ninety-three"`;
+
+exports[`numbers match expected output (full range test) 995`] = `"nine hundred ninety-four"`;
+
+exports[`numbers match expected output (full range test) 996`] = `"nine hundred ninety-five"`;
+
+exports[`numbers match expected output (full range test) 997`] = `"nine hundred ninety-six"`;
+
+exports[`numbers match expected output (full range test) 998`] = `"nine hundred ninety-seven"`;
+
+exports[`numbers match expected output (full range test) 999`] = `"nine hundred ninety-eight"`;
+
+exports[`numbers match expected output (full range test) 1000`] = `"nine hundred ninety-nine"`;
+
+exports[`throws TypeError when a non-string value is passed 1`] = `"_digitsToEnglishThreeDigit only accepts strings"`;
+
+exports[`throws a RangeError when a value with more than two digits is used 1`] = `"_digitsToEnglishThreeDigit only accepts numbers with at 3 or fewer digits"`;
+
+exports[`throws a RangeError when a value with more than two digits is used 2`] = `"_digitsToEnglishThreeDigit only accepts numbers with at 3 or fewer digits"`;

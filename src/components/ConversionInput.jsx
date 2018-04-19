@@ -10,10 +10,7 @@ export default class ConversionInput extends Component {
     render() {
         const _self = this
 
-        const inputChanged = (event) => {
-            console.log(event)
-            _self.setState({ value: event.target.value })
-        }
+        const inputChanged = (event) => _self.setState({ value: event.target.value })
 
         return (
           <div className="wrapper-input-num">

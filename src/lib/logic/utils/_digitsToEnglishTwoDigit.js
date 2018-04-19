@@ -8,12 +8,12 @@
 
 export default (strNum) => {
     if (typeof strNum !== 'string')
-        throw new Error('only accepts strings')
-
-    if (strNum.length > 2)
-        throw new Error('number must be at most two characters')
+        throw new TypeError('_digitsToEnglishTwoDigit only accepts strings')
 
     strNum = strNum.replace(/^0+/, '')
+
+    if (strNum.length > 2)
+        throw new RangeError('_digitsToEnglishTwoDigit accepts at most two characters')
 
     if (strNum.length === 0)
         return ''

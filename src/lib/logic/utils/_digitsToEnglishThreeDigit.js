@@ -10,12 +10,12 @@ import _digitsToEnglishTwoDigit from './_digitsToEnglishTwoDigit'
 
 export default (strNum) => {
     if (typeof strNum !== 'string')
-        throw new Error('only accepts strings')
-
-    if (strNum.length > 3)
-        throw new Error('only accepts numbers with at 3 or fewer digits')
+        throw new Error('_digitsToEnglishThreeDigit only accepts strings')
 
     strNum = strNum.replace(/^0+/, '')
+
+    if (strNum.length > 3)
+        throw new Error('_digitsToEnglishThreeDigit only accepts numbers with at 3 or fewer digits')
 
     if (strNum.length <= 2) {
         return _digitsToEnglishTwoDigit(strNum)

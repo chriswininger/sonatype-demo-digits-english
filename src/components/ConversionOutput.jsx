@@ -16,7 +16,12 @@ export  default (props) => {
 
     return (
       <div className="wrapper-output-eng-text">
-          <label className="output-eng-text">{ getOutput(props.value) }</label>
+          <div>
+            <label className="output-eng-text">{ getOutput(props.value) }</label>
+          </div>
+          <div>
+              <label className="error"></label>
+          </div>
       </div>
     )
 }
