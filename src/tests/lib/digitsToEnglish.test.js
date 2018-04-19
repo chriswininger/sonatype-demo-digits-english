@@ -15,10 +15,18 @@ it('throws ValidationErrorDecimal when a value with a decimal is passed', () => 
 
 // === basic validations ===
 it('handles zero', () => {
+    // handles zero in all its forms
     expect(digitsToEnglish(0)).toBe('zero')
     expect(digitsToEnglish('0')).toBe('zero')
     expect(digitsToEnglish('0000')).toBe('zero')
     expect(digitsToEnglish('-0000')).toBe('zero')
+})
+
+it('handles negative numbers', () => {
+    expect(digitsToEnglish(-1)).toBe('negative one')
+    expect(digitsToEnglish(-12)).toBe('negative twelve')
+    expect(digitsToEnglish(-121)).toBe('negative one hundred twenty-one')
+    expect(digitsToEnglish(-1000000)).toBe('negative one million')
 })
 
 // === range tests ===
