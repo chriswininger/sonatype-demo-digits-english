@@ -74,13 +74,7 @@ export default (strInput) => {
 
             if (strCurrVal.replace(/^0+/, '').length > 0) {
                 const postFix = positionPostfixes[significancePos]
-                let placeSeparator = ''
-                if (strOutput.length > 0) {
-                    if (i !== (len - 1))
-                        placeSeparator = ', '
-                    else
-                        placeSeparator = ' '
-                }
+                let placeSeparator = ' '
 
                 // const placeSeparator = (i === len - 1) ? ' ' : ', '
                 strOutput = _digitsToEnglishThreeDigit(strCurrVal) + ' ' + (postFix || '') +
