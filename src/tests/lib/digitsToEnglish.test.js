@@ -25,7 +25,7 @@ it('handles zero', () => {
 it('handles negative numbers', () => {
     expect(digitsToEnglish(-1)).toBe('negative one')
     expect(digitsToEnglish(-12)).toBe('negative twelve')
-    expect(digitsToEnglish(-121)).toBe('negative one hundred twenty-one')
+    expect(digitsToEnglish(-121)).toBe('negative one hundred twenty one')
     expect(digitsToEnglish(-1000000)).toBe('negative one million')
 })
 

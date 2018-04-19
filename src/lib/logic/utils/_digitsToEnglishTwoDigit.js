@@ -56,7 +56,7 @@ export default (strNum) => {
         return wordMapSingle[strNum]
 
     if (strNum[1] !== '0')
-        return wordMapTens[strNum[0]] + '-' + wordMapSingle[strNum[1]]
+        return wordMapTens[strNum[0]] + ' ' + wordMapSingle[strNum[1]]
     else
         return wordMapTens[strNum[0]]
 }

@@ -42,163 +42,163 @@ exports[`numbers match expected output (full range test) 20`] = `"nineteen"`;
 
 exports[`numbers match expected output (full range test) 21`] = `"twenty"`;
 
-exports[`numbers match expected output (full range test) 22`] = `"twenty-one"`;
+exports[`numbers match expected output (full range test) 22`] = `"twenty one"`;
 
-exports[`numbers match expected output (full range test) 23`] = `"twenty-two"`;
+exports[`numbers match expected output (full range test) 23`] = `"twenty two"`;
 
-exports[`numbers match expected output (full range test) 24`] = `"twenty-three"`;
+exports[`numbers match expected output (full range test) 24`] = `"twenty three"`;
 
-exports[`numbers match expected output (full range test) 25`] = `"twenty-four"`;
+exports[`numbers match expected output (full range test) 25`] = `"twenty four"`;
 
-exports[`numbers match expected output (full range test) 26`] = `"twenty-five"`;
+exports[`numbers match expected output (full range test) 26`] = `"twenty five"`;
 
-exports[`numbers match expected output (full range test) 27`] = `"twenty-six"`;
+exports[`numbers match expected output (full range test) 27`] = `"twenty six"`;
 
-exports[`numbers match expected output (full range test) 28`] = `"twenty-seven"`;
+exports[`numbers match expected output (full range test) 28`] = `"twenty seven"`;
 
-exports[`numbers match expected output (full range test) 29`] = `"twenty-eight"`;
+exports[`numbers match expected output (full range test) 29`] = `"twenty eight"`;
 
-exports[`numbers match expected output (full range test) 30`] = `"twenty-nine"`;
+exports[`numbers match expected output (full range test) 30`] = `"twenty nine"`;
 
 exports[`numbers match expected output (full range test) 31`] = `"thirty"`;
 
-exports[`numbers match expected output (full range test) 32`] = `"thirty-one"`;
+exports[`numbers match expected output (full range test) 32`] = `"thirty one"`;
 
-exports[`numbers match expected output (full range test) 33`] = `"thirty-two"`;
+exports[`numbers match expected output (full range test) 33`] = `"thirty two"`;
 
-exports[`numbers match expected output (full range test) 34`] = `"thirty-three"`;
+exports[`numbers match expected output (full range test) 34`] = `"thirty three"`;
 
-exports[`numbers match expected output (full range test) 35`] = `"thirty-four"`;
+exports[`numbers match expected output (full range test) 35`] = `"thirty four"`;
 
-exports[`numbers match expected output (full range test) 36`] = `"thirty-five"`;
+exports[`numbers match expected output (full range test) 36`] = `"thirty five"`;
 
-exports[`numbers match expected output (full range test) 37`] = `"thirty-six"`;
+exports[`numbers match expected output (full range test) 37`] = `"thirty six"`;
 
-exports[`numbers match expected output (full range test) 38`] = `"thirty-seven"`;
+exports[`numbers match expected output (full range test) 38`] = `"thirty seven"`;
 
-exports[`numbers match expected output (full range test) 39`] = `"thirty-eight"`;
+exports[`numbers match expected output (full range test) 39`] = `"thirty eight"`;
 
-exports[`numbers match expected output (full range test) 40`] = `"thirty-nine"`;
+exports[`numbers match expected output (full range test) 40`] = `"thirty nine"`;
 
 exports[`numbers match expected output (full range test) 41`] = `"forty"`;
 
-exports[`numbers match expected output (full range test) 42`] = `"forty-one"`;
+exports[`numbers match expected output (full range test) 42`] = `"forty one"`;
 
-exports[`numbers match expected output (full range test) 43`] = `"forty-two"`;
+exports[`numbers match expected output (full range test) 43`] = `"forty two"`;
 
-exports[`numbers match expected output (full range test) 44`] = `"forty-three"`;
+exports[`numbers match expected output (full range test) 44`] = `"forty three"`;
 
-exports[`numbers match expected output (full range test) 45`] = `"forty-four"`;
+exports[`numbers match expected output (full range test) 45`] = `"forty four"`;
 
-exports[`numbers match expected output (full range test) 46`] = `"forty-five"`;
+exports[`numbers match expected output (full range test) 46`] = `"forty five"`;
 
-exports[`numbers match expected output (full range test) 47`] = `"forty-six"`;
+exports[`numbers match expected output (full range test) 47`] = `"forty six"`;
 
-exports[`numbers match expected output (full range test) 48`] = `"forty-seven"`;
+exports[`numbers match expected output (full range test) 48`] = `"forty seven"`;
 
-exports[`numbers match expected output (full range test) 49`] = `"forty-eight"`;
+exports[`numbers match expected output (full range test) 49`] = `"forty eight"`;
 
-exports[`numbers match expected output (full range test) 50`] = `"forty-nine"`;
+exports[`numbers match expected output (full range test) 50`] = `"forty nine"`;
 
 exports[`numbers match expected output (full range test) 51`] = `"fifty"`;
 
-exports[`numbers match expected output (full range test) 52`] = `"fifty-one"`;
+exports[`numbers match expected output (full range test) 52`] = `"fifty one"`;
 
-exports[`numbers match expected output (full range test) 53`] = `"fifty-two"`;
+exports[`numbers match expected output (full range test) 53`] = `"fifty two"`;
 
-exports[`numbers match expected output (full range test) 54`] = `"fifty-three"`;
+exports[`numbers match expected output (full range test) 54`] = `"fifty three"`;
 
-exports[`numbers match expected output (full range test) 55`] = `"fifty-four"`;
+exports[`numbers match expected output (full range test) 55`] = `"fifty four"`;
 
-exports[`numbers match expected output (full range test) 56`] = `"fifty-five"`;
+exports[`numbers match expected output (full range test) 56`] = `"fifty five"`;
 
-exports[`numbers match expected output (full range test) 57`] = `"fifty-six"`;
+exports[`numbers match expected output (full range test) 57`] = `"fifty six"`;
 
-exports[`numbers match expected output (full range test) 58`] = `"fifty-seven"`;
+exports[`numbers match expected output (full range test) 58`] = `"fifty seven"`;
 
-exports[`numbers match expected output (full range test) 59`] = `"fifty-eight"`;
+exports[`numbers match expected output (full range test) 59`] = `"fifty eight"`;
 
-exports[`numbers match expected output (full range test) 60`] = `"fifty-nine"`;
+exports[`numbers match expected output (full range test) 60`] = `"fifty nine"`;
 
 exports[`numbers match expected output (full range test) 61`] = `"sixty"`;
 
-exports[`numbers match expected output (full range test) 62`] = `"sixty-one"`;
+exports[`numbers match expected output (full range test) 62`] = `"sixty one"`;
 
-exports[`numbers match expected output (full range test) 63`] = `"sixty-two"`;
+exports[`numbers match expected output (full range test) 63`] = `"sixty two"`;
 
-exports[`numbers match expected output (full range test) 64`] = `"sixty-three"`;
+exports[`numbers match expected output (full range test) 64`] = `"sixty three"`;
 
-exports[`numbers match expected output (full range test) 65`] = `"sixty-four"`;
+exports[`numbers match expected output (full range test) 65`] = `"sixty four"`;
 
-exports[`numbers match expected output (full range test) 66`] = `"sixty-five"`;
+exports[`numbers match expected output (full range test) 66`] = `"sixty five"`;
 
-exports[`numbers match expected output (full range test) 67`] = `"sixty-six"`;
+exports[`numbers match expected output (full range test) 67`] = `"sixty six"`;
 
-exports[`numbers match expected output (full range test) 68`] = `"sixty-seven"`;
+exports[`numbers match expected output (full range test) 68`] = `"sixty seven"`;
 
-exports[`numbers match expected output (full range test) 69`] = `"sixty-eight"`;
+exports[`numbers match expected output (full range test) 69`] = `"sixty eight"`;
 
-exports[`numbers match expected output (full range test) 70`] = `"sixty-nine"`;
+exports[`numbers match expected output (full range test) 70`] = `"sixty nine"`;
 
 exports[`numbers match expected output (full range test) 71`] = `"seventy"`;
 
-exports[`numbers match expected output (full range test) 72`] = `"seventy-one"`;
+exports[`numbers match expected output (full range test) 72`] = `"seventy one"`;
 
-exports[`numbers match expected output (full range test) 73`] = `"seventy-two"`;
+exports[`numbers match expected output (full range test) 73`] = `"seventy two"`;
 
-exports[`numbers match expected output (full range test) 74`] = `"seventy-three"`;
+exports[`numbers match expected output (full range test) 74`] = `"seventy three"`;
 
-exports[`numbers match expected output (full range test) 75`] = `"seventy-four"`;
+exports[`numbers match expected output (full range test) 75`] = `"seventy four"`;
 
-exports[`numbers match expected output (full range test) 76`] = `"seventy-five"`;
+exports[`numbers match expected output (full range test) 76`] = `"seventy five"`;
 
-exports[`numbers match expected output (full range test) 77`] = `"seventy-six"`;
+exports[`numbers match expected output (full range test) 77`] = `"seventy six"`;
 
-exports[`numbers match expected output (full range test) 78`] = `"seventy-seven"`;
+exports[`numbers match expected output (full range test) 78`] = `"seventy seven"`;
 
-exports[`numbers match expected output (full range test) 79`] = `"seventy-eight"`;
+exports[`numbers match expected output (full range test) 79`] = `"seventy eight"`;
 
-exports[`numbers match expected output (full range test) 80`] = `"seventy-nine"`;
+exports[`numbers match expected output (full range test) 80`] = `"seventy nine"`;
 
 exports[`numbers match expected output (full range test) 81`] = `"eighty"`;
 
-exports[`numbers match expected output (full range test) 82`] = `"eighty-one"`;
+exports[`numbers match expected output (full range test) 82`] = `"eighty one"`;
 
-exports[`numbers match expected output (full range test) 83`] = `"eighty-two"`;
+exports[`numbers match expected output (full range test) 83`] = `"eighty two"`;
 
-exports[`numbers match expected output (full range test) 84`] = `"eighty-three"`;
+exports[`numbers match expected output (full range test) 84`] = `"eighty three"`;
 
-exports[`numbers match expected output (full range test) 85`] = `"eighty-four"`;
+exports[`numbers match expected output (full range test) 85`] = `"eighty four"`;
 
-exports[`numbers match expected output (full range test) 86`] = `"eighty-five"`;
+exports[`numbers match expected output (full range test) 86`] = `"eighty five"`;
 
-exports[`numbers match expected output (full range test) 87`] = `"eighty-six"`;
+exports[`numbers match expected output (full range test) 87`] = `"eighty six"`;
 
-exports[`numbers match expected output (full range test) 88`] = `"eighty-seven"`;
+exports[`numbers match expected output (full range test) 88`] = `"eighty seven"`;
 
-exports[`numbers match expected output (full range test) 89`] = `"eighty-eight"`;
+exports[`numbers match expected output (full range test) 89`] = `"eighty eight"`;
 
-exports[`numbers match expected output (full range test) 90`] = `"eighty-nine"`;
+exports[`numbers match expected output (full range test) 90`] = `"eighty nine"`;
 
 exports[`numbers match expected output (full range test) 91`] = `"ninety"`;
 
-exports[`numbers match expected output (full range test) 92`] = `"ninety-one"`;
+exports[`numbers match expected output (full range test) 92`] = `"ninety one"`;
 
-exports[`numbers match expected output (full range test) 93`] = `"ninety-two"`;
+exports[`numbers match expected output (full range test) 93`] = `"ninety two"`;
 
-exports[`numbers match expected output (full range test) 94`] = `"ninety-three"`;
+exports[`numbers match expected output (full range test) 94`] = `"ninety three"`;
 
-exports[`numbers match expected output (full range test) 95`] = `"ninety-four"`;
+exports[`numbers match expected output (full range test) 95`] = `"ninety four"`;
 
-exports[`numbers match expected output (full range test) 96`] = `"ninety-five"`;
+exports[`numbers match expected output (full range test) 96`] = `"ninety five"`;
 
-exports[`numbers match expected output (full range test) 97`] = `"ninety-six"`;
+exports[`numbers match expected output (full range test) 97`] = `"ninety six"`;
 
-exports[`numbers match expected output (full range test) 98`] = `"ninety-seven"`;
+exports[`numbers match expected output (full range test) 98`] = `"ninety seven"`;
 
-exports[`numbers match expected output (full range test) 99`] = `"ninety-eight"`;
+exports[`numbers match expected output (full range test) 99`] = `"ninety eight"`;
 
-exports[`numbers match expected output (full range test) 100`] = `"ninety-nine"`;
+exports[`numbers match expected output (full range test) 100`] = `"ninety nine"`;
 
 exports[`throws TypeError when a non-string value is passed 1`] = `"_digitsToEnglishTwoDigit only accepts strings"`;
 
