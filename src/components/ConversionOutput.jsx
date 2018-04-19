@@ -1,27 +1,25 @@
 import React from 'react'
-import digitsToEnglish from '../lib/logic/digitsToEnglish'
 
 export  default (props) => {
-    const getOutput = value => {
-        let val = ''
-
-        try {
-            val = digitsToEnglish(value)
-        } catch(err) {
-            console.error(err)
-        }
-
-        return val
-    }
-
     return (
       <div className="wrapper-output-eng-text">
           <div>
-            <label className="output-eng-text">{ getOutput(props.value) }</label>
+            <p className="output-eng-text">{ props.value }</p>
           </div>
           <div>
-              <label className="error"></label>
+              <label className="error">{ props.error }</label>
           </div>
+
+        { /* Begin styling for component */ }
+        <style jsx>{`
+          p::first-letter {
+            text-transform: uppercase;
+          }
+
+          .error {
+            color: red
+          }
+        `}</style>
       </div>
     )
 }

@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 import digitsToEnglishFrom from './lib/logic/digitsToEnglish'
-import ConversionInput from './components/ConversionInput'
+import ConversionComponent from './components/ConversionComponent'
 
 class App extends Component {
   render() {
@@ -11,12 +11,17 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Welcome to React</h1>
+          <h1 className="App-title">Digits To English</h1>
         </header>
-       <ConversionInput
-         value={5400}
+       <ConversionComponent
+         value={0}
        />
+
+        <style jsx>{`
+          header {
+            margin-bottom: 0.5em
+          }
+        `}</style>
       </div>
     );
   }
